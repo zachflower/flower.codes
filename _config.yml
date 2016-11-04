@@ -1,7 +1,7 @@
 title: zachflower
 description: Freelance web developer, writer, and consultant in Boulder, Colorado.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://hitchhiker.ma" # the base hostname & protocol for your site
+url: "https://zacharyflower.com" # the base hostname & protocol for your site
 author:
   fullname: Zachary Flower
   # googleplus: https://www.google.com/+MotaquillahMaddane
