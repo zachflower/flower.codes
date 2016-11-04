@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Good Code Is Subjective (Documentation Isn't)"
+title:  "Good Code Is Subjective, Documentation Is Not"
 date:   2016-09-08 12:00:00
 categories: [writing]
 ---
