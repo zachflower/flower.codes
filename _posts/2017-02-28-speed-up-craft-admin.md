@@ -30,7 +30,6 @@ To demonstrate the issue at hand, let's perform a quick anecdotal benchmark on t
 
 
 ![Craft Admin Resources]({{ site.url }}/assets/posts/craft-1.png)
-*Craft Admin Resources*
 
 As you can see, a large handful of Craft's admin resources take over a second to load on a small server with only one user. While this doesn't immediately scream **PROBLEM**, routing all admin resources through the Craft core can become very expensive very quickly, as the number of users in the admin panel *directly* affects the rest of the non-admin users by taking up valuable resources.
 
@@ -42,7 +41,6 @@ Believe it or not, accomplishing this is *incredibly* simple. All we have to do 
 
 
 ![Craft Admin Resources]({{ site.url }}/assets/posts/craft-2.png)
-*Craft Admin Resources*
 
 It should be noted here that, while copying the admin resources into a publicly accessible directory is a fast and simple fix, it doesn't account for Craft updates. Making this solution future-proof is out of the scope of this post, however in an environment that offers atomic deployments like Heroku, establishing a build-process to keep the `admin/public/resources` folder in sync with the `craft/app/resources` is a relatively straightforward process.
 
