@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Speeding Up the Craft CMS Admin Dashboard"
+title:  "(Updated) Speeding Up the Craft CMS Admin Dashboard"
 date:   2017-02-27 12:00:00
 categories: [tutorials]
 ---
@@ -45,3 +45,13 @@ Believe it or not, accomplishing this is *incredibly* simple. All we have to do 
 It should be noted here that, while copying the admin resources into a publicly accessible directory is a fast and simple fix, it doesn't account for Craft updates. Making this solution future-proof is out of the scope of this post, however in an environment that offers atomic deployments like Heroku, establishing a build-process to keep the `admin/public/resources` folder in sync with the `craft/app/resources` is a relatively straightforward process.
 
 Craft is far from a perfect CMS solution, but perfect or not, its popularity warrants a clear understanding of its limitations. While Craft's admin panel can be a significant resource hog, this quick fix is a viable solution that will help reduce cost and improve the end-user experience.
+
+## (Update 2017-11-16) And now, a plugin!
+
+I received an email today from [Matt Shearing](https://github.com/matt-adigital), a developer over at [A Digital](http://www.adigital.co.uk), about a [Craft plugin](https://github.com/a-digital/cmsspeedup) they created that automates this process a bit. Because he did a better job explaining what his own plugin does than I would be able to, here's an excerpt from the email he sent me:
+
+> ... I noticed your warning around updates to the cms and decided to create a plugin around this.
+> 
+> The initial install copies the files automatically, and whenever an update to the cms occurs, it removes this new folder and then repeats the initial process to create a fresh copy. When the plugin is uninstalled it completely removes our folder.
+> 
+> This was just done internally so that we don’t need to keep on copying the files. If this helps you or any of your readers though, I’ve made it available on GitHub here: [https://github.com/a-digital/cmsspeedup](https://github.com/a-digital/cmsspeedup)...
