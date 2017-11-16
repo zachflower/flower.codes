@@ -54,4 +54,4 @@ _...I noticed your warning around updates to the cms and decided to create a plu
 
 _The initial install copies the files automatically, and whenever an update to the cms occurs, it removes this new folder and then repeats the initial process to create a fresh copy. When the plugin is uninstalled it completely removes our folder._
 
-_This was just done internally so that we don’t need to keep on copying the files. If this helps you or any of your readers though, I’ve made it available on GitHub here: https://github.com/a-digital/cmsspeedup..._
+_This was just done internally so that we don’t need to keep on copying the files. If this helps you or any of your readers though, I’ve made it available on GitHub here: [https://github.com/a-digital/cmsspeedup](https://github.com/a-digital/cmsspeedup)..._
