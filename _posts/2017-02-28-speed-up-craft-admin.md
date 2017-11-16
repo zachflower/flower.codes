@@ -50,10 +50,8 @@ Craft is far from a perfect CMS solution, but perfect or not, its popularity war
 
 I received an email today from [Matt Shearing](https://github.com/matt-adigital), a developer over at [A Digital](http://www.adigital.co.uk), about a [Craft plugin](https://github.com/a-digital/cmsspeedup) they created that automates this process a bit. Because he did a better job explaining what his own plugin does than I would be able to, here's an excerpt from the email he sent me:
 
-```
-...I noticed your warning around updates to the cms and decided to create a plugin around this.
+_...I noticed your warning around updates to the cms and decided to create a plugin around this._
 
-The initial install copies the files automatically, and whenever an update to the cms occurs, it removes this new folder and then repeats the initial process to create a fresh copy. When the plugin is uninstalled it completely removes our folder.
+_The initial install copies the files automatically, and whenever an update to the cms occurs, it removes this new folder and then repeats the initial process to create a fresh copy. When the plugin is uninstalled it completely removes our folder._
 
-This was just done internally so that we don’t need to keep on copying the files. If this helps you or any of your readers though, I’ve made it available on GitHub here: https://github.com/a-digital/cmsspeedup...
-```
+_This was just done internally so that we don’t need to keep on copying the files. If this helps you or any of your readers though, I’ve made it available on GitHub here: https://github.com/a-digital/cmsspeedup..._
