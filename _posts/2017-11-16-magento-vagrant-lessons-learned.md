@@ -6,9 +6,9 @@ categories: [tutorials]
 ---
 Let's get this out of the way first: Magento is by far the single-most inefficient framework I have ever had the displeasure of working with.
 
-While I've made a similar statement about Craft CMS in the past, after a week working with Magento 2 I happily rescind my earlier Craft criticisms. All whining aside, though, in the contract development game you don't always get to choose your technology stack; like it or not, the work has to get done and the bills have to get paid.
+While I've made a similar statement about [Craft CMS](https://zacharyflower.com/tutorials/2017/02/27/speed-up-craft-admin.html) in the past, after a week working with Magento 2 I happily rescind my earlier Craft criticisms. All whining aside, though, in the contract development game you don't always get to choose your technology stack; like it or not, the work has to get done and the bills have to get paid.
 
-What we _do_ get to choose, in most situations, is our toolset. One tool I am unnecessarily passionate about is Vagrant. For the uninitiated, Vagrant is a virtual machine orchestration platform that is used by development teams to automate the creation and management of development environments; in other words, Vagrant makes life easier.
+What we _do_ get to choose, in most situations, is our toolset. One tool I am unnecessarily passionate about is [Vagrant](https://www.vagrantup.com/). For the uninitiated, Vagrant is a virtual machine orchestration platform that is used by development teams to automate the creation and management of development environments; in other words, Vagrant makes life easier.
 
 Unfortunately, as much as I love Vagrant, its out-of-the-box configuration does _not_ play nicely with Magento—which, as I alluded to above, is a massive resource hog. So, in addition to the Magento development project I've had, my past several days have been also devoted to getting the development environment running as efficiently as possible. While there's not a _ton_ that you can do, I did learn a few things to make life with Magento + Vagrant easier (although these tips would also be beneficial to _anyone_ trying to develop against inefficient applications on Vagrant).
 
