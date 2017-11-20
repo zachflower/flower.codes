@@ -7,7 +7,8 @@ sitemap:
 ---
 
 <ul class="list-posts">
-  {% for post in site.portfolio %}
+  {% assign posts = site.portfolio | sort: 'date' %}
+  {% for post in posts reversed %}
     <li class="post-teaser">
       <a href="{{ post.external_url }}" class="external-site" target="_blank">
         <span class="post-teaser__title {{ post.external_site }}">{{ post.title }}</span>
