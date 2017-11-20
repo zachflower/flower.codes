@@ -307,10 +307,16 @@ strong {
 
 /* =Custom styles */
 a.external-site:hover {
-    &.techtarget {
-        .post-teaser__title {
-            color: rgb(18, 133, 128) !important;
-        }
+    .techtarget {
+        color: rgb(18, 133, 128) !important;
+    }
+
+    .rollbar {
+        color: rgb(56, 90, 121) !important;
+    }
+
+    .pagerduty {
+        color: rgb(40, 191, 86) !important;
     }
 }
 

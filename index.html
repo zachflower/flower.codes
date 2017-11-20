@@ -10,8 +10,8 @@ sitemap:
   {% for post in site.posts %}
     <li class="post-teaser">
       {% if post.external_url %}
-        <a href="{{ post.external_url }}" class="external-site {{ post.external_site }}" target="_blank">
-          <span class="post-teaser__title">{{ post.title }}</span>
+        <a href="{{ post.external_url }}" class="external-site" target="_blank">
+          <span class="post-teaser__title {{ post.external_site }}">{{ post.title }}</span>
           <span class="post-teaser__date">{{ post.date | date: "%d %B %Y" }}</span>
         </a>
       {% else %}        
