@@ -21,3 +21,5 @@ highlighter: null
 markdown: kramdown
 sass:
   style: compressed
+collections:
+- portfolio

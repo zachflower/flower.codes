@@ -1,0 +1,18 @@
+---
+layout: page
+title: Portfolio
+subtitle: $ ls -alh /dev/zachflower
+sitemap:
+  priority: 0.9
+---
+
+<ul class="list-posts">
+  {% for post in site.portfolio %}
+    <li class="post-teaser">
+      <a href="{{ post.external_url }}" class="external-site" target="_blank">
+        <span class="post-teaser__title {{ post.external_site }}">{{ post.title }}</span>
+        <span class="post-teaser__date">{{ post.date | date: "%d %B %Y" }}</span>
+      </a>
+    </li>
+  {% endfor %}
+</ul>
