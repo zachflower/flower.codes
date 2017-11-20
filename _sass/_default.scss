@@ -9,10 +9,6 @@ a {
     color: $cloudy;
     font-weight: bold;
     text-decoration: none;
-
-    &:hover {
-
-    }
 }
 
 p {
@@ -160,6 +156,11 @@ strong {
 }
 
 .post-teaser__title {
+    display: inline-block;
+    max-width: 640px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
     font-size: 22px;
     color: $iron;
 }
@@ -245,7 +246,7 @@ strong {
     margin-top: 100px;
 }
 
-@media (max-width: 800px) {
+@media (max-width: 850px) {
     /* =Base */
     p {
         font-size: 16px;
@@ -301,5 +302,29 @@ strong {
 
     .post-title__subtitle {
         font-size: 18px;
+    }
+}
+
+/* =Custom styles */
+a.external-site:hover {
+    &.techtarget {
+        .post-teaser__title {
+            color: rgb(18, 133, 128) !important;
+        }
+    }
+}
+
+a.external-site {
+    .post-teaser__title {
+        transition: color 0.5s ease;
+
+        &:before {
+            font-family: FontAwesome;
+            content: "\f08e";
+            opacity: .5;
+            font-size: 12px;
+            margin-right: 10px;
+            vertical-align: middle;
+        }
     }
 }
