@@ -1,8 +1,8 @@
 pipeline:
   build:
     image: jekyll/builder
-    user: root
     commands:
+      - chown -R jekyll:jekyll /drone
       - jekyll build
   #deploy:
   #  image: ruby
