@@ -13,6 +13,5 @@ pipeline:
         from_secret: docker_password
       repo: registry.flower.codes/blog
       tags: latest
-      registry: registry.flower.codes
 
 branches: master
