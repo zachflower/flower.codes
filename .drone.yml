@@ -6,13 +6,13 @@ pipeline:
       - jekyll build
   publish:
     image: plugins/docker
-		settings:
-			username:
-				from_secret: docker_username
-			password:
-				from_secret: docker_password
-			auto_tag: true
-			repo: registry.flower.codes/blog
-			registry: registry.flower.codes
+    settings:
+      username:
+        from_secret: docker_username
+      password:
+        from_secret: docker_password
+      auto_tag: true
+      repo: registry.flower.codes/blog
+      registry: registry.flower.codes
 
 branches: master
