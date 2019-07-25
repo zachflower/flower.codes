@@ -1,3 +1,5 @@
+[![Build Status](https://drone.flower.codes/api/badges/zach/blog/status.svg)](https://drone.flower.codes/zach/blog)
+
 # Daktilo
 Daktilo is a [Jekyll](jekyllrb.com) theme with a minimal design inspired from typewriters.
 
