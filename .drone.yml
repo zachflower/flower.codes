@@ -11,7 +11,7 @@ pipeline:
         from_secret: docker_username
       password:
         from_secret: docker_password
-      auto_tag: true
+      tag: latest
       repo: registry.flower.codes/blog
       registry: registry.flower.codes
 
