@@ -4,17 +4,17 @@ name: default
 steps:
   - name: build
     image: jekyll/builder
-		volumes:
-		- name: cache
-			path: /drone/src
+    volumes:
+    - name: cache
+      path: /drone/src
     commands:
       - chown -R jekyll:jekyll /drone
       - jekyll build
   - name: publish
     image: plugins/docker
-		volumes:
-		- name: cache
-			path: /drone/src
+    volumes:
+    - name: cache
+      path: /drone/src
     settings:
       username: 
         from_secret: docker_username
