@@ -1,6 +1,7 @@
 pipeline:
   build:
     image: jekyll/builder
+    user: root
     commands:
       - jekyll build
   #deploy:
