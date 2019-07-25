@@ -1,14 +1,33 @@
-pipeline:
-  build:
+kind: pipeline
+name: default
+
+steps:
+  - name: build
     image: jekyll/builder
+		volumes:
+		- name: cache
+			path: /drone/src
     commands:
       - chown -R jekyll:jekyll /drone
       - jekyll build
-  publish:
+  - name: publish
     image: plugins/docker
-    secrets: [ docker_username, docker_password ]
-    repo: registry.flower.codes/blog
-    registry: registry.flower.codes
-    auto_tag: true
+		volumes:
+		- name: cache
+			path: /drone/src
+    settings:
+      username: 
+        from_secret: docker_username
+      password:
+        from_secret: docker_password
+      repo: registry.flower.codes/blog
+      registry: registry.flower.codes
+      auto_tag: true
 
-branches: master
+trigger:
+  branch:
+  - master
+
+volumes:
+- name: cache
+  temp: {}
