@@ -1,0 +1,7 @@
+<!-- Disable unsafe inline/eval, only allow loading of resources (images, fonts, scripts, etc.) over https -->
+<!-- Note that this does not provide any XSS protection -->
+<meta http-equiv="Content-Security-Policy" content="default-src https:">
+
+<!-- Disable referrers for browsers that don't support strict-origin-when-cross-origin -->
+<!-- Uses strict-origin-when-cross-origin for browsers that do -->
+<meta http-equiv="Referrer-Policy" content="no-referrer, strict-origin-when-cross-origin">
