@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-subtitle: $ man zachflower
+subtitle: $ whois flower.codes 
 permalink: /about/
 ---
 
