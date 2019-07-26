@@ -1,15 +1,13 @@
 [![Build Status](https://drone.flower.codes/api/badges/zach/blog/status.svg)](https://drone.flower.codes/zach/blog)
 
-# Daktilo
-Daktilo is a [Jekyll](jekyllrb.com) theme with a minimal design inspired from typewriters.
+# Blog
+This blog uses Daktilo, a [Jekyll](jekyllrb.com) theme with a minimal design inspired from typewriters.
 
 # More info and Live preview
 [Click here](http://daktilo.github.io/) to see the theme in action.
 
 # Features
 - Fully responsive
-- [Disqus](https://disqus.com/) integration for comments.
-- Google Analytics integration.
 - Syntax Highlighter (using [highlight.js](https://highlightjs.org/)).
 - Support for categories.
 - Font-Awesome Icons.
