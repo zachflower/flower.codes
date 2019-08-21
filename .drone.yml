@@ -15,7 +15,7 @@ steps:
     commands:
       - npm install exoframe -g
       - exoframe endpoint https://exoframe.flower.codes 
-      - exoframe deploy -t $TOKEN
+      - exoframe deploy -v -u -t $TOKEN
 
 trigger:
   branch:
