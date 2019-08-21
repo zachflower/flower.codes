@@ -7,16 +7,14 @@ steps:
     commands:
       - chown -R jekyll:jekyll /drone
       - jekyll build
-  - name: publish
-    image: plugins/docker
-    settings:
-      username: 
-        from_secret: docker_username
-      password:
-        from_secret: docker_password
-      repo: registry.flower.codes/blog
-      registry: registry.flower.codes
-      auto_tag: true
+  - name: deploy 
+    image: node
+    environment:
+      TOKEN:
+        from_secret: exoframe_token 
+    commands:
+      - npm install exoframe -g
+      - exoframe deploy -t $TOKEN
 
 trigger:
   branch:
