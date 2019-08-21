@@ -1,4 +1,5 @@
 {
   "name": "flower.codes",
+  "domain": "flower.codes",
   "restart": "always"
 }
