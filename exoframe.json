@@ -2,7 +2,7 @@
   "name": "flower.codes",
   "domain": "flower.codes",
   "restart": "always",
-  "labels": [
+  "labels": {
     "traefik.frontend.passHostHeader": "true",
     "traefik.frontend.headers.browserXSSFilter": "true",
     "traefik.frontend.headers.forceSTSHeader": "true",
@@ -14,5 +14,5 @@
     "traefik.frontend.headers.customFrameOptionsValue": "SAMEORIGIN",
     "traefik.frontend.headers.contentTypeNosniff": "true",
     "traefik.frontend.headers.referrerPolicy": "no-referrer, strict-origin-when-cross-origin"
-  ]
+  }
 }
