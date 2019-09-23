@@ -1,4 +1,4 @@
-[![Build Status](https://drone.flower.codes/api/badges/zach/blog/status.svg)](https://drone.flower.codes/zach/blog)
+[![Build Status](https://drone.flower.codes/api/badges/zach/flower.codes/status.svg)](https://drone.flower.codes/zach/flower.codes)
 
 # Blog
 This blog uses Daktilo, a [Jekyll](jekyllrb.com) theme with a minimal design inspired from typewriters.
