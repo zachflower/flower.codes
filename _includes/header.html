@@ -10,20 +10,31 @@
   </div>
 
   <ul class="social-links">
+    {% if site.author.git %}
+      <a href="{{ site.author.git }}" class="social-links__entry" target="_blank">
+        <i class="fas fa-code"></i>
+      </a>
+    {% endif %}
     {% if site.author.github %}
       <a href="https://github.com/{{ site.author.github }}" class="social-links__entry" target="_blank">
-        <i class="fa fa-github"></i>
+        <i class="fab fa-github"></i>
       </a>
     {% endif %}
 
     {% if site.author.twitter %}
       <a href="https://twitter.com/{{ site.author.twitter }}" class="social-links__entry" target="_blank">
-        <i class="fa fa-twitter"></i>
+        <i class="fab fa-twitter"></i>
+      </a>
+    {% endif %}
+
+    {% if site.author.mastodon %}
+      <a href="{{ site.author.mastodon }}" class="social-links__entry" target="_blank">
+        <i class="fab fa-mastodon"></i>
       </a>
     {% endif %}
 
     <a href="{{ site.url }}/feed.xml" class="social-links__entry" target="_blank">
-      <i class="fa fa-rss"></i>
+      <i class="fas fa-rss"></i>
     </a>
   </ul>
 </header>

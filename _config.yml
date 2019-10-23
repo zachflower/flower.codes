@@ -5,10 +5,10 @@ url: "https://flower.codes" # the base hostname & protocol for your site
 cover: /assets/avatar.jpg
 author:
   fullname: Zachary Flower
-  # googleplus: https://www.google.com/+MotaquillahMaddane
-  #github: zachflower
-  twitter: zachflower
-  #disqus: zachflower
+  # github: zachflower
+  # twitter: zachflower
+  git: https://git.flower.codes/zach/
+  mastodon: https://mastodon.technology/@zachflower
 #google_analytics: 'UA-99039416-1'
 # Syntax highlighting
 highlightstyle: 'solarized_dark'
