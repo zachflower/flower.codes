@@ -13,7 +13,7 @@ steps:
       TOKEN:
         from_secret: exoframe_token 
     commands:
-      - npm install exoframe@5.1.0 -g
+      - npm install exoframe@^5.2.1 -g
       - exoframe endpoint https://exoframe.flower.codes 
       - exoframe deploy -v -u -t $TOKEN
 
