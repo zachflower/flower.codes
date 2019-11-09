@@ -10,7 +10,7 @@
     "traefik.frontend.headers.STSIncludeSubdomains": "true",
     "traefik.frontend.headers.STSPreload": "true",
     "traefik.frontend.headers.frameDeny": "true",
-    "traefik.frontend.headers.contentSecurityPolicy": "default-src 'none'; object-src 'none'; script-src 'self' analytics.flower.codes; connect-src 'self'; img-src 'self'; style-src 'self' fonts.googleapis.com; font-src 'self' fonts.gstatic.com; frame-ancestors 'self'; base-uri 'self'; form-action 'self';",
+    "traefik.frontend.headers.contentSecurityPolicy": "default-src 'none'; object-src 'none'; script-src 'self' analytics.flower.codes; connect-src 'self'; img-src 'self' analytics.flower.codes; style-src 'self' fonts.googleapis.com; font-src 'self' fonts.gstatic.com; frame-ancestors 'self'; base-uri 'self'; form-action 'self';",
     "traefik.frontend.headers.customFrameOptionsValue": "SAMEORIGIN",
     "traefik.frontend.headers.contentTypeNosniff": "true",
     "traefik.frontend.headers.referrerPolicy": "no-referrer, strict-origin-when-cross-origin"
