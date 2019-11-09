@@ -5,7 +5,7 @@ subtitle: $ whois flower.codes
 permalink: /about/
 ---
 
-![Zachary Flower](/assets/avatar.jpg){: style="float: left; margin: 0 20px 20px 0;"}
+![Zachary Flower](/assets/avatar.jpg)
 
 Hi, my name is Zach and I'm a Principal Software Engineer at [Automox](https://www.automox.com/), a cloud-based patch management solution in Boulder, CO ([we're hiring](https://www.automox.com/careers)).
 
