@@ -5,8 +5,8 @@ url: "https://flower.codes" # the base hostname & protocol for your site
 cover: /assets/avatar.jpg
 author:
   fullname: Zachary Flower
-  github: zachflower
-  twitter: zachflower
+  #github: zachflower
+  #twitter: zachflower
   git: https://git.flower.codes/zach/
   mastodon: https://mastodon.technology/@zachflower
 # Syntax highlighting
