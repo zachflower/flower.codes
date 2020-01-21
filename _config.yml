@@ -1,7 +1,7 @@
 title: flower.codes 
 description: Software developer, writer, and avid indoorsman from Golden, Colorado.
-baseurl: "/flower.codes" # the subpath of your site, e.g. /blog/
-url: "https://zachflower.github.io" # the base hostname & protocol for your site
+baseurl: "/" # the subpath of your site, e.g. /blog/
+url: "https://flower.codes" # the base hostname & protocol for your site
 cover: /assets/avatar.jpg
 author:
   fullname: Zachary Flower
