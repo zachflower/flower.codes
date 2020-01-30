@@ -50,6 +50,7 @@ With our directory structure in place, we next need to create our Docker Compose
 
 ```yaml
 version: '3'
+
 services:
   ezstream:
     image: dashultz/ezstream:latest
@@ -73,6 +74,7 @@ services:
       - '8000:8000'
     networks:
       - radio
+
 networks:
   radio:
     driver: bridge
@@ -222,7 +224,7 @@ sudo docker-compose up -d
 
 In a nutshell, what this command does is reads the `docker-compose.yaml` file and, based on its contents, starts our two defined services in the background (which is what the `-d` option does). If you'd like to see what Docker containers are currently running, you can always execute the `sudo docker ps` command, which will return something like this:
 
-```txt
+```
 CONTAINER ID        IMAGE                             COMMAND                  CREATED             STATUS                 PORTS                                      NAMES
 a5b594cc63bb        dashultz/ezstream:latest          "/usr/bin/ezstream -…"   3 days ago          Up 3 days                                                         radio_ezstream_1
 45ccfa0f31ba        infiniteproject/icecast:latest    "/entrypoint.sh /bin…"   2 weeks ago         Up 3 days              0.0.0.0:8000->8000/tcp                     radio_icecast_1
