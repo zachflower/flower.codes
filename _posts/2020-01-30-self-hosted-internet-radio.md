@@ -52,6 +52,7 @@ With our directory structure in place, we next need to create our Docker Compose
 version: '3'
 
 services:
+
   ezstream:
     image: dashultz/ezstream:latest
     restart: always
@@ -60,6 +61,7 @@ services:
       - '/opt/radio/media:/media:ro'
     networks:
       - radio
+
   icecast:
     image: infiniteproject/icecast:latest
     restart: always
