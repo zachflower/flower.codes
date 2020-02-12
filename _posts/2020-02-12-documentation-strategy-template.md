@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Establishing a Documentation Strategy"
-subtitle: "A Template"
+subtitle: "A Practical Template"
 date: 2020-02-12 12:00:00
 categories: [writing]
 ---
