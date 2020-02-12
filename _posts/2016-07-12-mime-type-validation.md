@@ -2,7 +2,7 @@
 layout: post
 title:  "MIME Type Validation Isn't Good Enough"
 date:   2016-07-12 12:00:00
-categories: [writing]
+categories: [quality]
 ---
 An uncomfortable majority of companies that offer high storage limits for specific file types have a major problem: MIME type validation isn't good enough.
 

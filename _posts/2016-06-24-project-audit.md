@@ -2,7 +2,7 @@
 layout: post
 title:  "How (and why) to Perform a Project Audit"
 date:   2016-06-24 12:00:00
-categories: [writing]
+categories: [general]
 ---
 As a freelance developer, I am occasionally asked to audit projects that have had the majority of development outsourced. While outsourcing isn’t an intrinsically bad thing, managing an outsourced product requires you to walk a very fine line between "bootstrapped" and "cheap."
 

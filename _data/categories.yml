@@ -1,3 +1,6 @@
+- slug: general
+  name: General
+
 - slug: projects
   name: Projects
 
@@ -6,3 +9,6 @@
 
 - slug: tutorials
   name: Tutorials
+
+- slug: quality
+  name: Quality

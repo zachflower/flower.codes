@@ -2,7 +2,7 @@
 layout: post
 title:  "Convenience Is Making Me Lazy and Poor"
 date:   2016-07-03 12:00:00
-categories: [writing]
+categories: [general]
 ---
 Spotify. Hulu. Netflix. Amazon Prime. Evernote. Dropbox. Google Apps. iCloud. Stop me when you get the point.
 
@@ -16,9 +16,9 @@ Over the next several years, I continued to do things the hard way. When given t
 
 Then I got a real job.
 
-It’s amazing how a little bit of money changes the way you think. Suddenly, all the things I shunned became financially viable. It didn’t take long for me to change my perspective. It sure would be nice to listen to all the music in the world whenever I want… Oh, hello Spotify! Managing my own mail server sure is a pain in the ass… Nice to meet you Google Apps!
+It’s amazing how a little bit of money changes the way you think. Suddenly, all the things I shunned became financially viable. It didn’t take long for me to change my perspective. It sure would be nice to listen to all the music in the world whenever I want... Oh, hello Spotify! Managing my own mail server sure is a pain in the ass... Nice to meet you Google Apps!
 
-Obviously, I’m not the only one. It seems like practically every company leans heavily on the concept of providing convenience (for a price). Dropbox took the overhead out of managing your own version control system. Uber provided private chauffers to the common man. AirBnb made it easy for people to rent **_castles_**.
+Obviously, I’m not the only one. It seems like practically every company leans heavily on the concept of providing convenience (for a price). GitHub took the overhead out of managing your own version control system. Uber provided private chauffeurs to the common man. AirBnb made it easy for people to rent **_castles_**.
 
 Convenience isn’t a bad thing. There are services I will gladly pay for in perpetuity because they provide me so much value (Plex and Amazon Prime are two great examples), but I truly miss the rush that came from building my own solutions to problems.
 
