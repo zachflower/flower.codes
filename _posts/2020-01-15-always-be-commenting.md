@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "# Always Be Commenting"
-#date: 2020-02-12 12:00:00
+date: 2020-01-15 12:00:00
 categories: [writing]
 ---
 
@@ -64,7 +64,7 @@ end
 
 *Source: Ruby on Rails \([https://github.com/rails/rails](https://github.com/rails/rails)\)*
 
-In a perfect world, the above module wouldn't exist, but as the comments explain, it *has* to for now. Without the clear explanation provided by these comments, this module might be inadvertently removed, which would cause all kinds of havoc for the sake of "clarity." Explaining *why* a piece of code exists is crucial, especially if the reason isn't immediately obvious. As much as we like to pretend all good software is clear and easy to read, that assertion simply doesn't coincide with the reality of the *business* of software development. Plans change, goals shift, and good code today couldeasily become legacy code tomorrow.
+In a perfect world, the above module wouldn't exist, but as the comments explain, it *has* to for now. Without the clear explanation provided by these comments, this module might be inadvertently removed, which would cause all kinds of havoc for the sake of "clarity." Explaining *why* a piece of code exists is crucial, especially if the reason isn't immediately obvious. As much as we like to pretend all good software is clear and easy to read, that assertion simply doesn't coincide with the reality of the *business* of software development. Plans change, goals shift, and good code today could easily become legacy code tomorrow.
 
 ### The What
 
@@ -92,7 +92,7 @@ While many developers would encourage simply looking directly at the function co
 
 ## The Code Comment Controversy
 
-In an industry filled with flame wars like VIM versus Emacs and PHP versus... well... everyone, one of the most surprising hot button issues is whether or not developers should write code comments. To sum it up, the "no comment" camp advocates against writing code comments because they clutter up the code, have a tendency to become outdated, and are redundant—because you can just read the code to find out what it does; to all of which, I say "grow up."
+In an industry filled with flame wars like VIM versus Emacs and PHP versus... well... everyone, one of the most surprising hot button issues is whether or not developers should write code comments. To sum it up, the "no comment" camp advocates against writing code comments because they clutter up the code, have a tendency to become outdated, and are redundant—because you can just read the code to find out what it does; to all of which, I say "[grow up](/2016/09/08/good-code-is-subjective.html)."
 
 Look... I get it, writing proper comments isn't always fun, but when it comes down to it those comments aren't for you; they're for the next poor sap who has to look at your code—who, let's face it, might actually *be* you. Despite the cliche of the scruffy, basement-dwelling code monkey, software development doesn't happen in a vacuum. It involves a significant amount of collaboration and education to be successful, and even then finding common ground on difficult issues is an exercise in patience, empathy, and compromise.
 
@@ -109,5 +109,3 @@ If someone told you that they prefer not to write unit tests because they take e
 ### Point 3: Comment Redundancy
 
 Not all code is created equal, because not all developers are created equal. We all have different experiences and habits that guide us to slightly different ways to solve the same problems. This difference in thought processes is the primary benefit of code comments. While it may seem redundant to explain your code when "it's already right there," this information could be incredibly valuable to new developers, or even experienced developers who are unfamiliar with the language or framework you are using.
-
-## Conclusion
