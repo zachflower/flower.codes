@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "I'm Not a Writer (and So Can You!)"
+title:  "I'm Not a Writer"
+subtitle: "And So Can You!"
 date:   2016-06-04 12:00:00
 categories: [writing]
 ---
