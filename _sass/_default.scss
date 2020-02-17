@@ -92,8 +92,9 @@ strong {
 
 /* =Titles */
 .page-title {
-    margin-top:100px;
-    margin-bottom:125px;
+    background-color: $iron;
+    color: $whispy;
+    padding:120px 60px;
     text-align: center;
 }
 
@@ -106,10 +107,6 @@ strong {
     font-weight: 400;
     font-size: 22px;
     color: $cloudy;
-}
-
-.post-title {
-    margin-bottom: 110px;
 }
 
 .post-title__text {
@@ -245,8 +242,7 @@ strong {
     }
 
     .page-title {
-        margin-top: 80px;
-        margin-bottom: 60px;
+        padding: 80px 20px;
     }
 
     .page-title__text {
