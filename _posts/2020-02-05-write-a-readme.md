@@ -281,7 +281,7 @@ Software development tools have improved a lot since the days of white text on b
 
 While most markup languages offer some form of code highlighting, highlighting code snippets in Markdown is about as straightforward as it comes. By tagging them with the name of the programming language, Markdown code blocks can be turned from this:
 
-```
+```txt
 class Hello
   def self.world
     puts "Hello, world!"
