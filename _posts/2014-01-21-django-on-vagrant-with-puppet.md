@@ -2,7 +2,7 @@
 layout: post
 title: Running Django Automatically in Vagrant Using Puppet
 date: 2014-01-21 12:00:00
-permalink: running-django-automatically-in-vagrant-using-puppet
+permalink: running-django-automatically-in-vagrant-using-puppet/
 ---
 Recently, I set up a Vagrant box that was running [Django](https://www.djangoproject.com/), the Python-based web framework. One thing I quickly learned is that Django cannot run as a daemon. After hours of Googling and stressing out, I remembered one of my favorite tools: [GNU Screen](https://www.gnu.org/software/screen/). GNU Screen is a terminal-based window manager that lets you detach running processes, and connect back to them later. Unlike nohup, screen is an excellent way to manage long-running scripts, as you can interact with them later.
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "Introducing Eloquent Interactions: A Command Pattern Implementation for Laravel"
 date:   2018-03-09 10:00:00
-permalink: introducing-eloquent-interactions-a-command-pattern-implementation-for-laravel
+permalink: introducing-eloquent-interactions-a-command-pattern-implementation-for-laravel/
 ---
 
 A couple years ago, I was working on a monolithic Ruby on Rails codebase that was fast approaching unmaintainability. In a month-long sprint of desperation, we hit the books and decided to come up with a plan. The solution to our problem arrived in the form of [ActiveInteraction](https://github.com/AaronLasseigne/active_interaction), a Ruby implementation of the command pattern. For the uninitiated, the command pattern is a "behavioral design pattern in which an object is used to encapsulate all information needed to perform an action or trigger an event at a later time." _Thanks [Wikipedia](https://en.wikipedia.org/wiki/Command_pattern)!_ In other words, small, discrete chunks of business logic are encapsulated into single-purpose singleton objects (e.g. there is only one `ConvertMetersToMiles` object).

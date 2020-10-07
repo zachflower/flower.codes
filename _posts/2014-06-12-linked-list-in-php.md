@@ -2,7 +2,7 @@
 layout: post
 title: A Linked List Implementation in PHP
 date: 2014-06-12 12:00:00
-permalink: php-linked-list-implementation
+permalink: php-linked-list-implementation/
 ---
 For the past few weeks, I have been going through the process of applying and interviewing with some amazing companies, the most exciting of which has been Facebook. Interviewing with Facebook has been an incredible experience which has challenged my knowledge of software development and computer science in so many new ways. Throughout this whole process, I have been spending a lot of time getting back up to speed with some of my computer science fundamentals.
 

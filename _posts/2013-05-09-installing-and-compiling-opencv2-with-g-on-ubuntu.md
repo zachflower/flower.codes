@@ -2,7 +2,7 @@
 layout: post
 title: Installing and Compiling OpenCV2 with G++ on Ubuntu
 date: 2013-05-09 12:00:00
-permalink: installing-and-compiling-opencv2-with-g-on-ubuntu
+permalink: installing-and-compiling-opencv2-with-g-on-ubuntu/
 ---
 Recently, I was working on some basic [Object Recognition](https://en.wikipedia.org/wiki/Object_recognition) and was having trouble figuring out how to get started with OpenCV2 in Ubuntu. There was a lot of disparate advice and documentation across the web, and after spending a little bit of time stitching it together, came up with these 3 steps to getting started with OpenCV2 development using C++ in Ubuntu.
 

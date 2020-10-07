@@ -2,7 +2,7 @@
 layout: post
 title: "Writing a Damn Good README File"
 date: 2020-02-05 12:00:00
-permalink: writing-a-damn-good-readme-file
+permalink: writing-a-damn-good-readme-file/
 ---
 
 Raise your hand if you've ever read a README file. Now, keep that hand raised if you've ever *written* a README file. I'm going to take a shot in the dark and assume that your hand is still raised; at least, it's raised in spirit, since you probably refuse to flail your arms about like a crazy person just because I tell you to.

@@ -2,7 +2,7 @@
 layout: post
 title: "5 Git Aliases I Can’t Live Without"
 date: 2020-06-01 12:00:00
-permalink: an-introduction-to-vagrant-aliases-2
+permalink: 5-git-aliases-i-cant-live-without/
 ---
 I’m a _huge_ fan of shortcuts.
 

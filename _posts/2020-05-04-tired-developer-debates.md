@@ -2,7 +2,7 @@
 layout: post
 title: "4 Tired Developer Debates That Need to Just Die Already"
 date: 2020-05-04 12:00:00
-permalink: 4-tired-developer-debates-that-need-to-just-die-already
+permalink: 4-tired-developer-debates-that-need-to-just-die-already/
 ---
 
 

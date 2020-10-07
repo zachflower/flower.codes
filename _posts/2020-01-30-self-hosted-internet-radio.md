@@ -2,7 +2,7 @@
 layout: post
 title: "Host Your Own Internet Radio Station Using DigitalOcean and Docker"
 date: 2020-01-30 12:00:00
-permalink: host-your-own-internet-radio-station-using-digitalocean-and-docker
+permalink: host-your-own-internet-radio-station-using-digitalocean-and-docker/
 ---
 
 About a year ago, I came across an [Asus Internet Radio (Air)](https://www.amazon.com/Internet-Supports-Worldwide-Broadcast-Stations/dp/B000Y9MMNK) at a local Goodwill and, despite knowing nothing about it, felt that I just *had* to have it. Well... it should come as no surprise to anyone that, out of the box, it didn't actually work. None of the thousands of configured radio stations are in service anymore, rendering this nice-looking appliance practically useless and ultimately prompting me to chuck it into a closet to die a slow, dust-ridden death.

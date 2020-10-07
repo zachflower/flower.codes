@@ -2,7 +2,7 @@
 layout: post
 title:  "Connecting to a PostgreSQL Database in Vagrant with PSequel"
 date:   2016-07-11 12:00:00
-permalink: connecting-to-a-postgresql-database-in-vagrant-with-psequel
+permalink: connecting-to-a-postgresql-database-in-vagrant-with-psequel/
 ---
 I’m a huge fan of [SequelPro](http://www.sequelpro.com/), a Mac OSX application that provides an incredibly easy to use GUI for managing MySQL databases. Unfortunately for me, I’ve spent the past year working on a project with a Postgres database, so my easy-as-you-please SequelPro days are pretty much over. Thankfully, after about 6 months of searching and trialing different applications, I stumbled upon [PSequel](http://www.psequel.com/), an excellent SequelPro alternative for Postgres databases.
 

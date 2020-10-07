@@ -2,7 +2,7 @@
 layout: post
 title: The 10 Best Things about Working from Home
 date: 2015-01-02 12:00:00
-permalink: the-10-best-things-about-working-from-home
+permalink: the-10-best-things-about-working-from-home/
 ---
 Today marks the one year anniversary as a remote worker, and I have to say… I love it! For an introvert like me, working from home is the most rewarding experience I have ever had. Professionally, at least. That being said, in honor of my anniversary, I’ve compiled a list of the 10 best things about working from home!
 

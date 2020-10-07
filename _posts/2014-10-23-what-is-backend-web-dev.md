@@ -2,7 +2,7 @@
 layout: post
 title: What Exactly is Backend Web Development?
 date: 2014-10-23 12:00:00
-permalink: what-exactly-is-backend-development
+permalink: what-exactly-is-backend-development/
 ---
 As a backend developer, I get this question a lot. I’m sure a lot of other backend developers get it more than they’d like as well. Because the web development process is such a mystery to the majority of people outside of the industry, it is a common misconception that a “web developer” is the same as a “web designer.” Furthermore, there is a major distinction between a “backend web developer” and a “frontend web developer” that many people are completely unaware of. Don’t believe me? Take a look at any online job board and you’ll see people throwing buzzwords like PHP and Photoshop into job listings that have nothing to do with what they are asking for.
 

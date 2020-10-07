@@ -2,7 +2,7 @@
 layout: post
 title: "Never Install a Thing Again (Except Docker)"
 date: 2019-11-08 12:00:00
-permalink: never-install-a-thing-again-except-docker
+permalink: never-install-a-thing-again-except-docker/
 ---
 
 I'm not gonna lie... it took me a while to adopt Docker. A devout [Vagrant](https://www.vagrantup.com/) follower, Docker just didn't feel mature enough to me until very recently, but _boy have I seen the light_. As a development environment, Docker has completely replaced Vagrant for me, but what really brought me around to the concept of containerization is just how _versatile_ it is. Beyond simply acting as a vehicle for application servers, a particularly impressive use-case for Docker is as a tool for replacing my most commonly-used command-line tools.

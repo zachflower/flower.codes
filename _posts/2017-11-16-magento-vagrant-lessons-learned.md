@@ -2,7 +2,7 @@
 layout: post
 title:  "Magento on Vagrant: Lessons Learned"
 date:   2017-11-16 12:00:00
-permalink: magento-on-vagrant-lessons-learned
+permalink: magento-on-vagrant-lessons-learned/
 ---
 Let's get this out of the way first: Magento is by far the single-most inefficient framework I have ever had the displeasure of working with.
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "The Rise and Fall of the Free Lance"
 date:   2016-07-07 12:00:00
-permalink: the-rise-and-fall-of-the-free-lance
+permalink: the-rise-and-fall-of-the-free-lance/
 ---
 Originally coined as a term to describe mercenary soldiers, the phrase "free lance" has come a long way in the past 200 years. Sir Walter Scott, originator of the term, first wrote it in the book Ivanhoe in 1820:
 

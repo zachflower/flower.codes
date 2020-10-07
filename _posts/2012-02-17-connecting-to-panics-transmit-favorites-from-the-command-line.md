@@ -2,7 +2,7 @@
 layout: post
 title: Connecting To Panic’s Transmit Favorites From The Command Line
 date: 2012-02-17 12:00:00
-permalink: connecting-to-panics-transmit-favorites-from-the-command-line
+permalink: connecting-to-panics-transmit-favorites-from-the-command-line/
 ---
 I am a fan of running my apps my own way. Sometimes, I want to be able to write a shell script around an action, or just have an alias to run a command from the command line. Whatever the reason, I like to tinker, and recently I needed a way to connect directly into one of my [Transmit](https://panic.com/transmit) favorites from the command line.
 

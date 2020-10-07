@@ -2,7 +2,7 @@
 layout: post
 title: Would You Hire Yourself?
 date: 2013-08-14 12:00:00
-permalink: would-you-hire-yourself
+permalink: would-you-hire-yourself/
 ---
 We’ve all done it. Whether it is creating a logo, writing copy, or programming; we have all been guilty of wearing hats for our companies that we just shouldn’t be wearing. At an early stage startup, when you are running lean and don’t have the budget to hire out a professional, it is not only acceptable to touch every aspect of your company, but it is necessary. Unfortunately, this type of attitude can’t be persisted if you want your company to succeed. While you may not want to be the boss all the time, one thing you need to ask yourself before doing something outside of your role is “Would I hire someone with my exact qualifications for this job?” If the answer is no, then stop what you are doing and hire someone who is qualified.
 

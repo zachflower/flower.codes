@@ -2,7 +2,7 @@
 layout: post
 title: Running CodeIgniter Controllers in the Command Line
 date: 2014-08-07 12:00:00
-permalink: running-codeigniter-controllers-in-the-command-line
+permalink: running-codeigniter-controllers-in-the-command-line/
 ---
 Running CodeIgniter controllers in the command line is a surprisingly easy thing to do, but for the novice, it can seem a bit confusing at first. If you want to skip the tutorial, here is how you run any CodeIgniter controller in the command line (run the following from the root of your CodeIgniter directory):
 

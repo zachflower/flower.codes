@@ -2,7 +2,7 @@
 layout: post
 title: "Lazy, Stupid, and Mean: The Art of Writing Defensive Documentation"
 date: 2020-04-10 12:00:00
-permalink: lazy-stupid-and-mean
+permalink: lazy-stupid-and-mean/
 ---
 
 _Always write as if your reader is lazy, stupid, and mean…_ My 9th grade English teacher gave me that piece of advice nearly twenty years ago, and it has shaped the way I’ve thought about writing ever since.

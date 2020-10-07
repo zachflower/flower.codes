@@ -2,7 +2,7 @@
 layout: post
 title: PHP Queue and Stack Implementations
 date: 2014-06-13 12:00:00
-permalink: php-queue-and-stack-implementations
+permalink: php-queue-and-stack-implementations/
 ---
 Continuing on my job interview study session binge, the next two data structures I have built using PHP are the traditional [queue](https://en.wikipedia.org/wiki/Queue_(abstract_data_type)) and [stack](https://en.wikipedia.org/wiki/Stack_(data_structure)).
 

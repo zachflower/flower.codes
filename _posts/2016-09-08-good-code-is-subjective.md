@@ -2,7 +2,7 @@
 layout: post
 title:  "Good Code Is Subjective, Documentation Is Not"
 date:   2016-09-08 12:00:00
-permalink: good-code-is-subjective-documentation-is-not
+permalink: good-code-is-subjective-documentation-is-not/
 ---
 Last week, I had an interesting chat with a peer about the difficulty of finding a balance between using established standards and building proprietary solutions within development projects. Personally, I’m an advocate for utilizing established third-party solutions whenever possible as a way to reduce new developer onboarding time and increase architectural knowledge within the team; but I’ll admit that there are times when you have to break the mold and create something custom to accomplish business goals.
 

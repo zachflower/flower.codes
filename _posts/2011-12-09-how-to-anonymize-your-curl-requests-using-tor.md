@@ -2,7 +2,7 @@
 layout: post
 title: How To Anonymize Your cURL Requests Using Tor
 date: 2011-12-09 12:00:00
-permalink: how-to-anonymize-your-curl-requests-using-tor
+permalink: how-to-anonymize-your-curl-requests-using-tor/
 ---
 **Note: This post assumes that you already have Tor installed and configured on your server. If not, visit the [Tor Project Homepage](https://www.torproject.org/) for instructions on how to set it up.**
 

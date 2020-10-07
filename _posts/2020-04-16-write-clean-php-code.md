@@ -2,7 +2,7 @@
 layout: post
 title: "Write Clean PHP Code (or “else”)"
 date: 2020-04-16 12:00:00
-permalink: write-clean-php-code-or-else
+permalink: write-clean-php-code-or-else/
 ---
 
 > Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live — John Woods

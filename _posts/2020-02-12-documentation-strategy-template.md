@@ -2,7 +2,7 @@
 layout: post
 title: "Establishing a Documentation Strategy: A Practical Template"
 date: 2020-02-12 12:00:00
-permalink: establishing-a-documentation-strategy-a-practical-template
+permalink: establishing-a-documentation-strategy-a-practical-template/
 ---
 
 Prioritizing documentation can be a struggle at any organization but, in my personal experience, a well-crafted documentation strategy can make that struggle seem far less real. Included below is a template I have personally used to propose and promote good documentation standards in the past. While it is far from an all-encompassing strategy, it has done a good job of outlining the challenges and goals of documentation in relationship to the business, and identifies strategies to address them.
