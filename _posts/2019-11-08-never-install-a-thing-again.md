@@ -2,7 +2,7 @@
 layout: post
 title: "Never Install a Thing Again (Except Docker)"
 date: 2019-11-08 12:00:00
-categories: [tutorials]
+permalink: never-install-a-thing-again-except-docker
 ---
 
 I'm not gonna lie... it took me a while to adopt Docker. A devout [Vagrant](https://www.vagrantup.com/) follower, Docker just didn't feel mature enough to me until very recently, but _boy have I seen the light_. As a development environment, Docker has completely replaced Vagrant for me, but what really brought me around to the concept of containerization is just how _versatile_ it is. Beyond simply acting as a vehicle for application servers, a particularly impressive use-case for Docker is as a tool for replacing my most commonly-used command-line tools.
@@ -14,16 +14,16 @@ You see, Docker is a low-resourced, self-contained environment that not only all
 Manual pages are super useful, but damn if they aren't exceptionally complicated sometimes. To solve for this problem, an open-source command-line tool called `tldr` has been built to provide concrete, practical examples of nearly every command you can think of. In the words of the `tldr` [repository itself](https://github.com/tldr-pages/tldr/blob/master/README.md):
 
 > New to the command-line world? Or just a little rusty? Or perhaps you can't always remember the arguments to lsof, or tar?
-> 
+>
 > Maybe it doesn't help that the first option explained in man tar is:
-> 
+>
 > -b blocksize
 >    Specify the block size, in 512-byte records, for tape drive I/O.
 >    As a rule, this argument is only needed when reading from or writing to tape drives,
 >    and usually not even then as the default block size of 20 records (10240 bytes) is very common.
-> 
+>
 > Surely people could benefit from simplified man pages focused on practical examples.
-> 
+>
 > This repository is just that: an ever-growing collection of examples for the most common UNIX / Linux / macOS / SunOS commands.
 
 ### Avoiding Dependency Hell

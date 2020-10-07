@@ -2,7 +2,7 @@
 layout: post
 title:  "Convenience Is Making Me Lazy and Poor"
 date:   2016-07-03 12:00:00
-categories: [general]
+permalink: convenience-is-making-me-lazy-and-poor
 ---
 Spotify. Hulu. Netflix. Amazon Prime. Evernote. Dropbox. Google Apps. iCloud. Stop me when you get the point.
 

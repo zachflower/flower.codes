@@ -2,7 +2,7 @@
 layout: post
 title:  "(Updated) Speeding Up the Craft CMS Admin Dashboard"
 date:   2017-02-27 12:00:00
-categories: [tutorials]
+permalink: updated-speeding-up-the-craft-cms-admin-dashboard
 ---
 I am not a fan of [Craft CMS](http://craftcms.com).
 

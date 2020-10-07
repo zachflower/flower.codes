@@ -2,7 +2,7 @@
 layout: post
 title:  "Setting Up CloudFlare SSL for Laravel on Heroku"
 date:   2016-06-28 12:00:00
-categories: [tutorials]
+permalink: setting-up-cloudflare-ssl-for-laravel-on-heroku
 ---
 **CloudFlare. Laravel. Heroku.**
 

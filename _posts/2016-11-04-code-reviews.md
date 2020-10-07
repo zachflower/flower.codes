@@ -2,7 +2,7 @@
 layout: post
 title:  "Why We Review"
 date:   2016-11-04 12:00:00
-categories: [quality]
+permalink: why-we-review
 ---
 Many development agencies refuse to inherit already built projects, and earlier this year, I found out why.
 

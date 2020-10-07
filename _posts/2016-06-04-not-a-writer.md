@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "I'm Not a Writer"
-subtitle: "And So Can You!"
+title:  "I'm Not a Writer, and so Can You!"
 date:   2016-06-04 12:00:00
-categories: [writing]
+permalink: im-not-a-writer
 ---
 For the better part of the last decade, being a software developer has been more than just my chosen career path. It’s been my identity. Honestly, if you had asked me before today what I do for a living (or what my favorite hobby is, or what I want to be when I grow up), the phrase "software development" would have been out of my mouth before you even finished talking. With two years of technical school, five years of engineering school, and six years of professional development experience under my belt, I’ve never wanted to be anything else.
 

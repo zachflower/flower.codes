@@ -6,3 +6,13 @@ entries:
     post_list: true
     url: false
     entries: false
+  - title: projects
+    url: false
+    entries:
+      - title: mudcoders.com
+        url: https://mudcoders.com
+  - title: contact
+    url: false
+    entries:
+      - title: zach@flower.codes
+        url: mailto:zach@flower.codes

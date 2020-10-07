@@ -2,7 +2,7 @@
 layout: post
 title:  "Magento on Vagrant: Lessons Learned"
 date:   2017-11-16 12:00:00
-categories: [tutorials]
+permalink: magento-on-vagrant-lessons-learned
 ---
 Let's get this out of the way first: Magento is by far the single-most inefficient framework I have ever had the displeasure of working with.
 
@@ -87,7 +87,7 @@ config.vm.synced_folder '.', '/vagrant', nfs: true
 
 ## Automate Cleanup Between Destroys
 
-Alright, time for some Magento-specific tips. Magento, like WordPress, uses flat-files to manage configuration settings. While this is practical in a production environment, it sucks in a development environment that can be reset with a single `vagrant destroy` command. Thankfully, with the help of the amazing (`vagrant-triggers`)[https://github.com/emyl/vagrant-triggers] plugin, we can hack our way to _actually_ resetting the development environment whenever we need to do a `destroy` and `up`. To do this, we'll want to create two different triggers: one after `:destroy`, and one after `:up` and `:provision`. 
+Alright, time for some Magento-specific tips. Magento, like WordPress, uses flat-files to manage configuration settings. While this is practical in a production environment, it sucks in a development environment that can be reset with a single `vagrant destroy` command. Thankfully, with the help of the amazing (`vagrant-triggers`)[https://github.com/emyl/vagrant-triggers] plugin, we can hack our way to _actually_ resetting the development environment whenever we need to do a `destroy` and `up`. To do this, we'll want to create two different triggers: one after `:destroy`, and one after `:up` and `:provision`.
 
 ```ruby
 # delete config/cache data on destroy (this is necessary, as Magento saves
@@ -120,7 +120,7 @@ config.trigger.after [:up, :provision] do
 end
 ```
 
-The answer to that is... we can't trust that the virtual machine is actually running when the `destroy` command is executed. So we delete the `env.php` file to signal to the `:up` and `:provision` triggers that we need to run the Magento uninstaller command. This two-punch reset process might seem a little like overkill, but the name of the Vagrant game is automation and ease-of-use, which this method accomplishes, reducing overhead for developers who shouldn't have to waste time wrestling with their development environment. 
+The answer to that is... we can't trust that the virtual machine is actually running when the `destroy` command is executed. So we delete the `env.php` file to signal to the `:up` and `:provision` triggers that we need to run the Magento uninstaller command. This two-punch reset process might seem a little like overkill, but the name of the Vagrant game is automation and ease-of-use, which this method accomplishes, reducing overhead for developers who shouldn't have to waste time wrestling with their development environment.
 
 ## Skip the Installation Wizard
 
