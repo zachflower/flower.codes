@@ -27,7 +27,7 @@ description: indoorsman, writer, coder, impostor
 baseurl: ""
 
 # the base hostname & protocol for your site, e.g. http://example.com
-url: ""
+url: "https://flower.codes"
 
 # Build settings
 theme: no-style-please
