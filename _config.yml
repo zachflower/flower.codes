@@ -21,13 +21,13 @@
 title: flower.codes
 author: Zachary Flower
 email: zach@flower.codes
-description: indoorsman, writer, coder, impostor
+description: Impostor.
 
 # the subpath of your site, e.g. /blog
 baseurl: ""
 
 # the base hostname & protocol for your site, e.g. http://example.com
-url: "https://www.flower.codes"
+url: "https://flower.codes"
 
 # Build settings
 theme: no-style-please
