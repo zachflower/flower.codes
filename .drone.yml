@@ -16,6 +16,7 @@ steps:
 - name: deploy
   image: ruby
   commands:
+  - apt install rsync -y
   - eval `ssh-agent -s`
   - echo "$RSYNC_KEY" | ssh-add -
   - mkdir -p ~/.ssh
