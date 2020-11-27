@@ -22,7 +22,7 @@ steps:
   - echo "$RSYNC_KEY" | ssh-add -
   - mkdir -p ~/.ssh
   - echo -e "Host *\n\tStrictHostKeyChecking no\n\n" > ~/.ssh/config
-  - rsync -rv -e "ssh -p 22" /drone/src/_site/ $RSYNC_USER@$RSYNC_HOST:/opt/static/volumes/nginx/sites/flower.codes/ --checksum
+  - rsync -rv /drone/src/_site/ $RSYNC_USER@$RSYNC_HOST:/opt/static/volumes/nginx/sites/flower.codes/ --checksum
   environment:
     RSYNC_KEY:
       from_secret: rsync_key
