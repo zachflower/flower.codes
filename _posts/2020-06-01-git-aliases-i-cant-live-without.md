@@ -22,11 +22,6 @@ I don’t know how often I’ve committed something that I didn’t intend to, b
 undo = reset --soft HEAD~1
 ```
 
-### Demo
-
-![](/assets/posts/git-undo.gif)
-
-
 ## `$ git amend`
 
 In case the the previous alias didn’t tip you off, this one should make it abundantly clear that I screw up a ton. While I often over-commit files, I also tend to forget to commit files. This happens a lot when I make a commit, and then realize that I forgot to stage a new file or change. The `git amend` alias allows me to add any staged changes to the previous commit without having to update the commit message.
@@ -36,10 +31,6 @@ In case the the previous alias didn’t tip you off, this one should make it abu
 ```
 amend = !git log -n 1 --pretty=tformat:%s%n%n%b | git commit -F - --amend
 ```
-
-### Demo
-
-![](/assets/posts/git-amend.gif)
 
 ## `$ git tree`
 
@@ -51,10 +42,6 @@ When  working with a team that uses a large number of feature branches, it  can 
 tree = log --graph --pretty=format:'%C(yellow)%h%C(cyan)%d%Creset %s %C(white)- %an, %ar%Creset'
 ```
 
-### Demo
-
-![](/assets/posts/git-tree.gif)
-
 ## `$ git review`
 
 Just about every project I work on is hosted on GitHub, so the `git review` alias is particularly handy. It allows me to checkout a pull request by  its ID, which I can then run through the ringer and validate without  having to jump through any hoops.
@@ -65,10 +52,6 @@ Just about every project I work on is hosted on GitHub, so the `git review` alia
 review= "!f() { git fetch origin pull/$1/head:pr/$1 && git checkout pr/$1; }; f"
 ```
 
-### Demo
-
-![](/assets/posts/git-review.gif)
-
 ## `$ git trim`
 
 A fairly new tool in my toolbox, the `git trim` alias is what I use to clean up after myself. When run, it gets a list  of all of the branches that have been merged into the current branch,  and deletes them from your local repository. This is super useful when  pulling down a large number of feature branches, as you can clean them  up as they get merged without much overhead.
@@ -78,7 +61,3 @@ A fairly new tool in my toolbox, the `git trim` alias is what I use to clean up 
 ```
 trim = !git branch --merged | grep -v '*' | xargs -n 1 git branch -d
 ```
-
-### Demo
-
-![](/assets/posts/git-trim.gif)
