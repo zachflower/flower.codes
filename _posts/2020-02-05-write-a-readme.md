@@ -261,7 +261,7 @@ Formatting a README file using a markup language like Markdown is beneficial, bu
 
 If you've ever read a README file in a GitHub repository, you've no doubt seen your fair share of badges. Badges are graphical tags that are often included in GitHub README files as a way of conveying basic information about a project. These little tags usually come in the form of a key-value pair, rendered as a primarily dichromatic image.
 
-![](/assets/posts/badge-build-passing.svg) ![](/assets/posts/badge-coverage.svg) ![](/assets/posts/badge-downloads.svg) ![](/assets/posts/badge-license-mit.svg)
+![](/assets/posts/badges.png)
 
 While badges can technically contain any number of useful statistics, the most common use for them is to provide information about the health and popularity of a project. Code coverage, build status, license, current version, number of downloads... badges can be used to convey a lot of information in a very little space, and often indicate a higher level of professionalism and support behind a project.
 
