@@ -84,22 +84,22 @@ blockquote {
     }
 }
 
-img {
-    max-width: 100%;
-    width: 100%;
-    display: block;
+main {
+    max-width: 800px;
     margin: 0 auto;
+    padding: 4rem 2rem;
 }
 
 article {
+    img {
+        max-width: 100%;
+        width: 100%;
+        display: block;
+        margin: 0 auto;
+    }
+
     footer {
         font-size: 1rem;
         color: gray;
     }
-}
-
-#wrapper {
-    max-width: 800px;
-    margin: 0 auto;
-    padding: 4rem 2rem;
 }
