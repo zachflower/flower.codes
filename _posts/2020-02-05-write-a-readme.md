@@ -53,7 +53,7 @@ Whether a project is a library, framework, product, or even a programming langua
 > npm install -g typescript@next
 > ```
 
-*Example: TypeScript \([https://github.com/Microsoft/TypeScript](https://github.com/Microsoft/TypeScript)\)*
+*Example: Microsoft TypeScript \([https://github.com/Microsoft/TypeScript](https://github.com/Microsoft/TypeScript)\)*
 
 ### Examples
 

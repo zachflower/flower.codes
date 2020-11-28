@@ -30,11 +30,18 @@ Here's a quick comparison of the two files. The only difference, as far as my co
 
 To make it clear that MIME type validation is useless in this situation, here are the results of three different file type commands:
 
-![Comparison]({{ site.url }}/assets/posts/comparison-2.png)
+```
+$ file boop-boop.jpg
+boop-boop.jpg: JPEG image data, JFIF standard 1.02
+```
 
 Nope.
 
-![Comparison]({{ site.url }}/assets/posts/comparison-3.png)
+```
+$ php test.php
+mime_content_type = image/jpeg
+finfo_file = image/jpeg
+```
 
 Wrong and wrong.
 
@@ -66,11 +73,21 @@ In the case of Flickr and SoundCloud, this vulnerability could likely be resolve
 
 I did a quick test of this solution, and for a quick way to "fix" uploaded image files, you can utilize ImageMagick's convert function to "convert" an image into the same file format it is already in:
 
-![ImageMagick]({{ site.url }}/assets/posts/imagemagick.png)
+```
+$ convert boop-boop.jpg boop-boop-converted.jpg
+
+$ ls -alh boop-boop*
+-rw-r--r--  1 zach  staff   144K Aug 31 17:12 boop-boop-converted.jpg
+-rw-r--r--  1 zach  staff    30M Aug 31 16:03 boop-boop.jpg
+```
 
 A similar method works for audio files as well, although the results are a little different. Using FFmpeg, I took the same path of converting an MP3 to an MP3 with the hope that it would strip out the "hidden" data. The good news: it worked!
 
-![FFmpeg]({{ site.url }}/assets/posts/ffmpeg.png)
+```
+$ ls -alh wayward-betty*
+-rw-r--r--  1 zach  staff   7.9M Aug 31 17:17 wayward-betty-converted.mp3
+-rw-r--r--  1 zach  staff    35M Aug 31 16:02 wayward-betty.mp3
+```
 
 The bad news (which is actually good news in disguise) is that FFmpeg marked the conversion as a "failure." Even though the converted file was written, FFmpeg sensed that something was wrong and (rightfully) shit a brick. This led me to the next (better) solution: file verification.
 

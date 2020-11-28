@@ -15,6 +15,11 @@ hr {
 
 p {
     margin: 1rem 0;
+    text-align: justify;
+}
+
+ul,ol {
+    padding-left: 2rem;
 }
 
 li {
@@ -62,7 +67,12 @@ blockquote {
     margin: 0;
 
     p {
-        margin: 0;
+        &:first {
+            margin: 0;
+        }
+
+        text-align: left;
+        margin: 1rem 0 0 0;
     }
 
     & > h2, & > h3, & > h4, & > h5 {
@@ -74,6 +84,7 @@ blockquote {
 
 img {
     max-width: 100%;
+    width: 100%;
     display: block;
     margin: 0 auto;
 }
