@@ -42,3 +42,15 @@ steps:
       from_secret: rsync_user
     RSYNC_HOST:
       from_secret: rsync_host
+
+- name: cleanup
+  image: jetrails/drone-cloudflare-caching
+  settings:
+    api_token:
+      from_secret: cloudflare_token
+    zone_identifier:
+      from_secret: cloudflare_zone_identifier
+    action: purge_hosts
+    list:
+    - flower.codes
+    - www.flower.codes
