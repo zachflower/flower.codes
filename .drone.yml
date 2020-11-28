@@ -50,7 +50,4 @@ steps:
       from_secret: cloudflare_token
     zone_identifier:
       from_secret: cloudflare_zone_identifier
-    action: purge_hosts
-    list:
-    - flower.codes
-    - www.flower.codes
+    action: purge_everything
