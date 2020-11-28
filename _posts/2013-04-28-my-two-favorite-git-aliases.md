@@ -6,13 +6,9 @@ permalink: my-two-favorite-git-aliases/
 ---
 I’m a big fan of Git. It is a super easy-to-use version control and source code management system. Before I came to Git, though, I used Mercurial, and there were two commands that I missed. Through a lot of Googling, I came across two Git aliases that have changed everything for me: `incoming` and `outgoing`.
 
-## Usage
+## `$` git incoming
 
-### `incoming`
-
-**Command: `git incoming`**
-
-The Incoming command will return a nicely formatted list of incoming commits, the next time you do a pull.
+The `git incoming` alias will return a nicely formatted list of incoming commits, the next time you do a pull.
 
 ```
 $ git incoming
@@ -20,11 +16,9 @@ $ git incoming
 31d6367 - Developer Name - CommitMessage - 2 days ago
 ```
 
-### `outgoing`
+## `$` git outgoing
 
-**Command: `git outgoing`**
-
-The Outgoing command will return a nicely formatted list of outgoing commits, the next time you do a push.
+The `git outgoing` alias will return a nicely formatted list of outgoing commits, the next time you do a push.
 
 ```
 $ git outgoing
