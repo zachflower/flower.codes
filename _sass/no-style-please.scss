@@ -46,7 +46,7 @@ code {
 }
 
 div {
-    .highlighter-rouge {
+    &.highlighter-rouge {
         code {
             display: block;
             overflow-x: auto;
