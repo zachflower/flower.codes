@@ -8,13 +8,13 @@ trigger:
 steps:
 
 - name: build
-  image: ruby
+  image: ruby:2.7
   commands:
   - bundle install
   - bundle exec jekyll build
 
 - name: optimize
-  image: ruby
+  image: ruby:2.7
   commands:
   - apt update
   - apt install imagemagick -y
@@ -26,7 +26,7 @@ steps:
   - mogrify -verbose -colorspace Gray -colors 4 -quality 10 /drone/src/_site/assets/posts/*.jpg
 
 - name: deploy
-  image: ruby
+  image: ruby:2.7
   commands:
   - apt update
   - apt install rsync -y
