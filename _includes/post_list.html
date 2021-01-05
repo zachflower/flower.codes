@@ -1,9 +1,10 @@
 {% if site.posts.size > 0 %}
-<ul>
+<table>
     {% for post in site.posts %}
-    <li>
-        {% if post.category %}<small>[{{post.category}}]</small> {% endif %}<a href="{{ post.url | relative_url }}">{{ post.title | downcase }}</a>
-    </li>
+    <tr>
+        <td nowrap>{{ post.date | date: "%Y-%m-%d" }} |</td>
+        <td>{% if post.category %}<small>[{{post.category}}]</small> {% endif %}<a href="{{ post.url | relative_url }}">{{ post.title | downcase }}</a></td>
+    </tr>
     {% endfor %}
-</ul>
+</table>
 {% endif %}
