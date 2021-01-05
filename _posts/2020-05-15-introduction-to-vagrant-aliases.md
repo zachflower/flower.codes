@@ -2,7 +2,6 @@
 layout: post
 title: "An Introduction to Vagrant Aliases"
 date: 2020-05-15 12:00:00
-permalink: an-introduction-to-vagrant-aliases-2/
 ---
 A  few years ago, I checked off an item on my Open Source Bucket List when  I pitched—and ultimately contributed—a brand new feature to HashiCorp’s  [Vagrant](https://www.vagrantup.com/): command aliases. While aliases have been a core Vagrant feature for some time, there hasn’t been a lot of coverage about what they are, and why they really matter.
 

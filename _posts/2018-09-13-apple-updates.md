@@ -2,7 +2,6 @@
 layout: post
 title: "Apple, Updates, and You"
 date: 2018-09-13 07:24:00
-permalink: apple-updates-and-you/
 canonical_url: https://blog.automox.com/apple-updates-and-you
 category: automox
 ---

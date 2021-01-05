@@ -2,7 +2,6 @@
 layout: post
 title: "Everything You Ever Wanted to Know About Microsoft Windows Updates"
 date: 2018-08-12 07:24:00
-permalink: everything-you-want-microsoft-windows-updates/
 canonical_url: https://blog.automox.com/everything-you-want-microsoft-windows-updates
 category: automox
 ---

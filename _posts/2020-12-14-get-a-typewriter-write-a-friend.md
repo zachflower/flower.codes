@@ -2,7 +2,6 @@
 layout: post
 title: "Get a Typewriter. Write a Friend."
 date: 2020-12-14 07:24:00
-permalink: get-a-typewriter-write-a-friend/
 ---
 
 ![1941 Royal Arrow Typewriter](/assets/posts/typewriter.jpg)

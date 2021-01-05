@@ -2,7 +2,6 @@
 layout: post
 title: "Soft(there): Dealing With Deprecations"
 date: 2018-12-13 07:24:00
-permalink: dealing-with-deprecations/
 canonical_url: https://blog.automox.com/softthere-dealing-with-deprecations
 category: automox
 ---

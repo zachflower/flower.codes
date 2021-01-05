@@ -2,7 +2,6 @@
 layout: post
 title: "Trust, but Verify"
 date: 2018-10-23 07:24:00
-permalink: trust-but-verify/
 canonical_url: https://blog.automox.com/keep-patching-your-shit-trust-but-verify
 category: automox
 ---

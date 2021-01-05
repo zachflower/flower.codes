@@ -2,7 +2,6 @@
 layout: post
 title: How to Force Installation of Vagrant Plugins
 date: 2014-09-22 12:00:00
-permalink: how-to-force-installation-of-vagrant-plugins/
 ---
 [Vagrant](https://www.vagrantup.com/) is an amazing tool for local development, especially in the case of distributed teams. It allows for complete parity between every team member’s development environment without forcing anyone to follow a complicated list of environment setup steps. Vagrant’s plugin support is also excellent, as it provides for further automating the environment setup, such as automatically adding host names, running additional commands on the host machine, etc.
 

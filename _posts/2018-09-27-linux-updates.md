@@ -2,7 +2,6 @@
 layout: post
 title: "The Linux (R)evolution"
 date: 2018-09-27 07:24:00
-permalink: the-linux-revolution/
 canonical_url: https://blog.automox.com/os-patching-essentials-the-linux-revolution
 category: automox
 ---

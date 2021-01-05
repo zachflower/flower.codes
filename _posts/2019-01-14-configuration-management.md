@@ -2,7 +2,6 @@
 layout: post
 title: "The Life and Times of Configuration Management: A Brief History"
 date: 2019-01-14 07:24:00
-permalink: the-life-and-times-of-configuration-management-a-brief-history/
 canonical_url: https://blog.automox.com/the-life-and-times-of-configuration-management-a-brief-history
 category: automox
 ---

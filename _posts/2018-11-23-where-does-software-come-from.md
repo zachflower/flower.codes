@@ -2,7 +2,6 @@
 layout: post
 title: "Soft(where): Where Does Software Come From?"
 date: 2018-11-23 07:24:00
-permalink: where-does-software-come-from/
 canonical_url: https://blog.automox.com/softwhere-where-does-software-come-from
 category: automox
 ---

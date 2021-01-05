@@ -2,7 +2,6 @@
 layout: post
 title: "Putting the “Code” in Configuration Management"
 date: 2019-01-24 07:24:00
-permalink: putting-the-code-in-configuration-management/
 canonical_url: https://blog.automox.com/infrastructure-as-code-putting-the-code-in-configuration-management
 category: automox
 ---

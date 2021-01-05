@@ -2,7 +2,6 @@
 layout: post
 title: "The Ins-and-Outs of Package Management"
 date: 2018-10-11 07:24:00
-permalink: the-ins-and-outs-of-package-management/
 canonical_url: https://blog.automox.com/the-ins-and-outs-of-package-management
 category: automox
 ---

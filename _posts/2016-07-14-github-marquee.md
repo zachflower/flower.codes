@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  "Writing Messages on the GitHub Calendar"
+title:  "Messing with the GitHub Contribution Graph"
 date:   2016-07-14 12:00:00
-permalink: writing-messages-on-the-github-calendar/
 ---
 You know the contributions calendar grid on GitHub profiles? The one with all the pretty green squares? What if you could write a message within that box? That’s exactly what a friend of mine asked me a few months ago.
 
