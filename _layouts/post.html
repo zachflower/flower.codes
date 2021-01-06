@@ -16,9 +16,9 @@ layout: default
         <i>
           This post was originally published at
           {% if page.canonical_url %}
-            <a href="{{page.canonical_url}}">{{page.canonical_url}}</a>
+            <a href="{{page.canonical_url}}">{{page.canonical_url | remove_first: 'http://' | remove_first: 'https://' | split: '/' | first}}</a>
           {% else %}
-            <a href="{{page.url}}{{page.url}}">{{site.url}}{{page.url}}</a>
+            <a href="{{site.url}}{{page.url}}">{{site.url | remove_first: 'http://' | remove_first: 'https://'}}</a>
           {% endif %}
           on <time datetime="{{ page.date }}">{{ page.date | date: "%B %-d, %Y" }}</time>.
         </i>
