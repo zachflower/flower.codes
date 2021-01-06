@@ -12,11 +12,17 @@ layout: default
   <footer>
     <hr />
     <p>
-      {% if page.canonical_url %}
-        <i>Originally published at <a href="{{page.canonical_url}}">{{page.canonical_url}}</a> on <time datetime="{{ page.date }}">{{ page.date | date: "%B %-d, %Y" }}</time>.</i>
-      {% else %}
-        <i>Originally published at <a href="{{page.url}}{{page.url}}">{{site.url}}{{page.url}}</a> on <time datetime="{{ page.date }}">{{ page.date | date: "%B %-d, %Y" }}</time>.</i>
-      {% endif %}
+      <small>
+        <i>
+          This post was originally published at
+          {% if page.canonical_url %}
+            <a href="{{page.canonical_url}}">{{page.canonical_url}}</a>
+          {% else %}
+            <a href="{{page.url}}{{page.url}}">{{site.url}}{{page.url}}</a>
+          {% endif %}
+          on <time datetime="{{ page.date }}">{{ page.date | date: "%B %-d, %Y" }}</time>.
+        </i>
+      </small>
     </p>
   </footer>
 
