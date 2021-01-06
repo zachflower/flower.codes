@@ -19,7 +19,7 @@ But what if I threw in a LOT more data than just a few lines of random text? My 
 
 That's right, ladies and gentlemen, I've essentially created the digital equivalent of this:
 
-![Red Riding Hood]({{ site.url }}/assets/posts/red-riding-hood.jpg)
+![Red Riding Hood Screencap]({{ site.url }}/assets/posts/red-riding-hood.jpg)
 
 Seems legit.
 

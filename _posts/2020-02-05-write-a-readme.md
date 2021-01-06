@@ -260,7 +260,7 @@ Formatting a README file using a markup language like Markdown is beneficial, bu
 
 If you've ever read a README file in a GitHub repository, you've no doubt seen your fair share of badges. Badges are graphical tags that are often included in GitHub README files as a way of conveying basic information about a project. These little tags usually come in the form of a key-value pair, rendered as a primarily dichromatic image.
 
-![](/assets/posts/badges.png)
+![Example README Badges](/assets/posts/badges.png)
 
 While badges can technically contain any number of useful statistics, the most common use for them is to provide information about the health and popularity of a project. Code coverage, build status, license, current version, number of downloads... badges can be used to convey a lot of information in a very little space, and often indicate a higher level of professionalism and support behind a project.
 
@@ -268,7 +268,7 @@ While badges can technically contain any number of useful statistics, the most c
 
 Not every software project is text-based in nature. There are countless of graphical libraries that are better demonstrated using screenshots and animations in addition to standard text-based documentation. While it's probably best not to litter a README file with needless screenshots, including a relevant screenshot or animation at the top of a project's README can go a long way towards quickly and easily demonstrating its power.
 
-![](/assets/posts/the-fuck-screenshot.png)
+![Screenshot of The Fuck CLI Tool](/assets/posts/the-fuck-screenshot.png)
 
 *Example: The Fuck \([https://github.com/nvbn/thefuck](https://github.com/nvbn/thefuck)\)*
 
