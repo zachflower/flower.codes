@@ -3,7 +3,7 @@ layout: post
 title: "Fix Spaghetti Code and Other Pasta-Theory Antipatterns"
 date: 2020-05-29 07:24:00
 canonical_url: https://searchsoftwarequality.techtarget.com/tip/Fix-spaghetti-code-and-other-pasta-theory-antipatterns
-category: searchsoftwarequality
+category: techtarget
 ---
 
 Nobody ever said it's easy to write clean code. Successful software development isn't just about making software work; it's about making sure it will continue to work. While hardly an exciting objective, code maintainability is one of the most important elements of any application.
