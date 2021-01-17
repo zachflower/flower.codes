@@ -25,17 +25,6 @@ ul,ol {
 
 li {
     margin: 0.2rem 0;
-
-    & > table {
-        border: none;
-        margin: .2rem 0;
-
-        td {
-            width: auto;
-            border: none;
-            padding: 0.1rem 0.4rem;
-        }
-    }
 }
 
 hr {
@@ -44,11 +33,15 @@ hr {
     border-top: 1px solid lightgray;
 }
 
-table, th, td {
-    width: 100%;
-    border: thin solid lightgray;
-    border-collapse: collapse;
-    padding: 0.4rem;
+table {
+    border: none;
+    margin: .2rem 0;
+
+    td {
+        width: auto;
+        border: none;
+        padding: 0.1rem 0.4rem;
+    }
 }
 
 code {
@@ -103,6 +96,10 @@ main {
 }
 
 article {
+    ol {
+        list-style-type: decimal-leading-zero;
+    }
+
     img {
         max-width: 100%;
         width: 100%;
@@ -110,8 +107,15 @@ article {
         margin: 0 auto;
     }
 
-    footer {
-        font-size: 1rem;
-        color: gray;
+    table, th, td {
+        width: 100%;
+        border: thin solid lightgray;
+        border-collapse: collapse;
+        padding: 0.4rem;
     }
+}
+
+footer {
+    font-size: 1rem;
+    color: gray;
 }

@@ -1,0 +1,28 @@
+---
+layout: default
+---
+
+{% include back_link.html %}
+
+<h1>{{ page.title }}</h1>
+
+{{ content }}
+
+{% include post_list.html category=page.which_category %}
+
+<footer>
+  <hr />
+  <p>
+    <small>
+      <i>
+        This post was originally published at
+        {% if page.canonical_url %}
+          <a href="{{page.canonical_url}}">{{page.canonical_url | remove_first: 'http://' | remove_first: 'https://' | split: '/' | first}}</a>
+        {% else %}
+          <a href="{{site.url}}{{page.url}}">{{site.url | remove_first: 'http://' | remove_first: 'https://'}}</a>
+        {% endif %}
+        on <time datetime="{{ page.date }}">{{ page.date | date: "%B %-d, %Y" }}</time>.
+      </i>
+    </small>
+  </p>
+</footer>

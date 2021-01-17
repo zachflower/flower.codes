@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My Two Favorite Git Aliases
+title: My Two favorite Git Aliases
 date: 2013-04-28 12:00:00
 ---
 I’m a big fan of Git. It is a super easy-to-use version control and source code management system. Before I came to Git, though, I used Mercurial, and there were two commands that I missed. Through a lot of Googling, I came across two Git aliases that have changed everything for me: `incoming` and `outgoing`.

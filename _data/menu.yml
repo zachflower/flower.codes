@@ -3,14 +3,25 @@
 
 entries:
   - title: thoughts
-    post_list: true
+    post_list:
+      limit: 10
     url: false
     entries: false
+
+  - title: pages
+    url: false
+    entries:
+      - title: archive
+        url: /archive
+      - title: library
+        url: /library
+
   - title: projects
     url: false
     entries:
       - title: mudcoders.com
         url: https://mudcoders.com
+
   - title: contact
     url: false
     entries:
