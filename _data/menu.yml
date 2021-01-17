@@ -12,9 +12,9 @@ entries:
     url: false
     entries:
       - title: archive
-        url: /archive
+        url: /archive.html
       - title: library
-        url: /library
+        url: /library.html
 
   - title: projects
     url: false
