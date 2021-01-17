@@ -31,3 +31,4 @@ Come back later.
 1. [Outland](https://www.thriftbooks.com/w/outland-volume-1-world-lines/19363453/#isbn=1680681486&edition=57012755) by Dennis E. Taylor
 1. [The Vexed Generation (Magic 2.0 #6)](https://www.thriftbooks.com/w/the-vexed-generation_scott--meyer/25504624/#edition=26761307) by Scott Meyer
 1. [Beacon 23](https://www.thriftbooks.com/w/beacon-23-the-complete-novel_hugh-howey/9761749/#edition=9186669&idiq=15924928) by Hugh Howey
+1. [Armada](https://www.thriftbooks.com/w/armada/9376796/#edition=8704480&idiq=8603881) by Ernest Cline
