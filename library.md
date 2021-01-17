@@ -27,7 +27,7 @@ Come back later.
 
 1. [Dragon Wing (Death Gate Cycle #1)](https://www.thriftbooks.com/w/dragon-wing_margaret-weis_tracy-hickman/285018/#edition=2410906&idiq=857970) by Margaret Weis and Tracy Hickman
 1. [Ghost in the Wires](https://www.thriftbooks.com/w/ghost-in-the-wires-my-adventures-as-the-worlds-most-wanted-hacker_kevin-d-mitnick/300094/#edition=5976857&idiq=4457810) by Kevin D. Mitnick
-1. [Ender's Game (Ender's Saga #1)](https://www.thriftbooks.com/w/enders-game-by-orson-scott-card---/249686/#edition=1859735&idiq=2413359) by Orson Scott Card]
+1. [Ender's Game (Ender's Saga #1)](https://www.thriftbooks.com/w/enders-game-by-orson-scott-card---/249686/#edition=1859735&idiq=2413359) by Orson Scott Card
 1. [Outland](https://www.thriftbooks.com/w/outland-volume-1-world-lines/19363453/#isbn=1680681486&edition=57012755) by Dennis E. Taylor
 1. [The Vexed Generation (Magic 2.0 #6)](https://www.thriftbooks.com/w/the-vexed-generation_scott--meyer/25504624/#edition=26761307) by Scott Meyer
 1. [Beacon 23](https://www.thriftbooks.com/w/beacon-23-the-complete-novel_hugh-howey/9761749/#edition=9186669&idiq=15924928) by Hugh Howey
