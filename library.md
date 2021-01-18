@@ -17,6 +17,7 @@ I should probably note that some of these books will be ones I've read dozens of
 1. [Magician: Apprentice (Riftwar Saga #1)](https://www.thriftbooks.com/w/magician-by-raymond-e-feist/252608/#edition=2412352&idiq=4371583) by Raymond E. Feist
 1. [The Art of Happiness](https://www.thriftbooks.com/w/the-art-of-happiness-a-handbook-for-living-by-dalai-lama-xiv/245744/#edition=5348464&idiq=4069358) by Dalai Lama XIV and Howard C. Cutler
 1. [Ready Player Two](https://www.thriftbooks.com/w/ready-player-two_ernest-cline/26736005/#edition=46336470&idiq=42739090) by Ernest Cline
+1. [Gumption](https://www.thriftbooks.com/w/gumption-relighting-the-torch-of-freedom-with-americas-gutsiest-troublemakers_nick-offerman/9474943/#edition=9357598&idiq=17978239) by Nick Offerman
 
 ---
 
@@ -53,3 +54,4 @@ I should probably note that some of these books will be ones I've read dozens of
 1. [The Obstacle Is the Way](https://www.thriftbooks.com/w/the-obstacle-is-the-way-the-timeless-art-of-turning-trials-into-triumph_ryan-holiday/3220637/#edition=7768542&idiq=8030700) by Ryan Holiday
 1. [Peace Is Every Step](https://www.thriftbooks.com/w/peace-is-every-step-the-path-of-mindfulness-in-everyday-life-by-thch-nht-hnh/250503/#edition=2411149&idiq=39653) by Thich Nhat Hanh
 1. [Click Here to Kill Everybody](https://www.thriftbooks.com/w/click-here-to-kill-everybody-security-and-survival-in-a-hyper-connected-world_bruce-schneier/18597021/#edition=21457411&idiq=39372813) by Bruce Schneier
+1. [The Making of a Manager](https://www.thriftbooks.com/w/the-making-of-a-manager-what-to-do-when-everyone-looks-to-you_julie-zhuo/18875469/#edition=20112038&idiq=31937694) by Julie Zhuo
