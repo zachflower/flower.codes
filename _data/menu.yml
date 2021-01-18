@@ -8,7 +8,7 @@ entries:
     url: false
     entries: false
 
-  - title: pages
+  - title: notes
     url: false
     entries:
       - title: archive
