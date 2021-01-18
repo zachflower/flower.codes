@@ -19,6 +19,8 @@ I should probably note that some of these books will be ones I've read dozens of
 1. [Ready Player Two](https://www.thriftbooks.com/w/ready-player-two_ernest-cline/26736005/#edition=46336470&idiq=42739090) by Ernest Cline
 1. [Goodbye Phone, Hello World](https://www.thriftbooks.com/w/goodbye-phone-hello-world-65-ways-to-disconnect-from-tech-and-reconnect-to-joy_paul-greenberg/26308858/#edition=30186707&idiq=42236122) by Paul Greenberg
 
+---
+
 ## Books Read in 2021
 
 Come back later.
@@ -33,6 +35,8 @@ Come back later.
 1. [The Vexed Generation (Magic 2.0 #6)](https://www.thriftbooks.com/w/the-vexed-generation_scott--meyer/25504624/#edition=26761307) by Scott Meyer
 1. [Beacon 23](https://www.thriftbooks.com/w/beacon-23-the-complete-novel_hugh-howey/9761749/#edition=9186669&idiq=15924928) by Hugh Howey
 1. [Armada](https://www.thriftbooks.com/w/armada/9376796/#edition=8704480&idiq=8603881) by Ernest Cline
+
+---
 
 ## Book Backlog
 
