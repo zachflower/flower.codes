@@ -52,3 +52,4 @@ I should probably note that some of these books will be ones I've read dozens of
 1. [Permanent Record](https://www.thriftbooks.com/w/permanent-record_arthur-king/22218681/#edition=23713223&idiq=34485568) by Edward Snowden
 1. [The Obstacle Is the Way](https://www.thriftbooks.com/w/the-obstacle-is-the-way-the-timeless-art-of-turning-trials-into-triumph_ryan-holiday/3220637/#edition=7768542&idiq=8030700) by Ryan Holiday
 1. [Peace Is Every Step](https://www.thriftbooks.com/w/peace-is-every-step-the-path-of-mindfulness-in-everyday-life-by-thch-nht-hnh/250503/#edition=2411149&idiq=39653) by Thich Nhat Hanh
+1. [Click Here to Kill Everybody](https://www.thriftbooks.com/w/click-here-to-kill-everybody-security-and-survival-in-a-hyper-connected-world_bruce-schneier/18597021/#edition=21457411&idiq=39372813) by Bruce Schneier
