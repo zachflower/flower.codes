@@ -22,7 +22,7 @@ I should probably note that some of these books will be ones I've read dozens of
 
 ## Books Read in 2021
 
-**Goal: 0 of 20**
+**Goal: 1 of 20**
 
 1. [Goodbye Phone, Hello World](https://www.thriftbooks.com/w/goodbye-phone-hello-world-65-ways-to-disconnect-from-tech-and-reconnect-to-joy_paul-greenberg/26308858/#edition=30186707&idiq=42236122) by Paul Greenberg
 
