@@ -56,3 +56,4 @@ I should probably note that some of these books will be ones I've read dozens of
 1. [Peace Is Every Step](https://www.thriftbooks.com/w/peace-is-every-step-the-path-of-mindfulness-in-everyday-life-by-thch-nht-hnh/250503/#edition=2411149&idiq=39653) by Thich Nhat Hanh
 1. [Click Here to Kill Everybody](https://www.thriftbooks.com/w/click-here-to-kill-everybody-security-and-survival-in-a-hyper-connected-world_bruce-schneier/18597021/#edition=21457411&idiq=39372813) by Bruce Schneier
 1. [The Making of a Manager](https://www.thriftbooks.com/w/the-making-of-a-manager-what-to-do-when-everyone-looks-to-you_julie-zhuo/18875469/#edition=20112038&idiq=31937694) by Julie Zhuo
+1. [Meditations](https://www.thriftbooks.com/w/the-emperors-handbook-a-new-translation-of-the-meditations_marcus-aurelius/261266/#edition=14509755&idiq=43288584) by Marcus Aurelius
