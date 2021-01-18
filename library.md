@@ -23,10 +23,14 @@ I should probably note that some of these books will be ones I've read dozens of
 
 ## Books Read in 2021
 
+**Goal: 0 of 20**
+
 Come back later.
 
 
 ## Books Read in 2020
+
+**Goal: 7 of 0**
 
 1. [Dragon Wing (Death Gate Cycle #1)](https://www.thriftbooks.com/w/dragon-wing_margaret-weis_tracy-hickman/285018/#edition=2410906&idiq=857970) by Margaret Weis and Tracy Hickman
 1. [Ghost in the Wires](https://www.thriftbooks.com/w/ghost-in-the-wires-my-adventures-as-the-worlds-most-wanted-hacker_kevin-d-mitnick/300094/#edition=5976857&idiq=4457810) by Kevin D. Mitnick
