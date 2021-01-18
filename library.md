@@ -15,7 +15,7 @@ I should probably note that some of these books will be ones I've read dozens of
 ## Currently Reading
 
 1. [Magician: Apprentice (Riftwar Saga #1)](https://www.thriftbooks.com/w/magician-by-raymond-e-feist/252608/#edition=2412352&idiq=4371583) by Raymond E. Feist
-1. [The Art of Happiness](https://www.thriftbooks.com/w/the-art-of-happiness-a-handbook-for-living-by-dalai-lama-xiv/245744/#edition=5348464&idiq=4069358) by by Dalai Lama XIV and Howard C. Cutler
+1. [The Art of Happiness](https://www.thriftbooks.com/w/the-art-of-happiness-a-handbook-for-living-by-dalai-lama-xiv/245744/#edition=5348464&idiq=4069358) by Dalai Lama XIV and Howard C. Cutler
 1. [Ready Player Two](https://www.thriftbooks.com/w/ready-player-two_ernest-cline/26736005/#edition=46336470&idiq=42739090) by Ernest Cline
 
 ---
@@ -50,3 +50,5 @@ I should probably note that some of these books will be ones I've read dozens of
 1. [Mage Against the Machine](https://www.thriftbooks.com/w/mage-against-the-machine_shaun-barger/18662322/#edition=19878511&idiq=30911857) by Shaun Barger
 1. [The Punch Escrow](https://www.thriftbooks.com/w/the-punch-escrow_tal-kein/13552502/#edition=13222209&idiq=23486266) by Tal M. Klein
 1. [Permanent Record](https://www.thriftbooks.com/w/permanent-record_arthur-king/22218681/#edition=23713223&idiq=34485568) by Edward Snowden
+1. [The Obstacle Is the Way](https://www.thriftbooks.com/w/the-obstacle-is-the-way-the-timeless-art-of-turning-trials-into-triumph_ryan-holiday/3220637/#edition=7768542&idiq=8030700) by Ryan Holiday
+1. [Peace Is Every Step](https://www.thriftbooks.com/w/peace-is-every-step-the-path-of-mindfulness-in-everyday-life-by-thch-nht-hnh/250503/#edition=2411149&idiq=39653) by Thich Nhat Hanh
