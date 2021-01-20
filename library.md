@@ -16,16 +16,16 @@ I should probably note that some of these books will be ones I've read dozens of
 
 1. [Magician: Apprentice (Riftwar Saga #1)](https://www.thriftbooks.com/w/magician-by-raymond-e-feist/252608/#edition=2412352&idiq=4371583) by Raymond E. Feist
 1. [The Art of Happiness](https://www.thriftbooks.com/w/the-art-of-happiness-a-handbook-for-living-by-dalai-lama-xiv/245744/#edition=5348464&idiq=4069358) by Dalai Lama XIV and Howard C. Cutler
-1. [Ready Player Two](https://www.thriftbooks.com/w/ready-player-two_ernest-cline/26736005/#edition=46336470&idiq=42739090) by Ernest Cline
 1. [Gumption](https://www.thriftbooks.com/w/gumption-relighting-the-torch-of-freedom-with-americas-gutsiest-troublemakers_nick-offerman/9474943/#edition=9357598&idiq=17978239) by Nick Offerman
 
 ---
 
 ## Books Read in 2021
 
-**Goal: 1 of 20**
+**Goal: 2 of 20**
 
 1. [Goodbye Phone, Hello World](https://www.thriftbooks.com/w/goodbye-phone-hello-world-65-ways-to-disconnect-from-tech-and-reconnect-to-joy_paul-greenberg/26308858/#edition=30186707&idiq=42236122) by Paul Greenberg
+1. [Ready Player Two](https://www.thriftbooks.com/w/ready-player-two_ernest-cline/26736005/#edition=46336470&idiq=42739090) by Ernest Cline
 
 ## Books Read in 2020
 
