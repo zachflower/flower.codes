@@ -16,6 +16,7 @@ I should probably note that some of these books will be ones I've read dozens of
 
 1. [The Art of Happiness](https://www.thriftbooks.com/w/the-art-of-happiness-a-handbook-for-living-by-dalai-lama-xiv/245744/#edition=5348464&idiq=4069358) by Dalai Lama XIV and Howard C. Cutler
 1. [Gumption](https://www.thriftbooks.com/w/gumption-relighting-the-torch-of-freedom-with-americas-gutsiest-troublemakers_nick-offerman/9474943/#edition=9357598&idiq=17978239) by Nick Offerman
+1. [The Punch Escrow](https://www.thriftbooks.com/w/the-punch-escrow_tal-kein/13552502/#edition=13222209&idiq=23486266) by Tal M. Klein
 
 ---
 
@@ -50,7 +51,6 @@ I should probably note that some of these books will be ones I've read dozens of
 1. [Small Fry](https://www.thriftbooks.com/w/small-fry_lisa-brennan-jobs/19685021/#edition=20900155&idiq=36048954) by Lisa Brennan-Jobs
 1. [Blood, Sweat, and Pixels](https://www.thriftbooks.com/w/blood-sweat-and-pixels-the-triumphant-turbulent-stories-behind-how-video-games-are-made_jason-schreier/18605977/#isbn=0062651234&edition=13503939) by Jason Schreier
 1. [Mage Against the Machine](https://www.thriftbooks.com/w/mage-against-the-machine_shaun-barger/18662322/#edition=19878511&idiq=30911857) by Shaun Barger
-1. [The Punch Escrow](https://www.thriftbooks.com/w/the-punch-escrow_tal-kein/13552502/#edition=13222209&idiq=23486266) by Tal M. Klein
 1. [Permanent Record](https://www.thriftbooks.com/w/permanent-record_arthur-king/22218681/#edition=23713223&idiq=34485568) by Edward Snowden
 1. [The Obstacle Is the Way](https://www.thriftbooks.com/w/the-obstacle-is-the-way-the-timeless-art-of-turning-trials-into-triumph_ryan-holiday/3220637/#edition=7768542&idiq=8030700) by Ryan Holiday
 1. [Peace Is Every Step](https://www.thriftbooks.com/w/peace-is-every-step-the-path-of-mindfulness-in-everyday-life-by-thch-nht-hnh/250503/#edition=2411149&idiq=39653) by Thich Nhat Hanh
