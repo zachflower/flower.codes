@@ -21,7 +21,7 @@ I should probably note that some of these books will be ones I've read dozens of
 
 ## Books Read in 2021
 
-**Goal: 2 of 20**
+**Goal: 3 of 20**
 
 1. [Goodbye Phone, Hello World](https://www.thriftbooks.com/w/goodbye-phone-hello-world-65-ways-to-disconnect-from-tech-and-reconnect-to-joy_paul-greenberg/26308858/#edition=30186707&idiq=42236122) by Paul Greenberg
 1. [Ready Player Two](https://www.thriftbooks.com/w/ready-player-two_ernest-cline/26736005/#edition=46336470&idiq=42739090) by Ernest Cline
