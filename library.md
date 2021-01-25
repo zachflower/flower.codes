@@ -17,6 +17,7 @@ I should probably note that some of these books will be ones I've read dozens of
 1. [The Art of Happiness](https://www.thriftbooks.com/w/the-art-of-happiness-a-handbook-for-living-by-dalai-lama-xiv/245744/#edition=5348464&idiq=4069358) by Dalai Lama XIV and Howard C. Cutler
 1. [Gumption](https://www.thriftbooks.com/w/gumption-relighting-the-torch-of-freedom-with-americas-gutsiest-troublemakers_nick-offerman/9474943/#edition=9357598&idiq=17978239) by Nick Offerman
 1. [The Punch Escrow](https://www.thriftbooks.com/w/the-punch-escrow_tal-kein/13552502/#edition=13222209&idiq=23486266) by Tal M. Klein
+1. [The Cuckoo's Egg](https://www.thriftbooks.com/w/the-cuckoos-egg-tracking-a-spy-through-the-maze-of-computer-espionage_clifford-stoll/264211/#edition=3390114&idiq=3982075) by Clifford Stoll
 
 ---
 
@@ -58,4 +59,3 @@ I should probably note that some of these books will be ones I've read dozens of
 1. [The Making of a Manager](https://www.thriftbooks.com/w/the-making-of-a-manager-what-to-do-when-everyone-looks-to-you_julie-zhuo/18875469/#edition=20112038&idiq=31937694) by Julie Zhuo
 1. [Meditations](https://www.thriftbooks.com/w/the-emperors-handbook-a-new-translation-of-the-meditations_marcus-aurelius/261266/#edition=14509755&idiq=43288584) by Marcus Aurelius
 1. [A Promised Land](https://www.thriftbooks.com/w/a-promised-land_barack-obama/26966016/#edition=57301859&idiq=42647033) by Barack Obama
-1. [The Cuckoo's Egg](https://www.thriftbooks.com/w/the-cuckoos-egg-tracking-a-spy-through-the-maze-of-computer-espionage_clifford-stoll/264211/#edition=3390114&idiq=3982075) by Clifford Stoll
