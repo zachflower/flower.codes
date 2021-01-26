@@ -59,3 +59,5 @@ I should probably note that some of these books will be ones I've read dozens of
 1. [The Making of a Manager](https://www.thriftbooks.com/w/the-making-of-a-manager-what-to-do-when-everyone-looks-to-you_julie-zhuo/18875469/#edition=20112038&idiq=31937694) by Julie Zhuo
 1. [Meditations](https://www.thriftbooks.com/w/the-emperors-handbook-a-new-translation-of-the-meditations_marcus-aurelius/261266/#edition=14509755&idiq=43288584) by Marcus Aurelius
 1. [A Promised Land](https://www.thriftbooks.com/w/a-promised-land_barack-obama/26966016/#edition=57301859&idiq=42647033) by Barack Obama
+1. [Astrophysics for People in a Hurry](https://www.thriftbooks.com/w/astrophysics-for-people-in-a-hurry_neil-degrasse-tyson/13523145/?resultid=e6da04a1-5c9f-4b65-a065-770aafae42e0#isbn=0393609391) by Neil deGrasse Tyson
+1. [A Game of Thrones (A Song of Ice and Fire #1)](https://www.thriftbooks.com/w/a-game-of-thrones_george-rr-martin/245776/?resultid=cec92ad6-6adf-4a8a-99a9-f0d081ebb9b5#edition=3768084&idiq=4023257) by George R.R. Martin
