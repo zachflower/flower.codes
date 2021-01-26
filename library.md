@@ -17,6 +17,7 @@ I should probably note that some of these books will be ones I've read dozens of
 1. [The Art of Happiness](https://www.thriftbooks.com/w/the-art-of-happiness-a-handbook-for-living-by-dalai-lama-xiv/245744/#edition=5348464&idiq=4069358) by Dalai Lama XIV and Howard C. Cutler
 1. [Gumption](https://www.thriftbooks.com/w/gumption-relighting-the-torch-of-freedom-with-americas-gutsiest-troublemakers_nick-offerman/9474943/#edition=9357598&idiq=17978239) by Nick Offerman
 1. [The Cuckoo's Egg](https://www.thriftbooks.com/w/the-cuckoos-egg-tracking-a-spy-through-the-maze-of-computer-espionage_clifford-stoll/264211/#edition=3390114&idiq=3982075) by Clifford Stoll
+1. [The Subtle Art of Not Giving a F*ck](https://www.thriftbooks.com/w/the-subtle-art-of-not-giving-a-fck-a-counterintuitive-approach-to-living-a-good-life_mark--manson/11437515/#edition=19782964&idiq=25708890) by Mark Manson
 
 ---
 
@@ -47,7 +48,6 @@ I should probably note that some of these books will be ones I've read dozens of
 ## Book Backlog
 
 1. [When to Rob a Bank ](https://www.thriftbooks.com/w/when-to-rob-a-bank-unabridged-cd/9324794/#edition=9440260&idiq=18764010) by Steven D. Levitt and Stephen J. Dubner
-1. [The Subtle Art of Not Giving a F*ck](https://www.thriftbooks.com/w/the-subtle-art-of-not-giving-a-fck-a-counterintuitive-approach-to-living-a-good-life_mark--manson/11437515/#edition=19782964&idiq=25708890) by Mark Manson
 1. [Steve Jobs](https://www.thriftbooks.com/w/steve-jobs-by-walter-isaacson/248446/#edition=6140133&idiq=2064293) by Walter Isaacson
 1. [Small Fry](https://www.thriftbooks.com/w/small-fry_lisa-brennan-jobs/19685021/#edition=20900155&idiq=36048954) by Lisa Brennan-Jobs
 1. [Blood, Sweat, and Pixels](https://www.thriftbooks.com/w/blood-sweat-and-pixels-the-triumphant-turbulent-stories-behind-how-video-games-are-made_jason-schreier/18605977/#isbn=0062651234&edition=13503939) by Jason Schreier
