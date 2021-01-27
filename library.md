@@ -61,3 +61,9 @@ I should probably note that some of these books will be ones I've read dozens of
 1. [A Promised Land](https://www.thriftbooks.com/w/a-promised-land_barack-obama/26966016/#edition=57301859&idiq=42647033) by Barack Obama
 1. [Astrophysics for People in a Hurry](https://www.thriftbooks.com/w/astrophysics-for-people-in-a-hurry_neil-degrasse-tyson/13523145/?resultid=e6da04a1-5c9f-4b65-a065-770aafae42e0#isbn=0393609391) by Neil deGrasse Tyson
 1. [A Game of Thrones (A Song of Ice and Fire #1)](https://www.thriftbooks.com/w/a-game-of-thrones_george-rr-martin/245776/?resultid=cec92ad6-6adf-4a8a-99a9-f0d081ebb9b5#edition=3768084&idiq=4023257) by George R.R. Martin
+1. [Norse Mythology](https://www.thriftbooks.com/w/norse-mythology_neil-gaiman/11624333/#edition=19786197&idiq=29200406) by Neil Gaiman
+1. [1984](https://www.thriftbooks.com/w/nineteen-eighty-four_george-orwell/247716/?resultid=d8d481b4-84f8-4b25-a6ff-cf0fbe9cb10d#edition=2400521&idiq=1807839) by George Orwell
+1. [Ego Is the Enemy](https://www.thriftbooks.com/w/ego-is-the-enemy_ryan-holiday/10034174/?resultid=7a3c5071-d172-4890-bbfe-114ce9c4570d#edition=9484644&idiq=19442054) by Ryan Holiday
+1. [REAMDE](https://www.thriftbooks.com/w/reamde_neal-stephenson/269687/?resultid=2a2437b9-1c8d-4b56-948a-3d34b0a2e32e#edition=6535091&idiq=4806892) by Neal Stephenson
+1. [Band of Brothers](https://www.thriftbooks.com/w/band-of-brothers-e-company-506th-regiment-101st-airborne-from-normandy-to-hitlers-eagles-nest_stephen-e-ambrose/250951/?resultid=48ad21c7-d119-47b5-9be6-ddbf96f53186#edition=18399215&idiq=24771407) by Stephen E. Ambrose
+1. [The Handmaid's Tale](https://www.thriftbooks.com/w/the-handmaids-tale-by-margaret-atwood/247067/?resultid=78bc7d4e-9ae9-4924-9bc1-d9a62e8a30d3#edition=2382360&idiq=4003968) by Margaret Atwood
