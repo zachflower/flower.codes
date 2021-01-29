@@ -70,3 +70,8 @@ I should probably note that some of these books will be ones I've read dozens of
 1. [The Handmaid's Tale](https://www.thriftbooks.com/w/the-handmaids-tale-by-margaret-atwood/247067/?resultid=78bc7d4e-9ae9-4924-9bc1-d9a62e8a30d3#edition=2382360&idiq=4003968) by Margaret Atwood
 1. [Gates](https://www.thriftbooks.com/w/gates-how-microsofts-mogul-reinvented-an-industry-and-made-himself-the-richest-man-in-america_stephen-manes_paul-andrews/322236/item/#edition=2264118&idiq=4593869) by Stephen Manes and Paul Andrews
 1. [Sapiens](https://www.thriftbooks.com/w/from-animals-into-gods-a-brief-history-of-humankind_yuval-noah-harari/1015082/?resultid=ceb52565-1ec5-4707-95f3-92bb98663927#edition=11174316&idiq=30354536) by Yuval Noah Harari
+1. [Casino Royale (James Bond #1)](https://www.thriftbooks.com/w/casino-royale-by-ian-fleming/254306/?resultid=6f85e6c1-72f1-4085-b3d5-62592422d279#edition=3589089&idiq=345587) by Ian Fleming
+1. [Neuromancer (Sprawl 0.5 #1)](https://www.thriftbooks.com/w/neuromancer_william-gibson/248762/?resultid=567da263-be7b-4a0a-89ae-abdfa31e0d7e#edition=2392845&idiq=9850282) by William Gibson
+1. [Cryptonomicon](https://www.thriftbooks.com/w/cryptonomicon_neal-stephenson/253851/?resultid=a6f5f73c-6c41-4ec1-9ae1-ac5974ad90ef#edition=2378108&idiq=1842420) by Neal Stephenson
+1. [A Short History of Nearly Everything](https://www.thriftbooks.com/w/a-short-history-of-nearly-everything-by-bill-bryson/246012/?resultid=32724249-5017-4320-b973-57d375252e0a#edition=2293030&idiq=1682532) by Bill Bryson
+1. [Artemis](https://www.thriftbooks.com/w/artemis_andy-weir/13872588/?resultid=582c9078-5a00-49ac-ab95-d6d993f69358#edition=20584853&idiq=28792813) by Andy Weir
