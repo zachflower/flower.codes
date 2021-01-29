@@ -16,7 +16,6 @@ I should probably note that some of these books will be ones I've read dozens of
 
 1. [The Art of Happiness](https://www.thriftbooks.com/w/the-art-of-happiness-a-handbook-for-living-by-dalai-lama-xiv/245744/#edition=5348464&idiq=4069358) by Dalai Lama XIV and Howard C. Cutler
 1. [Gumption](https://www.thriftbooks.com/w/gumption-relighting-the-torch-of-freedom-with-americas-gutsiest-troublemakers_nick-offerman/9474943/#edition=9357598&idiq=17978239) by Nick Offerman
-1. [The Cuckoo's Egg](https://www.thriftbooks.com/w/the-cuckoos-egg-tracking-a-spy-through-the-maze-of-computer-espionage_clifford-stoll/264211/#edition=3390114&idiq=3982075) by Clifford Stoll
 1. [Origin (Robert Langdon #5)](https://www.thriftbooks.com/w/origin_dan-brown/13532095/?resultid=96e5ae83-ab81-4fad-af9b-c00f96d2c58e#edition=20581020&idiq=28883660) by Dan Brown
 
 ---
@@ -30,6 +29,7 @@ I should probably note that some of these books will be ones I've read dozens of
 1. [Magician: Apprentice (Riftwar Saga #1)](https://www.thriftbooks.com/w/magician-by-raymond-e-feist/252608/#edition=2412352&idiq=4371583) by Raymond E. Feist
 1. [The Punch Escrow](https://www.thriftbooks.com/w/the-punch-escrow_tal-kein/13552502/#edition=13222209&idiq=23486266) by Tal M. Klein
 1. [The Subtle Art of Not Giving a F*ck](https://www.thriftbooks.com/w/the-subtle-art-of-not-giving-a-fck-a-counterintuitive-approach-to-living-a-good-life_mark--manson/11437515/#edition=19782964&idiq=25708890) by Mark Manson
+1. [The Cuckoo's Egg](https://www.thriftbooks.com/w/the-cuckoos-egg-tracking-a-spy-through-the-maze-of-computer-espionage_clifford-stoll/264211/#edition=3390114&idiq=3982075) by Clifford Stoll
 
 ## Books Read in 2020
 
