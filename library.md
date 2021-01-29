@@ -17,12 +17,13 @@ I should probably note that some of these books will be ones I've read dozens of
 1. [The Art of Happiness](https://www.thriftbooks.com/w/the-art-of-happiness-a-handbook-for-living-by-dalai-lama-xiv/245744/#edition=5348464&idiq=4069358) by Dalai Lama XIV and Howard C. Cutler
 1. [Gumption](https://www.thriftbooks.com/w/gumption-relighting-the-torch-of-freedom-with-americas-gutsiest-troublemakers_nick-offerman/9474943/#edition=9357598&idiq=17978239) by Nick Offerman
 1. [Origin (Robert Langdon #5)](https://www.thriftbooks.com/w/origin_dan-brown/13532095/?resultid=96e5ae83-ab81-4fad-af9b-c00f96d2c58e#edition=20581020&idiq=28883660) by Dan Brown
+1. [Mage Against the Machine](https://www.thriftbooks.com/w/mage-against-the-machine_shaun-barger/18662322/#edition=19878511&idiq=30911857) by Shaun Barger
 
 ---
 
 ## Books Read in 2021
 
-**Goal: 5 of 20**
+**Goal: 6 of 20**
 
 1. [Goodbye Phone, Hello World](https://www.thriftbooks.com/w/goodbye-phone-hello-world-65-ways-to-disconnect-from-tech-and-reconnect-to-joy_paul-greenberg/26308858/#edition=30186707&idiq=42236122) by Paul Greenberg
 1. [Ready Player Two](https://www.thriftbooks.com/w/ready-player-two_ernest-cline/26736005/#edition=46336470&idiq=42739090) by Ernest Cline
@@ -48,16 +49,15 @@ I should probably note that some of these books will be ones I've read dozens of
 
 ## Book Backlog
 
+1. [The Making of a Manager](https://www.thriftbooks.com/w/the-making-of-a-manager-what-to-do-when-everyone-looks-to-you_julie-zhuo/18875469/#edition=20112038&idiq=31937694) by Julie Zhuo
 1. [When to Rob a Bank ](https://www.thriftbooks.com/w/when-to-rob-a-bank-unabridged-cd/9324794/#edition=9440260&idiq=18764010) by Steven D. Levitt and Stephen J. Dubner
 1. [Steve Jobs](https://www.thriftbooks.com/w/steve-jobs-by-walter-isaacson/248446/#edition=6140133&idiq=2064293) by Walter Isaacson
 1. [Small Fry](https://www.thriftbooks.com/w/small-fry_lisa-brennan-jobs/19685021/#edition=20900155&idiq=36048954) by Lisa Brennan-Jobs
 1. [Blood, Sweat, and Pixels](https://www.thriftbooks.com/w/blood-sweat-and-pixels-the-triumphant-turbulent-stories-behind-how-video-games-are-made_jason-schreier/18605977/#isbn=0062651234&edition=13503939) by Jason Schreier
-1. [Mage Against the Machine](https://www.thriftbooks.com/w/mage-against-the-machine_shaun-barger/18662322/#edition=19878511&idiq=30911857) by Shaun Barger
 1. [Permanent Record](https://www.thriftbooks.com/w/permanent-record_arthur-king/22218681/#edition=23713223&idiq=34485568) by Edward Snowden
 1. [The Obstacle Is the Way](https://www.thriftbooks.com/w/the-obstacle-is-the-way-the-timeless-art-of-turning-trials-into-triumph_ryan-holiday/3220637/#edition=7768542&idiq=8030700) by Ryan Holiday
 1. [Peace Is Every Step](https://www.thriftbooks.com/w/peace-is-every-step-the-path-of-mindfulness-in-everyday-life-by-thch-nht-hnh/250503/#edition=2411149&idiq=39653) by Thich Nhat Hanh
 1. [Click Here to Kill Everybody](https://www.thriftbooks.com/w/click-here-to-kill-everybody-security-and-survival-in-a-hyper-connected-world_bruce-schneier/18597021/#edition=21457411&idiq=39372813) by Bruce Schneier
-1. [The Making of a Manager](https://www.thriftbooks.com/w/the-making-of-a-manager-what-to-do-when-everyone-looks-to-you_julie-zhuo/18875469/#edition=20112038&idiq=31937694) by Julie Zhuo
 1. [Meditations](https://www.thriftbooks.com/w/the-emperors-handbook-a-new-translation-of-the-meditations_marcus-aurelius/261266/#edition=14509755&idiq=43288584) by Marcus Aurelius
 1. [A Promised Land](https://www.thriftbooks.com/w/a-promised-land_barack-obama/26966016/#edition=57301859&idiq=42647033) by Barack Obama
 1. [Astrophysics for People in a Hurry](https://www.thriftbooks.com/w/astrophysics-for-people-in-a-hurry_neil-degrasse-tyson/13523145/?resultid=e6da04a1-5c9f-4b65-a065-770aafae42e0#isbn=0393609391) by Neil deGrasse Tyson
