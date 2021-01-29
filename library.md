@@ -17,18 +17,19 @@ I should probably note that some of these books will be ones I've read dozens of
 1. [The Art of Happiness](https://www.thriftbooks.com/w/the-art-of-happiness-a-handbook-for-living-by-dalai-lama-xiv/245744/#edition=5348464&idiq=4069358) by Dalai Lama XIV and Howard C. Cutler
 1. [Gumption](https://www.thriftbooks.com/w/gumption-relighting-the-torch-of-freedom-with-americas-gutsiest-troublemakers_nick-offerman/9474943/#edition=9357598&idiq=17978239) by Nick Offerman
 1. [The Cuckoo's Egg](https://www.thriftbooks.com/w/the-cuckoos-egg-tracking-a-spy-through-the-maze-of-computer-espionage_clifford-stoll/264211/#edition=3390114&idiq=3982075) by Clifford Stoll
-1. [The Subtle Art of Not Giving a F*ck](https://www.thriftbooks.com/w/the-subtle-art-of-not-giving-a-fck-a-counterintuitive-approach-to-living-a-good-life_mark--manson/11437515/#edition=19782964&idiq=25708890) by Mark Manson
+1. [Origin (Robert Langdon #5)](https://www.thriftbooks.com/w/origin_dan-brown/13532095/?resultid=96e5ae83-ab81-4fad-af9b-c00f96d2c58e#edition=20581020&idiq=28883660) by Dan Brown
 
 ---
 
 ## Books Read in 2021
 
-**Goal: 4 of 20**
+**Goal: 5 of 20**
 
 1. [Goodbye Phone, Hello World](https://www.thriftbooks.com/w/goodbye-phone-hello-world-65-ways-to-disconnect-from-tech-and-reconnect-to-joy_paul-greenberg/26308858/#edition=30186707&idiq=42236122) by Paul Greenberg
 1. [Ready Player Two](https://www.thriftbooks.com/w/ready-player-two_ernest-cline/26736005/#edition=46336470&idiq=42739090) by Ernest Cline
 1. [Magician: Apprentice (Riftwar Saga #1)](https://www.thriftbooks.com/w/magician-by-raymond-e-feist/252608/#edition=2412352&idiq=4371583) by Raymond E. Feist
 1. [The Punch Escrow](https://www.thriftbooks.com/w/the-punch-escrow_tal-kein/13552502/#edition=13222209&idiq=23486266) by Tal M. Klein
+1. [The Subtle Art of Not Giving a F*ck](https://www.thriftbooks.com/w/the-subtle-art-of-not-giving-a-fck-a-counterintuitive-approach-to-living-a-good-life_mark--manson/11437515/#edition=19782964&idiq=25708890) by Mark Manson
 
 ## Books Read in 2020
 
@@ -67,3 +68,5 @@ I should probably note that some of these books will be ones I've read dozens of
 1. [REAMDE](https://www.thriftbooks.com/w/reamde_neal-stephenson/269687/?resultid=2a2437b9-1c8d-4b56-948a-3d34b0a2e32e#edition=6535091&idiq=4806892) by Neal Stephenson
 1. [Band of Brothers](https://www.thriftbooks.com/w/band-of-brothers-e-company-506th-regiment-101st-airborne-from-normandy-to-hitlers-eagles-nest_stephen-e-ambrose/250951/?resultid=48ad21c7-d119-47b5-9be6-ddbf96f53186#edition=18399215&idiq=24771407) by Stephen E. Ambrose
 1. [The Handmaid's Tale](https://www.thriftbooks.com/w/the-handmaids-tale-by-margaret-atwood/247067/?resultid=78bc7d4e-9ae9-4924-9bc1-d9a62e8a30d3#edition=2382360&idiq=4003968) by Margaret Atwood
+1. [Gates](https://www.thriftbooks.com/w/gates-how-microsofts-mogul-reinvented-an-industry-and-made-himself-the-richest-man-in-america_stephen-manes_paul-andrews/322236/item/#edition=2264118&idiq=4593869) by Stephen Manes and Paul Andrews
+1. [Sapiens](https://www.thriftbooks.com/w/from-animals-into-gods-a-brief-history-of-humankind_yuval-noah-harari/1015082/?resultid=ceb52565-1ec5-4707-95f3-92bb98663927#edition=11174316&idiq=30354536) by Yuval Noah Harari
