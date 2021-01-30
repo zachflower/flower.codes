@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: library
 title: Library
 date: 2021-01-17 12:00:00
 ---
@@ -12,7 +12,7 @@ So, in support of my single 2021 resolution to "slow the fuck down," I'm going t
 
 I should probably note that some of these books will be ones I've read dozens of times, while others will be one-and-dones (ones-and-done?). I'm sure there will be a few I don't even bother to finish, but it's my list and I'll do what I want with it. Also, it's important to acknowledge that some authors are great writers, but [less-than-great](https://slate.com/human-interest/2020/06/jk-rowling-trans-men-terf.html) [people](https://www.salon.com/2013/05/07/sci_fi_icon_orson_scott_card_hates_fan_fiction_the_homosexual_agenda_partner/). It shouldn't need to be said, but my choosing to read a book does not constitute support of an author's personal beliefs.
 
-## Currently Reading
+<!-- ## Currently Reading
 
 1. [The Art of Happiness](https://www.thriftbooks.com/w/the-art-of-happiness-a-handbook-for-living-by-dalai-lama-xiv/245744/#edition=5348464&idiq=4069358) by Dalai Lama XIV and Howard C. Cutler
 1. [Gumption](https://www.thriftbooks.com/w/gumption-relighting-the-torch-of-freedom-with-americas-gutsiest-troublemakers_nick-offerman/9474943/#edition=9357598&idiq=17978239) by Nick Offerman
@@ -74,4 +74,4 @@ I should probably note that some of these books will be ones I've read dozens of
 1. [Neuromancer (Sprawl 0.5 #1)](https://www.thriftbooks.com/w/neuromancer_william-gibson/248762/?resultid=567da263-be7b-4a0a-89ae-abdfa31e0d7e#edition=2392845&idiq=9850282) by William Gibson
 1. [Cryptonomicon](https://www.thriftbooks.com/w/cryptonomicon_neal-stephenson/253851/?resultid=a6f5f73c-6c41-4ec1-9ae1-ac5974ad90ef#edition=2378108&idiq=1842420) by Neal Stephenson
 1. [A Short History of Nearly Everything](https://www.thriftbooks.com/w/a-short-history-of-nearly-everything-by-bill-bryson/246012/?resultid=32724249-5017-4320-b973-57d375252e0a#edition=2293030&idiq=1682532) by Bill Bryson
-1. [Artemis](https://www.thriftbooks.com/w/artemis_andy-weir/13872588/?resultid=582c9078-5a00-49ac-ab95-d6d993f69358#edition=20584853&idiq=28792813) by Andy Weir
+1. [Artemis](https://www.thriftbooks.com/w/artemis_andy-weir/13872588/?resultid=582c9078-5a00-49ac-ab95-d6d993f69358#edition=20584853&idiq=28792813) by Andy Weir -->

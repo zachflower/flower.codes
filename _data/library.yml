@@ -1,0 +1,190 @@
+goals:
+  - year: 2021
+    goal: 20
+  - year: 2020
+    goal: 0
+
+entries:
+  - title: The Art of Happiness
+    author: Dalai Lama XIV and Howard C. Cutler
+    started: 2021-01-01
+
+  - title: Gumption
+    author: Nick Offerman
+    started: 2021-01-01
+
+  - title: "Origin"
+    author: Dan Brown
+    series: Robert Langdon
+    number: 5
+    started: 2021-01-28
+
+  - title: Mage Against the Machine
+    author: Shaun Barger
+    started: 2021-01-01
+
+  - title: Goodbye Phone, Hello World
+    author: Paul Greenberg
+    started: 2021-01-01
+    finished: 2021-01-18
+
+  - title: The Subtle Art of Not Giving a F*ck
+    author: Mark Manson
+    started: 2021-01-25
+    finished: 2021-01-28
+
+  - title: The Punch Escrow
+    author: Tal M. Klein
+    started: 2021-01-23
+    finished: 2021-01-25
+
+  - title: The Cuckoo's Egg
+    author: Clifford Stoll
+    started: 2021-01-25
+    finished: 2021-01-29
+
+  - title: "Magician: Apprentice"
+    author: Raymond E. Feist
+    series: Riftwar Saga
+    number: 1
+    started: 2021-01-01
+    finished: 2021-01-23
+
+  - title: Ready Player Two
+    author: Ernest Cline
+    series: Ready Player One
+    number: 2
+    started: 2021-01-18
+    finished: 2021-01-20
+
+  - title: Dragon Wing
+    author: Margaret Weis and Tracy Hickman
+    series: Death Gate Cycle
+    number: 1
+    started: 2020-01-01
+    finished: 2020-12-31
+
+  - title: Ghost in the Wires
+    author: Kevin D. Mitnick
+    started: 2020-01-01
+    finished: 2020-12-31
+
+  - title: Ender's Game
+    author: Orson Scott Card
+    series: Ender's Saga
+    number: 1
+    started: 2020-01-01
+    finished: 2020-12-31
+
+  - title: Outland
+    author: Dennis E. Taylor
+    started: 2020-01-01
+    finished: 2020-12-31
+
+  - title: Off to Be the Wizard
+    author: Scott Meyer
+    series: Magic 2.0
+    number: 1
+    started: 2020-01-01
+    finished: 2020-12-31
+
+  - title: The Vexed Generation
+    author: Scott Meyer
+    series: Magic 2.0
+    number: 6
+    started: 2020-01-01
+    finished: 2020-12-31
+
+  - title: Beacon 23
+    author: Hugh Howey
+    started: 2020-01-01
+    finished: 2020-12-31
+
+  - title: Armada
+    author: Ernest Cline
+    started: 2020-01-01
+    finished: 2020-12-31
+
+  - title: The Making of a Manager
+    author: Julie Zhuo
+
+  - title: When to Rob a Bank
+    author: Steven D. Levitt and Stephen J. Dubner
+
+  - title: Steve Jobs
+    author: Walter Isaacson
+
+  - title: Small Fry
+    author: Lisa Brennan-Jobs
+
+  - title: Blood, Sweat, and Pixels
+    author: Jason Schreier
+
+  - title: Permanent Record
+    author: Edward Snowden
+
+  - title: The Obstacle Is the Way
+    author: Ryan Holiday
+
+  - title: Peace Is Every Step
+    author: Thich Nhat Hanh
+
+  - title: Click Here to Kill Everybody
+    author: Bruce Schneier
+
+  - title: Meditations
+    author: Marcus Aurelius
+
+  - title: A Promised Land
+    author: Barack Obama
+
+  - title: Astrophysics for People in a Hurry
+    author: Neil deGrasse Tyson
+
+  - title: A Game of Thrones
+    author: George R.R. Martin
+    series: A Song of Ice and Fire
+    number: 1
+
+  - title: Norse Mythology
+    author: Neil Gaiman
+
+  - title: "1984"
+    author: George Orwell
+
+  - title: Ego Is the Enemy
+    author: Ryan Holiday
+
+  - title: REAMDE
+    author: Neal Stephenson
+
+  - title: Band of Brothers
+    author: Stephen E. Ambrose
+
+  - title: The Handmaid's Tale
+    author: Margaret Atwood
+
+  - title: Gates
+    author: Stephen Manes and Paul Andrews
+
+  - title: Sapiens
+    author: Yuval Noah Harari
+
+  - title: Casino Royale
+    author: Ian Fleming
+    series: James Bond
+    number: 1
+
+  - title: Neuromancer
+    author: William Gibson
+    series: Sprawl 0.5
+    number: 1
+
+  - title: Cryptonomicon
+    author: Neal Stephenson
+
+  - title: A Short History of Nearly Everything
+    author: Bill Bryson
+
+  - title: Artemis
+    author: Andy Weir
