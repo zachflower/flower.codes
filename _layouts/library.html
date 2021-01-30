@@ -51,7 +51,7 @@ layout: post
   {% endcapture %}
 
   <p>
-    <strong>Goal: {{ total  }} of {{ goal.goal }}</strong>
+    <strong>Goal: {{ total  }} of {{ goal.goal | default: 0 }}</strong>
   </p>
 
   {% if something %}
