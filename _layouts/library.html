@@ -4,12 +4,14 @@ layout: post
 
 {{ content }}
 
+
 <h2>Currently Reading</h2>
 
 {% assign something = false %}
 {% capture reading %}
+  {% assign books_by_started = site.data.library.entries | sort: "started" %}
   <ol>
-    {% for book in site.data.library.entries  %}
+    {% for book in books_by_started  %}
       {% if book.started %}
         {% unless book.finished %}
           {% assign something = true %}
@@ -29,6 +31,7 @@ layout: post
 <hr />
 
 {% assign goals_by_year = site.data.library.goals | sort: "year" | reverse %}
+{% assign books_by_finished = site.data.library.entries | sort: "finished" %}
 
 {% for goal in goals_by_year  %}
   <h2>Books Read in {{goal.year}}</h2>
@@ -36,7 +39,7 @@ layout: post
   {% assign total = 0 %}
   {% capture read %}
     <ol>
-      {% for book in site.data.library.entries  %}
+      {% for book in books_by_finished  %}
         {% if book.started and book.finished %}
           {% assign finished_year = book.finished | date: "%Y" | minus: 0 %}
 
