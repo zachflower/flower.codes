@@ -18,7 +18,8 @@ entries:
     series: Robert Langdon
     number: 5
     started: 2021-01-28
-  
+    finished: 2021-02-07
+
   - title: The Forever War
     author: Joe Haldeman
     series: The Forever War
@@ -147,6 +148,7 @@ entries:
 
   - title: Astrophysics for People in a Hurry
     author: Neil deGrasse Tyson
+    started: 2021-02-07
 
   - title: A Game of Thrones
     author: George R.R. Martin
