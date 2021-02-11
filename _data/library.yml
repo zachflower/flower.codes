@@ -225,4 +225,6 @@ entries:
 
   - title: The Shining
     author: Stephen King
+    series: The Shining
+    number: 1
     started: 2021-02-10
