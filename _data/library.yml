@@ -7,14 +7,18 @@ goals:
 entries:
   - title: The Art of Happiness
     author: Dalai Lama XIV and Howard C. Cutler
+    isbn: "1594488894"
     started: 2021-01-01
 
   - title: Gumption
     author: Nick Offerman
+    isbn: "0451473019"
     started: 2021-01-01
+    finished: 2021-02-19
 
   - title: Origin
     author: Dan Brown
+    isbn: "0525563709"
     series: Robert Langdon
     number: 5
     started: 2021-01-28
@@ -22,6 +26,7 @@ entries:
 
   - title: The Forever War
     author: Joe Haldeman
+    isbn: "0312536631"
     series: The Forever War
     number: 1
     started: 2021-02-02
@@ -29,31 +34,37 @@ entries:
 
   - title: Mage Against the Machine
     author: Shaun Barger
+    isbn: "1534403043"
     started: 2021-01-29
     finished: 2021-02-01
 
   - title: Goodbye Phone, Hello World
     author: Paul Greenberg
+    isbn: "1452184526"
     started: 2021-01-01
     finished: 2021-01-18
 
   - title: The Subtle Art of Not Giving a F*ck
     author: Mark Manson
+    isbn: "0062457713"
     started: 2021-01-25
     finished: 2021-01-28
 
   - title: The Punch Escrow
     author: Tal M. Klein
+    isbn: "1942645589"
     started: 2021-01-23
     finished: 2021-01-25
 
   - title: The Cuckoo's Egg
     author: Clifford Stoll
+    isbn: "0671726889"
     started: 2021-01-25
     finished: 2021-01-29
 
   - title: "Magician: Apprentice"
     author: Raymond E. Feist
+    isbn: "0553564943"
     series: Riftwar Saga
     number: 1
     started: 2021-01-01
@@ -61,6 +72,7 @@ entries:
 
   - title: Ready Player Two
     author: Ernest Cline
+    isbn: "1524761338"
     series: Ready Player One
     number: 2
     started: 2021-01-18
@@ -68,6 +80,7 @@ entries:
 
   - title: Dragon Wing
     author: Margaret Weis and Tracy Hickman
+    isbn: "0553057278"
     series: Death Gate Cycle
     number: 1
     started: 2020-01-01
@@ -75,11 +88,13 @@ entries:
 
   - title: Ghost in the Wires
     author: Kevin D. Mitnick
+    isbn: "0316037729"
     started: 2020-01-01
     finished: 2020-12-31
 
   - title: Ender's Game
     author: Orson Scott Card
+    isbn: "0812550706"
     series: Ender's Saga
     number: 1
     started: 2020-01-01
@@ -87,11 +102,15 @@ entries:
 
   - title: Outland
     author: Dennis E. Taylor
+    isbn: "150563119X"
+    series: World Lines
+    number: 1
     started: 2020-01-01
     finished: 2020-12-31
 
   - title: Off to Be the Wizard
     author: Scott Meyer
+    isbn: "1612184715"
     series: Magic 2.0
     number: 1
     started: 2020-01-01
@@ -99,6 +118,7 @@ entries:
 
   - title: The Vexed Generation
     author: Scott Meyer
+    isbn: "1950056023"
     series: Magic 2.0
     number: 6
     started: 2020-01-01
@@ -106,125 +126,155 @@ entries:
 
   - title: Beacon 23
     author: Hugh Howey
+    isbn: "0544839633"
     started: 2020-01-01
     finished: 2020-12-31
 
   - title: Armada
     author: Ernest Cline
+    isbn: "0804137277"
     started: 2020-01-01
     finished: 2020-12-31
 
   - title: The Making of a Manager
     author: Julie Zhuo
+    isbn: "0735219567"
 
   - title: When to Rob a Bank
     author: Steven D. Levitt and Stephen J. Dubner
+    isbn: "0062385321"
 
   - title: Steve Jobs
     author: Walter Isaacson
+    isbn: "1451648537"
 
   - title: Small Fry
     author: Lisa Brennan-Jobs
+    isbn: "0802128238"
 
   - title: Blood, Sweat, and Pixels
     author: Jason Schreier
+    isbn: "0062651234"
 
   - title: Permanent Record
     author: Edward Snowden
+    isbn: "1250237238"
 
   - title: The Obstacle Is the Way
     author: Ryan Holiday
+    isbn: "1591846358"
 
   - title: Peace Is Every Step
     author: Thich Nhat Hanh
+    isbn: "0553351397"
 
   - title: Click Here to Kill Everybody
     author: Bruce Schneier
+    isbn: "0393357449"
 
   - title: Meditations
     author: Marcus Aurelius
+    isbn: "048629823X"
 
   - title: A Promised Land
     author: Barack Obama
+    isbn: "1524763160"
 
   - title: Astrophysics for People in a Hurry
     author: Neil deGrasse Tyson
+    isbn: "0393609391"
     started: 2021-02-07
 
   - title: A Game of Thrones
     author: George R.R. Martin
+    isbn: "0553573403"
     series: A Song of Ice and Fire
     number: 1
 
   - title: Norse Mythology
     author: Neil Gaiman
+    isbn: "1410499499"
 
   - title: "1984"
     author: George Orwell
+    isbn: "0451524934"
 
   - title: Ego Is the Enemy
     author: Ryan Holiday
+    isbn: "1591847818"
 
   - title: REAMDE
     author: Neal Stephenson
+    isbn: "0062191497"
 
   - title: Band of Brothers
     author: Stephen E. Ambrose
+    isbn: "1501179403"
 
   - title: The Handmaid's Tale
     author: Margaret Atwood
+    isbn: "038549081X"
 
   - title: Gates
     author: Stephen Manes and Paul Andrews
+    isbn: "0671880748"
 
   - title: Sapiens
     author: Yuval Noah Harari
+    isbn: "0062316117"
 
   - title: Casino Royale
     author: Ian Fleming
+    isbn: "014200202X"
     series: James Bond
     number: 1
 
   - title: Neuromancer
     author: William Gibson
+    isbn: "0441569595"
     series: Sprawl 0.5
     number: 1
 
   - title: Cryptonomicon
     author: Neal Stephenson
+    isbn: "0380788624"
 
   - title: A Short History of Nearly Everything
     author: Bill Bryson
+    isbn: "076790818X"
 
   - title: Artemis
     author: Andy Weir
+    isbn: "0553448145"
 
   - title: I Am America (And So Can You!)
     author: Stephen Colbert
+    isbn: "0446580503"
 
   - title: The Phoenix Project
     author: Gene Kim, Kevin Behr, and George Spafford
+    isbn: "1942788290"
 
   - title: Quit Like a Millionaire
     author: Bryce Leung and Kristy Shen
+    isbn: "9780525538691"
 
   - title: The Five Thieves of Happiness
     author: John Izzo
-
-  - title: The Long-Distance Leader
-    author: Kevin Eikenberry and Wayne Turmel
-
-  - title: The Introverted Leader
-    author: Jennifer B. Kahnweiler
-
-  - title: How You Learn Is How You Live
-    author: Kay Peterson and David A. Kolb
+    isbn: "1626569320"
 
   - title: Fahrenheit 451
     author: Ray Bradbury
+    isbn: "1451673310"
 
   - title: The Shining
     author: Stephen King
+    isbn: "B005KDY68E"
     series: The Shining
     number: 1
     started: 2021-02-10
+
+  - title: Another Turn of the Crank
+    author: Wendell Berry
+    isbn: "1887178287"
+    started: 2021-02-19

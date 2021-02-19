@@ -1,4 +1,8 @@
 <li>
-  <a href="https://www.thriftbooks.com/browse/?b.search={{book.title | url_encode}}" target="_blank">{{book.title}}{% if book.series and book.number %} ({{book.series}} #{{book.number}}){% endif %}</a>
+  {% if book.isbn %}
+    <a href="https://www.thriftbooks.com/browse/?b.search={{book.isbn | url_encode}}" target="_blank">{{book.title}}{% if book.series and book.number %} ({{book.series}} #{{book.number}}){% endif %}</a>
+  {% else %}
+    <a href="https://www.thriftbooks.com/browse/?b.search={{book.title | url_encode}}" target="_blank">{{book.title}}{% if book.series and book.number %} ({{book.series}} #{{book.number}}){% endif %}</a>
+  {% endif %}
   by {{book.author}}
 </li>
