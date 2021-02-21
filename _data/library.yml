@@ -167,6 +167,7 @@ entries:
   - title: Peace Is Every Step
     author: Thich Nhat Hanh
     isbn: "0553351397"
+    started: 2021-02-20
 
   - title: Click Here to Kill Everybody
     author: Bruce Schneier
@@ -184,6 +185,7 @@ entries:
     author: Neil deGrasse Tyson
     isbn: "0393609391"
     started: 2021-02-07
+    finished: 2021-02-20
 
   - title: A Game of Thrones
     author: George R.R. Martin
