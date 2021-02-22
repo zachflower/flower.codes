@@ -7,57 +7,34 @@ trigger:
 
 steps:
 
-# restore the bundler cache from the previous builds
-- name: restore-cache
-  image: drillster/drone-volume-cache:latest
-  restore: true
-  mount:
-    - /drone/.bundle
-  volumes:
-    - jekyll-blog-cache:/cache
-
-# build the thing
 - name: build
   image: ruby:2.7
-  environment:
-    - BUNDLE_PATH=/drone/.bundle
   commands:
-    - bundle install
-    - bundle exec jekyll build
+  - bundle install
+  - bundle exec jekyll build
 
-# rebuild the bundler cache with any changes
-- name: rebuild-cache
-  image: drillster/drone-volume-cache:latest
-  rebuild: true
-  mount:
-    - /drone/.bundle
-  volumes:
-    - jekyll-blog-cache:/cache
-
-# optimize the crap out of those images
 - name: optimize
   image: ruby:2.7
   commands:
-    - apt update
-    - apt install imagemagick -y
+  - apt update
+  - apt install imagemagick -y
 
-    # compress png images
-    - mogrify -verbose -colorspace Gray -colors 4 -quality 10 /drone/src/_site/assets/posts/*.png
+  # compress png images
+  - mogrify -verbose -colorspace Gray -colors 4 -quality 10 /drone/src/_site/assets/posts/*.png
 
-    # compress jpg images
-    - mogrify -verbose -colorspace Gray -colors 4 -quality 10 /drone/src/_site/assets/posts/*.jpg
+  # compress jpg images
+  - mogrify -verbose -colorspace Gray -colors 4 -quality 10 /drone/src/_site/assets/posts/*.jpg
 
-# ship it
 - name: deploy
   image: ruby:2.7
   commands:
-    - apt update
-    - apt install rsync -y
-    - eval `ssh-agent -s`
-    - echo "$RSYNC_KEY" | ssh-add -
-    - mkdir -p ~/.ssh
-    - echo "Host *\n\tStrictHostKeyChecking no\n\n" > ~/.ssh/config
-    - rsync -rvc /drone/src/_site/ $RSYNC_USER@$RSYNC_HOST:/var/www/flower.codes/
+  - apt update
+  - apt install rsync -y
+  - eval `ssh-agent -s`
+  - echo "$RSYNC_KEY" | ssh-add -
+  - mkdir -p ~/.ssh
+  - echo "Host *\n\tStrictHostKeyChecking no\n\n" > ~/.ssh/config
+  - rsync -rvc /drone/src/_site/ $RSYNC_USER@$RSYNC_HOST:/var/www/flower.codes/
   environment:
     RSYNC_KEY:
       from_secret: rsync_key
