@@ -10,7 +10,6 @@ steps:
 - name: build
   image: ruby:2.7
   commands:
-  - bundle config set jobs 4
   - bundle install
   - bundle exec jekyll build
 
