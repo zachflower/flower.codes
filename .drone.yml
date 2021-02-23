@@ -41,16 +41,11 @@ steps:
   - apt install imagemagick -y
 
   # compress png images
-  - mogrify -verbose -colorspace Gray -colors 4 -quality 10 /drone/src/_site/assets/posts/*.png
-
-  # resize large png images
-  - identify -format '%w %h %i\n' /drone/src/_site/assets/posts*.png | awk '$1 > 800 || $2 > 800 {sub(/^[^ ]* [^ ]* /, ""); print}' | tr '\n' '\0' | xargs -0 mogrify -resize '800'
+  - mogrify -verbose -resize 800\> -colorspace Gray -colors 4 -quality 10 /drone/src/_site/assets/posts/*.png
 
   # compress jpg images
-  - mogrify -verbose -colorspace Gray -colors 4 -quality 10 /drone/src/_site/assets/posts/*.jpg
+  - mogrify -verbose -resize 800\> -colorspace Gray -colors 4 -quality 10 /drone/src/_site/assets/posts/*.jpg
 
-  # resize large jpg images
-  - identify -format '%w %h %i\n' /drone/src/_site/assets/posts*.jpg | awk '$1 > 800 || $2 > 800 {sub(/^[^ ]* [^ ]* /, ""); print}' | tr '\n' '\0' | xargs -0 mogrify -resize '800'
 
 - name: deploy
   image: ruby:2.7
