@@ -21,6 +21,8 @@ steps:
   image: ruby:2.7
   environment:
     BUNDLE_PATH: /drone/.bundle
+    BUNDLE_DISABLE_SHARED_GEMS: "true"
+    BUNDLE_PATH__SYSTEM: "false"
   commands:
   - bundle install
   - bundle exec jekyll build
