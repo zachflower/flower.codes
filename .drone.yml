@@ -20,11 +20,8 @@ steps:
 - name: build
   image: ruby:2.7
   environment:
-    BUNDLE_PATH: /drone/.bundle
-    BUNDLE_DISABLE_SHARED_GEMS: "true"
-    BUNDLE_PATH__SYSTEM: "false"
   commands:
-  - bundle install
+  - bundle install --path=/drone/.bundle
   - bundle exec jekyll build
 
 - name: rebuild-cache
