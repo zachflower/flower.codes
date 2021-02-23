@@ -41,10 +41,10 @@ steps:
   - apt install imagemagick -y
 
   # compress png images
-  - mogrify -verbose -colorspace Gray -colors 4 -quality 10 /drone/src/_site/assets/posts/*.png
+  - mogrify -verbose -resize '400' -colorspace Gray -colors 4 -quality 10 /drone/src/_site/assets/posts/*.png
 
   # compress jpg images
-  - mogrify -verbose -colorspace Gray -colors 4 -quality 10 /drone/src/_site/assets/posts/*.jpg
+  - mogrify -verbose -resize '400' -colorspace Gray -colors 4 -quality 10 /drone/src/_site/assets/posts/*.jpg
 
 - name: deploy
   image: ruby:2.7
