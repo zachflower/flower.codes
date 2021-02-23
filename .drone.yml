@@ -19,9 +19,8 @@ steps:
 
 - name: build
   image: ruby:2.7
-  environment:
-    BUNDLE_PATH: /drone/.bundle
   commands:
+  - export BUNDLE_PATH="/drone/.bundle"
   - bundle install
   - bundle exec jekyll build
 
