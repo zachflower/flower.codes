@@ -63,3 +63,8 @@ steps:
       from_secret: rsync_user
     RSYNC_HOST:
       from_secret: rsync_host
+
+volumes:
+  - name: cache
+    host:
+      path: /tmp/cache
