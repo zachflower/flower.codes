@@ -7,10 +7,15 @@ trigger:
 
 steps:
 
+- name: install
+  image: ruby:2.7
+  commands:
+  # - bundle config set jobs $(nproc)
+  - bundle install
+
 - name: build
   image: ruby:2.7
   commands:
-  - bundle install
   - bundle exec jekyll build
 
 - name: optimize
