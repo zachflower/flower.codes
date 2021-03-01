@@ -282,3 +282,8 @@ entries:
     isbn: "1887178287"
     started: 2021-02-19
     finished: 2021-03-01
+
+  - title: Rework
+    author: Jason Fried and David Heinemeier Hansson
+    isbn: "0307463745"
+    started: 2021-03-01
