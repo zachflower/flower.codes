@@ -287,3 +287,23 @@ entries:
     author: Jason Fried and David Heinemeier Hansson
     isbn: "0307463745"
     started: 2021-03-01
+
+  - title: Good to Great
+    author: Jim Collins
+    isbn: "0066620996"
+
+  - title: Essentialism
+    author: Greg McKeown
+    isbn: "0804137382"
+
+  - title: Apple
+    author: Jim Carlton
+    isbn: "0887309658"
+
+  - title: Indistractable
+    author: Nir Eyal
+    isbn: "194883653X"
+
+  - title: Tribe of Mentors
+    author: Timothy Ferriss
+    isbn: "1328994961"
