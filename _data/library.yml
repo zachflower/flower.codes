@@ -287,6 +287,7 @@ entries:
     author: Jason Fried and David Heinemeier Hansson
     isbn: "0307463745"
     started: 2021-03-01
+    finished: 2021-03-03
 
   - title: Good to Great
     author: Jim Collins
@@ -295,6 +296,7 @@ entries:
   - title: Essentialism
     author: Greg McKeown
     isbn: "0804137382"
+    started: 2021-03-03
 
   - title: Apple
     author: Jim Carlton
