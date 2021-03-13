@@ -9,6 +9,7 @@ entries:
     author: Dalai Lama XIV and Howard C. Cutler
     isbn: "1594488894"
     started: 2021-01-01
+    finished: 2021-03-13
 
   - title: Gumption
     author: Nick Offerman
@@ -309,7 +310,24 @@ entries:
   - title: Indistractable
     author: Nir Eyal
     isbn: "194883653X"
+    started: 2021-03-13
 
   - title: Tribe of Mentors
     author: Timothy Ferriss
     isbn: "1328994961"
+
+  - title: Enchantment
+    author: Guy Kawasaki
+    isbn: "9781591845836"
+
+  - title: Rapture for the Geeks
+    author: Richard Dooling
+    isbn: "0307405257"
+
+  - title: Hooked
+    author: Nir Eyal
+    isbn: "1591847788"
+
+  - title: Zero to One
+    author: Peter Thiel
+    isbn: "0804139296"
