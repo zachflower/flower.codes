@@ -8,6 +8,7 @@ trigger:
 steps:
   - name: restore-cache
     image: drillster/drone-volume-cache
+    depends_on: [clone]
     volumes:
       - name: cache
         path: /cache
@@ -18,6 +19,7 @@ steps:
 
   - name: build
     image: ruby:2.7
+    depends_on: [restore-cache]
     commands:
       - export BUNDLE_PATH="./.bundle"
       - bundle install
@@ -25,6 +27,7 @@ steps:
 
   - name: rebuild-cache
     image: drillster/drone-volume-cache
+    depends_on: [build]
     volumes:
       - name: cache
         path: /cache
@@ -35,6 +38,7 @@ steps:
 
   - name: optimize
     image: v4tech/imagemagick:latest
+    depends_on: [clone]
     commands:
       # compress png images
       - mogrify -verbose -strip -resize 600\> -colorspace Gray -colors 4 -quality 10 /drone/src/_site/assets/posts/*.png
@@ -44,6 +48,7 @@ steps:
 
   - name: deploy
     image: ruby:2.7
+    depends_on: [build, optimize]
     commands:
       - apt update
       - apt install rsync -y
