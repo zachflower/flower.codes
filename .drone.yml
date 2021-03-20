@@ -47,11 +47,9 @@ steps:
       - mogrify -verbose -sampling-factor 4:2:0 -strip -interlace JPEG -resize 600\> -colorspace Gray -colors 4 -quality 10 /drone/src/assets/posts/*.jpg
 
   - name: deploy
-    image: ruby:2.7
+    image: eeacms/rsync
     depends_on: [build, optimize]
     commands:
-      - apt update
-      - apt install rsync -y
       - eval `ssh-agent -s`
       - echo "$RSYNC_KEY" | ssh-add -
       - mkdir -p ~/.ssh
