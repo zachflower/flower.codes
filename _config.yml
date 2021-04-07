@@ -28,6 +28,7 @@ baseurl: ""
 
 # the base hostname & protocol for your site, e.g. http://example.com
 url: "https://flower.codes"
+coil: $ilp.uphold.com/prbzZ7GL6EpU
 
 # Build settings
 theme: no-style-please
