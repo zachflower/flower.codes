@@ -41,10 +41,10 @@ steps:
     depends_on: [clone]
     commands:
       # compress png images
-      - mogrify -verbose -strip -resize 600\> -colorspace Gray -colors 4 -quality 10 /drone/src/assets/posts/*.png
+      - mogrify -verbose -strip -resize 800\> -colorspace Gray -colors 4 -quality 10 /drone/src/assets/posts/*.png
 
       # compress jpg images
-      - mogrify -verbose -sampling-factor 4:2:0 -strip -interlace JPEG -resize 600\> -colorspace Gray -colors 4 -quality 10 /drone/src/assets/posts/*.jpg
+      - mogrify -verbose -sampling-factor 4:2:0 -strip -interlace JPEG -resize 800\> -colorspace Gray -colors 4 -quality 10 /drone/src/assets/posts/*.jpg
 
   - name: deploy
     image: ruby:2.7
