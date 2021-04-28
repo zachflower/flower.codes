@@ -36,6 +36,9 @@ markdown: CommonMark
 plugins:
   - jekyll-feed
 
+commonmark:
+  options: ["SMART", "FOOTNOTES"]
+
 sass:
   style: compressed
 
