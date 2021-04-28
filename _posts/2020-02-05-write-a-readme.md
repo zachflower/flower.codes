@@ -219,7 +219,9 @@ While the snippet above is good enough to get basic information from, the larger
 ```markdown
 # POSSOMSAUCE
 
-This library randomly disables network access to various nodes within a [Kubernetes](https://kubernetes.io/) cluster in order to stress test load balancing and failover functionality.
+This library randomly disables network access to various nodes within a
+[Kubernetes](https://kubernetes.io/) cluster in order to stress test load
+balancing and failover functionality.
 
 ## INSTALLATION
 
