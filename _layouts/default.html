@@ -6,8 +6,11 @@ layout: compress
 <html lang="{{ page.lang | default: "en" }}">
   {%- include head.html -%}
   <body>
-    <main>
-        {{ content }}
-    </main>
+    <!-- deprecated or not, the <font> tag gets the job done with no css -->
+      <main>
+        <font face='monospace' size="4">
+          {{ content }}
+        </font>
+      </main>
   </body>
 </html>
