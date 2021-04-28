@@ -9,8 +9,6 @@ body {
 
 article {
     img {
-        min-width: 100%;
-        width: auto !important;
-        width: 100%;
+        margin: inherit auto;
     }
 }
