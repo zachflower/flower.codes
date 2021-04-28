@@ -10,6 +10,7 @@ entries:
     isbn: "1594488894"
     started: 2021-01-01
     finished: 2021-03-13
+    read: true
 
   - title: Gumption
     author: Nick Offerman
@@ -70,6 +71,7 @@ entries:
     number: 1
     started: 2021-01-01
     finished: 2021-01-23
+    read: true
 
   - title: Ready Player Two
     author: Ernest Cline
@@ -86,6 +88,7 @@ entries:
     number: 1
     started: 2020-01-01
     finished: 2020-12-31
+    read: true
 
   - title: Ghost in the Wires
     author: Kevin D. Mitnick
@@ -100,6 +103,7 @@ entries:
     number: 1
     started: 2020-01-01
     finished: 2020-12-31
+    read: true
 
   - title: Outland
     author: Dennis E. Taylor
@@ -116,6 +120,7 @@ entries:
     number: 1
     started: 2020-01-01
     finished: 2020-12-31
+    read: true
 
   - title: The Vexed Generation
     author: Scott Meyer
@@ -326,6 +331,7 @@ entries:
     isbn: "9781591845836"
     started: 2021-03-17
     finished: 2021-03-17
+    read: true
 
   - title: Rapture for the Geeks
     author: Richard Dooling
@@ -350,6 +356,7 @@ entries:
     isbn: "1591847389"
     started: 2021-03-20
     finished: 2021-03-20
+    read: true
 
   - title: Killing Sacred Cows
     author: Garrett B. Gunderson
@@ -378,4 +385,5 @@ entries:
     author: Timothy Ferriss
     isbn: "0547884591"
     started: 2021-04-27
+    read: true
     
