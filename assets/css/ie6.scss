@@ -6,3 +6,11 @@ body {
     width: auto !important;
     width: 800px;
 }
+
+article {
+    img {
+        min-width: 100%;
+        width: auto !important;
+        width: 100%;
+    }
+}
