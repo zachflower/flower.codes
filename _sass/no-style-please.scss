@@ -2,7 +2,9 @@ body {
     font-size: .98rem;
     font-family: monospace;
     line-height: 1.5;
-    margin: 0;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 4rem 1rem;
 }
 
 h2, h3, h4, h5 {
@@ -86,12 +88,6 @@ blockquote {
             margin-top: 0;
         }
     }
-}
-
-main {
-    max-width: 800px;
-    margin: 0 auto;
-    padding: 4rem 1rem;
 }
 
 article {
