@@ -18,14 +18,8 @@
   {% seo title=false %}
   {% feed_meta %}
 
-  <!--[if lt IE 7]> 
-    <style type="text/css">
-      body {
-        width:auto !important;width:800px;
-      }
-    </style>
-  <![endif]-->
-
   <link rel="shortcut icon" href="#" />
   <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}?{{ site.time | date: '%s%N' }}" />
+
+  <!--[if lt IE 7]> <link rel="stylesheet" href="{{ "/assets/css/ie6.css" | relative_url }}?{{ site.time | date: '%s%N' }}" /><![endif]-->
 </head>
