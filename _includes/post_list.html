@@ -14,7 +14,7 @@
 <table>
     {%- for post in posts limit: include.limit -%}
     <tr valign="top">
-        <td nowrap>{{ post.date | date: "%Y-%m-%d" }} |</td>
+        <td nowrap><span>{{ post.date | date: "%Y-%m-%d" }} |</span></td>
         <td>{% if post.category %}<small>[{{post.category}}]</small> {% endif %}<a href="{{ post.url | relative_url }}">{{ post.title | downcase }}</a></td>
     </tr>
     {%- endfor -%}
