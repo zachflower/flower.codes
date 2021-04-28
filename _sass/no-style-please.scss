@@ -51,14 +51,12 @@ code {
     padding: .2rem .4rem;
 }
 
-div {
-    &.highlighter-rouge {
-        code {
-            display: block;
-            overflow-x: auto;
-            padding: 1rem;
-            font-size: .9rem;
-        }
+pre {
+    code {
+        display: block;
+        overflow-x: auto;
+        padding: 1rem;
+        font-size: .9rem;
     }
 }
 

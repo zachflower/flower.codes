@@ -32,6 +32,7 @@ coil: $ilp.uphold.com/prbzZ7GL6EpU
 
 # Build settings
 theme: no-style-please
+markdown: CommonMark
 plugins:
   - jekyll-feed
 
