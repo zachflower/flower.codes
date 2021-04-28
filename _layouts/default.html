@@ -7,8 +7,10 @@ layout: compress
   {%- include head.html -%}
   <body>
     <main>
-      <!-- deprecated or not, the <font> tag gets the job done with no css -->
-      <font face='monospace'>{{ content }}</font>
+      <div id='main'>
+        <!-- deprecated or not, the <font> tag gets the job done with no css -->
+        <font face='monospace'>{{ content }}</font>
+      </div>
     </main>
   </body>
 </html>
