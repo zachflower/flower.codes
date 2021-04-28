@@ -62,7 +62,7 @@ pre {
 
 blockquote {
     color: gray;
-    border: thin solid lightgray;
+    border: 1px solid lightgray;
     font-size: .9rem;
     font-style: italic;
     padding: 1rem;
@@ -102,7 +102,7 @@ article {
 
     table, th, td {
         width: 100%;
-        border: thin solid lightgray;
+        border: 1px solid lightgray;
         border-collapse: collapse;
         padding: 0.4rem;
     }
