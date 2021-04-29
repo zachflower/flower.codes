@@ -75,7 +75,7 @@ module Jekyll
             block do
               lang = extract_code_lang(node.fence_info)
 
-              out("<table bgcolor=\"black\" cellpadding=\"10\"><tr><td><font color=\"white\"><pre", sourcepos(node))
+              out("<font color=\"green\" size=\"-1\"><pre", sourcepos(node))
 
               if option_enabled?(:GITHUB_PRE_LANG)
                 out_data_attr(lang)
@@ -86,7 +86,7 @@ module Jekyll
                 out(">")
               end
               out(render_with_rouge(node.string_content, lang))
-              out("</code></pre></font></td></tr></table>")
+              out("</code></pre></font>")
             end
           end
 
@@ -110,7 +110,7 @@ module Jekyll
 
           def blockquote(node)
             block do
-              container("<blockquote#{sourcepos(node)}><font size=\"-1\" color=\"gray\"><em>\n", '</em></font></blockquote>') do
+              container("<blockquote#{sourcepos(node)}><font color=\"gray\" size=\"-1\"><em>\n", '</em></font></blockquote>') do
                 out(:children)
               end
             end
