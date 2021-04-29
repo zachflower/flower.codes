@@ -21,17 +21,6 @@
         font-size: .98rem !important;
         line-height: 1.5;
     }
-
-    body > center > table {
-        width: auto !important;
-        max-width: 800px;
-    }
-
-    /* firefox 2.0 */
-    body:empty > center > table{
-        min-width: 800px;
-    }
-
     img, pre {
         width: 100%;
     }
@@ -40,11 +29,21 @@
         white-space: pre-wrap;
         word-wrap: break-word;
     }
+
+    #wrapper {
+        width: auto !important;
+        max-width: 800px;
+    }
+
+    /* firefox 1+2 support */
+    body:empty #wrapper {
+        min-width: 800px;
+    }
   </style>
 
   <!--[if IE 7]>
     <style type='text/css'>
-      body > center > table {
+      #wrapper {
         min-width: 800px;
       }
     </style>
