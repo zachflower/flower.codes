@@ -28,7 +28,7 @@ Unfortunately, the static files that Craft's admin area depends on are kept outs
 To demonstrate the issue at hand, let's perform a quick anecdotal benchmark on the login page of a stock Craft installation (the repository for which can be found at [https://github.com/zachflower/witchcraft](https://github.com/zachflower/witchcraft)). For reference, all tests well be performed on Craft v2.6.2963 hosted on a Heroku Hobby Dyno with all browser caching disabled.
 
 
-![Craft Admin Resources]({{ site.url }}/assets/posts/craft-1.png)
+![Craft Admin Resources](/assets/posts/craft-1.png)
 
 As you can see, a large handful of Craft's admin resources take over a second to load on a small server with only one user. While this doesn't immediately scream **PROBLEM**, routing all admin resources through the Craft core can become very expensive very quickly, as the number of users in the admin panel *directly* affects the rest of the non-admin users by taking up valuable resources.
 
@@ -39,7 +39,7 @@ To put it simply… we route requests for static files *around* Craft.
 Believe it or not, accomplishing this is *incredibly* simple. All we have to do is create a copy of the `craft/app/resources` folder in `public/admin/resources`. What this does is makes the static admin resources available to the web server, allowing it to serve these files directly to the end-user rather than having to use Craft as a middleman. If we redo the basic benchmark we did above, we can see that the static file load times are three times faster than they were before.
 
 
-![Craft Admin Resources]({{ site.url }}/assets/posts/craft-2.png)
+![Craft Admin Resources](/assets/posts/craft-2.png)
 
 It should be noted here that, while copying the admin resources into a publicly accessible directory is a fast and simple fix, it doesn't account for Craft updates. Making this solution future-proof is out of the scope of this post, however in an environment that offers atomic deployments like Heroku, establishing a build-process to keep the `admin/public/resources` folder in sync with the `craft/app/resources` is a relatively straightforward process.
 

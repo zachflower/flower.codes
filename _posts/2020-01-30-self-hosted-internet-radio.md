@@ -4,7 +4,7 @@ title: "Host Your Own Internet Radio Station"
 date: 2020-01-30 12:00:00
 ---
 
-![ASUS Internet Radio (AIR)]({{ site.url }}/assets/posts/asus-internet-radio.jpg)
+![ASUS Internet Radio (AIR)](/assets/posts/asus-internet-radio.jpg)
 
 About a year ago, I came across an [Asus Internet Radio (Air)](https://www.amazon.com/Internet-Supports-Worldwide-Broadcast-Stations/dp/B000Y9MMNK) at a local Goodwill and, despite knowing nothing about it, felt that I just *had* to have it. Well... it should come as no surprise to anyone that, out of the box, it didn't actually work. None of the thousands of configured radio stations are in service anymore, rendering this nice-looking appliance practically useless and ultimately prompting me to chuck it into a closet to die a slow, dust-ridden death.
 
@@ -228,9 +228,9 @@ sudo docker-compose up -d
 In a nutshell, what this command does is reads the `docker-compose.yaml` file and, based on its contents, starts our two defined services in the background (which is what the `-d` option does). If you'd like to see what Docker containers are currently running, you can always execute the `sudo docker ps` command, which will return something like this:
 
 ```
-CONTAINER ID        IMAGE                             COMMAND                  CREATED             STATUS                 PORTS                                      NAMES
-a5b594cc63bb        dashultz/ezstream:latest          "/usr/bin/ezstream -…"   3 days ago          Up 3 days                                                         radio_ezstream_1
-45ccfa0f31ba        infiniteproject/icecast:latest    "/entrypoint.sh /bin…"   2 weeks ago         Up 3 days              0.0.0.0:8000->8000/tcp                     radio_icecast_1
+CONTAINER ID  IMAGE                    CREATED      STATUS     NAMES
+a5b594cc63bb  dashultz/ezstream        3 days ago   Up 3 days  radio_ezstream_1
+45ccfa0f31ba  infiniteproject/icecast  2 weeks ago  Up 3 days  radio_icecast_1
 ```
 
 Once our radio station is up, connecting to it is as straightforward as loading your `ICECAST_HOSTNAME` with the appropriate mount point (such as `http://radio.example.com:8000/stream`) in your favorite browser (which, coincidentally, knows how to speak Icecast too).

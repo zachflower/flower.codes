@@ -19,13 +19,13 @@ But what if I threw in a LOT more data than just a few lines of random text? My 
 
 That's right, ladies and gentlemen, I've essentially created the digital equivalent of this:
 
-![Red Riding Hood Screencap]({{ site.url }}/assets/posts/red-riding-hood.jpg)
+![Red Riding Hood Screencap](/assets/posts/red-riding-hood.jpg)
 
 Seems legit.
 
 Here's a quick comparison of the two files. The only difference, as far as my computer can tell? The file size of the concatenated file is 30MB bigger.
 
-![Comparison]({{ site.url }}/assets/posts/comparison-1.png)
+![Comparison](/assets/posts/comparison-1.png)
 
 To make it clear that MIME type validation is useless in this situation, here are the results of three different file type commands:
 
@@ -56,7 +56,7 @@ My first step was to re-run my original concatenation script, except this time I
 
 Here's a comparison between the original and concatenated audio files. The only visible difference is, again, the file size.
 
-![Comparison]({{ site.url }}/assets/posts/comparison-4.png)
+![Comparison](/assets/posts/comparison-4.png)
 
 You're probably noticing a theme here, though let's face it, this isn't exactly rocket science (or science at all, for that matter). Once you figure it out once, reproducing the results is a pretty straightforward process.
 

@@ -75,10 +75,7 @@ module Jekyll
             block do
               lang = extract_code_lang(node.fence_info)
 
-              out('<div class="')
-              out("language-", lang, " ") if lang
-              out('highlighter-rouge"><div class="highlight">')
-              out("<pre", sourcepos(node), ' class="highlight"')
+              out("<table bgcolor=\"black\" cellpadding=\"10\"><tr><td><font color=\"white\"><pre", sourcepos(node))
 
               if option_enabled?(:GITHUB_PRE_LANG)
                 out_data_attr(lang)
@@ -89,7 +86,7 @@ module Jekyll
                 out(">")
               end
               out(render_with_rouge(node.string_content, lang))
-              out("</code></pre></div></div>")
+              out("</code></pre></font></td></tr></table>")
             end
           end
 
