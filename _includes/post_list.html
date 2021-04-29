@@ -11,12 +11,19 @@
 {% endif %}
 
 {% if site.posts.size > 0 %}
-<font face='monospace,courier new,courier'>
-  <table cellpadding="2">
-      {%- for post in posts limit: include.limit -%}
-      <tr valign="top">
-          <td nowrap><nobr>{{ post.date | date: "%Y-%m-%d" }} |</nobr></td>
-          <td>{% if post.category %}<small>[{{post.category}}]</small> {% endif %}<a href="{{ post.url | relative_url }}">{{ post.title | downcase }}</a></td>
+<table cellpadding="2">
+  {%- for post in posts limit: include.limit -%}
+  <tr valign="top">
+        <td nowrap>
+          <font face='monospace,courier new,courier'>
+            <nobr>{{ post.date | date: "%Y-%m-%d" }} |</nobr>
+          </font>
+        </td>
+        <td>
+          <font face='monospace,courier new,courier'>
+            {% if post.category %}<small>[{{post.category}}]</small> {% endif %}<a href="{{ post.url | relative_url }}">{{ post.title | downcase }}</a>
+          </font>
+        </td>
       </tr>
       {%- endfor -%}
       {%- if include.show_more and limit_exceeded -%}
