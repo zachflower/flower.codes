@@ -11,11 +11,42 @@
     {%- endif -%}
   </title>
 
-  {% seo title=false %}
   {% feed_meta %}
 
   <link rel="shortcut icon" href="#" />
 
-  <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}?{{ site.time | date: '%s%N' }}" />
-  <!--[if IE 7]><link rel="stylesheet" href="{{ "/assets/css/compat/ie7.css" | relative_url }}?{{ site.time | date: '%s%N' }}" /><![endif]-->
+  <style type='text/css'>
+    body {
+        font-size: 16px;
+        font-size: .98rem !important;
+        line-height: 1.5;
+    }
+
+    body > center > table {
+        width: auto !important;
+        max-width: 800px;
+    }
+
+    /* firefox 2.0 */
+    body:empty > center > table{
+        min-width: 800px;
+    }
+
+    img, pre {
+        width: 100%;
+    }
+
+    pre {
+        white-space: pre-wrap;
+        word-wrap: break-word;
+    }
+  </style>
+
+  <!--[if IE 7]>
+    <style type='text/css'>
+      body > center > table {
+        min-width: 800px;
+      }
+    </style>
+  <![endif]-->
 </head>

@@ -8,16 +8,16 @@ layout: post
 
 {% assign something = false %}
 {% capture reading %}
-  {% assign books_by_started = site.data.library.entries | sort: "started" %}
+  {%- assign books_by_started = site.data.library.entries | sort: "started" -%}
   <ol>
-    {% for book in books_by_started  %}
-      {% if book.started %}
-        {% unless book.finished %}
-          {% assign something = true %}
-          {% include library_book.html book=book %}
-        {% endunless %}
-      {% endif %}
-    {% endfor %}
+    {%- for book in books_by_started  -%}
+      {%- if book.started -%}
+        {%- unless book.finished -%}
+          {%- assign something = true -%}
+          {%- include library_book.html book=book -%}
+        {%- endunless -%}
+      {%- endif -%}
+    {%- endfor -%}
   </ol>
 {% endcapture %}
 
@@ -29,57 +29,56 @@ layout: post
 
 <hr size="1" noshade />
 
-{% assign goals_by_year = site.data.library.goals | sort: "year" | reverse %}
-{% assign books_by_finished = site.data.library.entries | sort: "finished" %}
+{%- assign goals_by_year = site.data.library.goals | sort: "year" | reverse -%}
+{%- assign books_by_finished = site.data.library.entries | sort: "finished" -%}
 
-{% for goal in goals_by_year  %}
+{%- for goal in goals_by_year  -%}
   <h2>Books Read in {{goal.year}}</h2>
-  {% assign something = false %}
-  {% assign total = 0 %}
-  {% capture read %}
+  {%- assign something = false -%}
+  {%- assign total = 0 -%}
+  {%- capture read -%}
     <ol>
-      {% for book in books_by_finished  %}
-        {% if book.started and book.finished %}
-          {% assign finished_year = book.finished | date: "%Y" | minus: 0 %}
-
-          {% if finished_year == goal.year %}
-            {% assign something = true %}
-            {% assign total = total | plus: 1 %}
-            {% include library_book.html book=book %}
-          {% endif %}
-        {% endif %}
-      {% endfor %}
+      {%- for book in books_by_finished  -%}
+        {%- if book.started and book.finished -%}
+          {%- assign finished_year = book.finished | date: "%Y" | minus: 0 -%}
+          {%- if finished_year == goal.year -%}
+            {%- assign something = true -%}
+            {%- assign total = total | plus: 1 -%}
+            {%- include library_book.html book=book -%}
+          {%- endif -%}
+        {%- endif -%}
+      {%- endfor -%}
     </ol>
-  {% endcapture %}
+  {%- endcapture -%}
 
   <p>
     <strong>Goal: {{ total  }} of {{ goal.goal | default: 0 }}</strong>
   </p>
 
-  {% if something %}
+  {%- if something -%}
     {{ read }}
-  {% else %}
+  {%- else -%}
     <p><i>Nothing :(</i></p>
-  {% endif %}
+  {%- endif -%}
 
-{% endfor %}
+{%- endfor -%}
 
-{% assign something = false %}
-{% capture backlog %}
+{%- assign something = false -%}
+{%- capture backlog -%}
   <hr size="1" noshade />
 
   <h2>Book Backlog</h2>
 
   <ol>
-    {% for book in site.data.library.entries %}
-      {% unless book.started %}
-        {% assign something = true %}
-        {% include library_book.html book=book %}
-      {% endunless %}
-    {% endfor %}
+    {%- for book in site.data.library.entries -%}
+      {%- unless book.started -%}
+        {%- assign something = true -%}
+        {%- include library_book.html book=book -%}
+      {%- endunless -%}
+    {%- endfor -%}
   </ol>
-{% endcapture %}
+{%- endcapture -%}
 
-{% if something %}
+{%- if something -%}
   {{ backlog }}
-{% endif %}
+{%- endif -%}

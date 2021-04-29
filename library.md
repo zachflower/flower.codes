@@ -2,6 +2,7 @@
 layout: library
 title: Library
 date: 2021-01-17 12:00:00
+regenerate: true
 ---
 
 <!-- inspired by http://tilde.town/~dustin/wiki/library/ -->

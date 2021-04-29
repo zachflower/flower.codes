@@ -4,18 +4,22 @@ layout: compress
 
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: "en" }}">
-  {%- include head.html -%}
-  <body>
-    <center>
-      <table width="800" border="0" cellpadding="20">
-        <tr><td align="left">
+{%- include head.html -%}
+
+<body>
+  <center>
+    <table width="800" border="0" cellpadding="20">
+      <tr>
+        <td align="left">
           <font face='monospace'>
             <main>
               {{ content }}
             </main>
           </font>
-        </td></tr>
-      </table>
-    </center>
-  </body>
+        </td>
+      </tr>
+    </table>
+  </center>
+</body>
+
 </html>
