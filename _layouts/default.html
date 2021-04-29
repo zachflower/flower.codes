@@ -6,9 +6,16 @@ layout: compress
 <html lang="{{ page.lang | default: "en" }}">
   {%- include head.html -%}
   <body>
-    <main>
-      <!-- deprecated or not, the <font> tag gets the job done with no css -->
-      <font face='monospace'>{{ content }}</font>
-    </main>
+    <center>
+      <table id="solo" width="800" border="0">
+        <tr><td>
+          <font face='monospace' size="+1">
+            <main>
+              {{ content }}
+            </main>
+          </font>
+        </td></tr>
+      </table>
+    </center>
   </body>
 </html>

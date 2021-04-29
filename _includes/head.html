@@ -2,11 +2,6 @@
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <meta http-equiv=”X-UA-Compatible” content="IE=7" />
-
-  {%- if site.coil -%}
-    <meta name="monetization" content="{{ site.coil }}">
-  {%- endif -%}
 
   <title>
     {%- if page.title -%}
@@ -21,7 +16,12 @@
 
   <link rel="shortcut icon" href="#" />
 
-  <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}?{{ site.time | date: '%s%N' }}" />
-
-  <!--[if lt IE 7]><link rel="stylesheet" href="{{ "/assets/css/ie6.css" | relative_url }}?{{ site.time | date: '%s%N' }}" /><![endif]-->
+  <style type="text/css">
+    /* the absolute bare-minimum css for legibility */
+    #solo {
+      line-height: 1.5;
+      width: auto !important;
+      max-width: 800px;
+    }
+  </style>
 </head>
