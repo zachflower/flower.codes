@@ -1,0 +1,10 @@
+---
+---
+
+body {
+    & > center {
+        & > table {
+            min-width: 800px;
+        }
+    }
+}

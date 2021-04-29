@@ -1,6 +1,6 @@
 <head>
   <meta charset="utf-8" />
-  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
 
   <title>
@@ -16,25 +16,6 @@
 
   <link rel="shortcut icon" href="#" />
 
-  <style type="text/css">
-    /* the absolute bare-minimum css required for legibility */
-    body {
-      font-size: 16px;
-      font-size: .98rem !important;
-      line-height: 1.5;
-    }
-
-    body>center>table {
-      width: auto !important;
-      max-width: 800px;
-    }
-
-    img, pre {
-      width: 100%;
-    }
-    pre {
-      white-space:pre-wrap;
-      word-wrap: break-word;
-    }
-  </style>
+  <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}?{{ site.time | date: '%s%N' }}" />
+  <!--[if IE 7]><link rel="stylesheet" href="{{ "/assets/css/compat/ie7.css" | relative_url }}?{{ site.time | date: '%s%N' }}" /><![endif]-->
 </head>

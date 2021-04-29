@@ -1,2 +1,31 @@
 ---
 ---
+
+body {
+    font-size: 16px;
+    font-size: .98rem !important;
+    line-height: 1.5;
+
+    & > center {
+        & > table {
+            width: auto !important;
+            max-width: 800px;
+        }
+    }
+
+    // firefox 2.0
+    &:empty > center {
+        table {
+            min-width: 800px;
+        }
+    }
+}
+
+img, pre {
+    width: 100%;
+}
+
+pre {
+    white-space: pre-wrap;
+    word-wrap: break-word;
+}
