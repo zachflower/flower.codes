@@ -31,21 +31,16 @@
     }
 
     #wrapper {
+        min-width: 800px;
         width: auto !important;
         max-width: 800px;
     }
 
-    /* firefox 1+2 support */
-    body:empty #wrapper {
-        min-width: 800px;
+    @media only screen and (max-width: 800px) {
+      #wrapper {
+        min-width: 100% !important;
+        max-width: 100% !important;
+      }
     }
   </style>
-
-  <!--[if IE 7]>
-    <style type='text/css'>
-      #wrapper {
-        min-width: 800px;
-      }
-    </style>
-  <![endif]-->
 </head>
