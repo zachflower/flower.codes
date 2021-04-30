@@ -7,7 +7,7 @@ date: 2011-12-09 12:00:00
 
 I love writing web crawlers and data aggregators in PHP. They say knowledge is power, and I find it exciting to write applications that allow you to gather up as much knowledge as possible. Sometimes, though, you want to gather your data without revealing your identity to your target. This can be for both good and bad reasons, but let’s assume it is for a good reason that you need to keep hidden. The Tor Project is a great way to accomplish this task. Tor allows you to anonymously browse the web, and you can configure the applications on your computer to run through the Tor network. The PHP script below outlines the process it takes to randomly refresh your IP address on Tor, and then run a cURL request through your local Tor proxy, providing a unique identity and anonymity every time you run the script.
 
-For this particular example, I am sending a request to [http://whatismyip.org](http://whatismyip.org/) to demonstrate the changing IP address. If you have a greater understanding of cURL, there are many more steps that can be taken to mask your identity as well, but I won’t go into that here.
+For this particular example, I am sending a request to [icanhazip.com](http://icanhazip.com//) to demonstrate the changing IP address. If you have a greater understanding of cURL, there are many more steps that can be taken to mask your identity as well, but I won’t go into that here.
 
 ```php
 // connect to local tor proxy and refresh ip address
@@ -33,7 +33,7 @@ fclose($fp);
 // submit curl request through tor proxy at 127.0.0.1:9050
 $ch = curl_init();
 
-curl_setopt($ch, CURLOPT_URL, "http://whatismyip.org");
+curl_setopt($ch, CURLOPT_URL, "http://icanhazip.com/");
 curl_setopt($ch, CURLOPT_PROXY, "127.0.0.1:9050");
 curl_setopt($ch, CURLOPT_PROXYTYPE, CURLPROXY_SOCKS5);
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);

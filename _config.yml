@@ -30,6 +30,7 @@ markdown: UncommonMark
 highlighter: none
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
 
 uncommonmark:
   options: []
