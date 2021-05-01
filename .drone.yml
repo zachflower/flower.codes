@@ -57,21 +57,7 @@ steps:
       - name: destination
         path: /var/www/flower.codes
     commands:
-      - apt update
-      - apt install rsync -y
-      - eval `ssh-agent -s`
-      - echo "$RSYNC_KEY" | ssh-add -
-      - mkdir -p ~/.ssh
-      - echo "Host *\n\tStrictHostKeyChecking no\n\n" > ~/.ssh/config
-      - rsync -rvc /drone/src/_site/ $RSYNC_USER@$RSYNC_HOST:/var/www/flower.codes/
       - rsync -rvc /drone/src/_site/ /var/www/flower.codes/
-    environment:
-      RSYNC_KEY:
-        from_secret: rsync_key
-      RSYNC_USER:
-        from_secret: rsync_user
-      RSYNC_HOST:
-        from_secret: rsync_host
 
 volumes:
   - name: cache
