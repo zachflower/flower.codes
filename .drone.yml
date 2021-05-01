@@ -53,6 +53,9 @@ steps:
   - name: deploy
     image: ruby:2.7
     depends_on: [build, optimize]
+    volumes:
+      - name: destination
+        path: /var/www/flower.codes
     commands:
       - apt update
       - apt install rsync -y
@@ -61,6 +64,7 @@ steps:
       - mkdir -p ~/.ssh
       - echo "Host *\n\tStrictHostKeyChecking no\n\n" > ~/.ssh/config
       - rsync -rvc /drone/src/_site/ $RSYNC_USER@$RSYNC_HOST:/var/www/flower.codes/
+      - rsync -rvc /drone/src/_site/ /var/www/flower.codes/
     environment:
       RSYNC_KEY:
         from_secret: rsync_key
@@ -73,3 +77,6 @@ volumes:
   - name: cache
     host:
       path: /tmp/cache
+  - name: destination
+    host:
+      path: /var/www/flower.codes
