@@ -392,3 +392,73 @@ entries:
     author: Bill Gates
     isbn: "0385546130"
     started: 2021-04-30
+  
+  - title: Superconnector
+    author: Scott Gerber and Ryan Paugh
+    isbn: "0738219967"
+
+  - title: The Seventh Sense
+    author: Joshua Cooper Ramo
+    isbn: "0316285064"
+
+  - title: The Gnostic Gospels
+    author: Elaine Pagels
+    isbn: "0679724532"
+
+  - title: Verses from the Center
+    author: Nāgārjuna
+    isbn: "1573228761"
+
+  - title: The Omnivore's Dilema
+    author: Michael Pollan
+    isbn: "0143038583"
+
+  - title: Thinking in Numbers
+    author: Daniel Tammet
+    isbn: "0316187372"
+
+  - title: The Hobbit
+    author: J.R.R. Tolkien
+    isbn: "054792822X"
+    started: 2021-01-01
+
+  - title: The 80/80 Marriage
+    author: Nate Klemp and Kaley Klemp
+    isbn: "1984880772"
+
+  - title: An American Sickness
+    author: Elisabeth Rosenthal
+    isbn: "0143110853"
+
+  - title: The Age of Surveillance Capitalism
+    author: Shoshana Zuboff
+    isbn: "1541758005"
+    
+  - title: The Hitchhiker's Guide to the Galaxy
+    author: Douglas Adams
+    isbn: "1400052920"
+    
+  - title: Choke
+    author: Chuck Palahniuk
+    isbn: "0385720920"
+    
+  - title: The Road
+    author: Cormac McCarthy
+    isbn: "0307387895"
+    
+  - title: Bones of the Dragon
+    author: Margaret Weis and Tracy Hickman
+    isbn: "076531973X"
+    series: Dragonships of Vindras
+    number: 1
+    
+  - title: The Fellowship of the Ring
+    author: J.R.R. Tolkien
+    isbn: "0395489318"
+    series: The Lord of the Rings
+    number: 1
+    
+  - title: A Delusion of Satan
+    author: Frances Hill
+    isbn: "0306811596"
+    
