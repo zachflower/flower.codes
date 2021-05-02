@@ -51,13 +51,13 @@ steps:
       - mogrify -verbose -sampling-factor 4:2:0 -strip -interlace JPEG -resize 800\> -colorspace Gray -colors 4 -quality 10 /drone/src/assets/posts/*.jpg
 
   - name: deploy
-    image: ruby:2.7
+    image: alpine:latest
     depends_on: [build, optimize]
     volumes:
       - name: destination
         path: /var/www/flower.codes
     commands:
-      - rsync -rvc /drone/src/_site/ /var/www/flower.codes/
+      - cp -rf /drone/src/_site/ /var/www/flower.codes/
 
 volumes:
   - name: cache
