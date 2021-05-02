@@ -1,3 +1,1 @@
-<li>
-  {% if book.read %}* {% endif %}<a href='https://www.worldcat.org/search?q={%- if book.isbn -%}bn%3A{{book.isbn | url_encode}}{%- else -%}"{{book.title | url_encode}}"{%- endif -%}' target="_blank">{{book.title}}{% if book.series and book.number %} ({{book.series}} #{{book.number}}){% endif %}</a> by {{book.author}}
-</li>
+<li>{% if book.read %}* {% endif %}<a href='https://www.thriftbooks.com/browse/?b.search={%- if book.isbn -%}bn%3A{{book.isbn | url_encode}}{%- else -%}"{{book.title | url_encode}}"{%- endif -%}' target="_blank">{{book.title}}{% if book.series and book.number %} ({{book.series}} #{{book.number}}){% endif %}</a> by {{book.author}}</li>
