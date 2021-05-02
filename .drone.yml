@@ -25,7 +25,7 @@ steps:
     commands:
       - export BUNDLE_PATH="./.bundle"
       - bundle install
-      - bundle exec jekyll build --incremental
+      - bundle exec jekyll build --incremental --verbose
 
   - name: rebuild-cache
     image: drillster/drone-volume-cache
@@ -57,7 +57,7 @@ steps:
       - name: destination
         path: /var/www/flower.codes
     commands:
-      - cp -rf /drone/src/_site/* /var/www/flower.codes/*
+      - cp -rfv /drone/src/_site/* /var/www/flower.codes/*
 
 volumes:
   - name: cache
