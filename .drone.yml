@@ -57,7 +57,7 @@ steps:
       - name: destination
         path: /var/www/flower.codes
     commands:
-      - cp -rf /drone/src/_site/ /var/www/flower.codes/
+      - cp -rf /drone/src/_site/* /var/www/flower.codes/*
 
 volumes:
   - name: cache
