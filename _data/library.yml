@@ -168,7 +168,7 @@ entries:
     author: Edward Snowden
     isbn: "1250237238"
     started: 2021-04-11
-    finished: 2021-05-03
+    finished: 2021-05-02
 
   - title: The Obstacle Is the Way
     author: Ryan Holiday
@@ -393,6 +393,7 @@ entries:
     author: Bill Gates
     isbn: "0385546130"
     started: 2021-04-30
+    finished: 2021-05-03
   
   - title: Superconnector
     author: Scott Gerber and Ryan Paugh
