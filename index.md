@@ -6,13 +6,12 @@ layout: home
 regenerate: true
 ---
 
-## Personal
-
-* [zach@flower.codes](mailto:zach@flower.codes)
+hi. i'm zach.
 
 ## Projects
 
-* [the mud coders guild](http://mudcoders.com) a community for text-based gamedevs
+* [tcpcv](https://github.com/zachflower/tcpcv) text-based résumé server
+* [the mud coders guild](http://mudcoders.com) community for text-based gamedevs
 
 ## Pages
 
