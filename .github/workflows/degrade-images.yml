@@ -12,9 +12,7 @@ jobs:
       - name: degrade pngs
         shell: bash
         run: |
-          project_root=$(dirname $(dirname $(realpath $0 )))
-
-          cd ${project_root}/assets/posts/
+          cd ./assets/posts/
 
           for f in *.png; do
               if [[ "$f" == *-degraded.png ]]; then
@@ -28,9 +26,7 @@ jobs:
       - name: degrade jpgs
         shell: bash
         run: |
-          project_root=$(dirname $(dirname $(realpath $0 )))
-
-          cd ${project_root}/assets/posts/
+          cd ./assets/posts/
 
           for f in *.jpg; do
               if [[ "$f" == *-degraded.jpg ]]; then
@@ -45,7 +41,7 @@ jobs:
         run: |
           git config --local user.email "action[bot]@github.com"
           git config --local user.name "github-actions[bot]"
-          git add assets/posts
+          git add ./assets/posts
           if [-z "$(git status --porcelain)"]; then
              echo "::set-output name=push::false"
           else
