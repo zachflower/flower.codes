@@ -38,6 +38,7 @@ jobs:
             convert "${f}" -verbose -sampling-factor 4:2:0 -strip -interlace JPEG -resize 800\> -colorspace Gray -colors 4 -quality 10 -set filename:f "%[t]-degraded" "%[filename:f].jpg"
           done
       - name: commit changes
+        id: commit
         shell: bash
         run: |
           git config --local user.email "action[bot]@github.com"
