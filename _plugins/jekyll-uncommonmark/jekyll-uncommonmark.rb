@@ -119,8 +119,15 @@ module Jekyll
           def image(node)
             width = 800
 
+            filename = node.url
+
+            if filename.start_with?('/assets/posts/')
+              filename = filename.sub(".png", "-degraded.png") if filename.end_with?(".png")
+              filename = filename.sub(".jpg", "-degraded.jpg") if filename.end_with?(".jpg")
+            end
+
             out('<center>')
-            out('<img src="', escape_href(node.url), '"')
+            out('<img src="', escape_href(filename), '"')
             plain do
               out(' alt="', :children, '"')
             end
