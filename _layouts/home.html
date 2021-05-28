@@ -5,6 +5,6 @@ layout: default
   <h1>{{ site.title }}</h1>
 </header>
 
-{%-include menu_item.html collection=site.data.menu.entries-%}
-
 {{ content }}
+
+{% include post_list.html limit=10 show_more=false %}
