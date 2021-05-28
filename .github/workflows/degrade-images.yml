@@ -1,0 +1,27 @@
+name: degrade-images
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  degrade-images:
+    runs-on: ubuntu-latest
+    container:
+      image: v4tech/imagemagick:latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - name: degrade-images
+        run: |
+          ./_scripts/degrade-images.sh
+          git add ./assets/images
+          git commit -m 'degrade newly added images'
+      - name: create-pull-request
+        uses: peter-evans/create-pull-request@v3
+        with:
+          commit-message: degrade images
+          title: Degrade Images
+          body: Degrade newly added images
+          branch: degrade-images
+          base: main
