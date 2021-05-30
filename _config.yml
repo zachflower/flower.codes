@@ -33,7 +33,7 @@ plugins:
   - jekyll-include-cache
 
 uncommonmark:
-  options: []
+  options: ["FOOTNOTES"]
   extensions: []
 
 sass:

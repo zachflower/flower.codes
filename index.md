@@ -1,7 +1,4 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
 regenerate: true
 ---
@@ -23,5 +20,6 @@ Cheers :)
 
 * [archive](/archive.html) all that i have written
 * [library](/library.html) i read and i've read
+* [rules](/rules.html) how i choose to live
 
 ## Posts

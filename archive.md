@@ -1,7 +1,6 @@
 ---
 layout: archive
 title: Archive
-date: 2021-01-17 12:00:00
 regenerate: true
 ---
 

@@ -71,6 +71,23 @@ module Jekyll
     class Markdown
       class UncommonMark
         class HtmlRenderer < CommonMarker::HtmlRenderer
+          def document(_)
+            super
+            out("</small>\n") if @written_footnote_ix
+          end
+
+          def header(node)
+            block do
+              id = node.to_plaintext.downcase.strip.gsub(' ', '-').gsub(/[^\w-]/, '')
+
+              out('<h', node.header_level,
+                   " id=\"#{id}\" ",
+                   "#{sourcepos(node)}",">",
+                   :children,
+                  '</h', node.header_level,'>')
+            end
+          end
+
           def code_block(node)
             block do
               lang = extract_code_lang(node.fence_info)
@@ -140,6 +157,19 @@ module Jekyll
             block do
               out("<hr#{sourcepos(node)} size=\"1\" noshade />")
             end
+          end
+
+          def footnote_definition(_)
+            unless @footnote_ix
+              out("<br /><hr size=\"1\" noshade=\"\">")
+              out("<small><section class=\"footnotes\">\n<h4>Footnotes</h4>\n<ol>\n")
+              @footnote_ix = 0
+            end
+
+            @footnote_ix += 1
+            out("<li id=\"fn#{@footnote_ix}\">\n", :children)
+            out("\n") if out_footnote_backref
+            out("</li>\n")
           end
 
           private
