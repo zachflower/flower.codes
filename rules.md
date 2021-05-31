@@ -4,6 +4,8 @@ title: Rules
 regenerate: true
 ---
 
+This page is a collection of rules, values, and philosophies with which I choose to live my life by. It is hardly exhaustive, nor is it perfect. Some values are difficult to put into words, while others are wildly aspirational, but in order to hold myself accountable and strive to be a better person, father, and husband, writing them down felt like a good first step.
+
 01. [General](#general)
 01. [Technology](#technology)
 01. [Parenting](#parenting)
@@ -12,9 +14,9 @@ regenerate: true
 ## General
 
 - Never walk by a mistake[^mistakes]
+- Hope is not a strategy[^hope]
 - How you do anything is how you do everything[^doing]
 - To do nothing is to do something[^nothing]
-- Hope is not enough[^hope]
 - Slow the fuck down
 
 [^mistakes]: Anderberg, J., 2017. Never Walk By a Mistake. [online] The Art of Manliness. Available at: <https://www.artofmanliness.com/articles/never-walk-mistake/> [Accessed 30 May 2021].
