@@ -26,18 +26,21 @@ regenerate: true
 
 - Not everything needs an internet connection
 - Prefer analog solutions over digital ones
-- Privacy is a fundamental right
+- Privacy is a right, not a privilege
 
 ## Parenting
 
 - Lead by example
 - Be a gardener[^gardener]
+- Praise effort, not results
+- Encourage boredom[^boredom]
 
 [^gardener]: Mae, K., 2019. How to Be a 'Gardener' Parent. [online] Lifehacker. Available at: <https://lifehacker.com/how-to-be-a-gardener-parent-1832461241> [Accessed 30 May 2021].
+[^boredom]: Payne, K., 2015. The Soul of Discipline. New York: Ballantine Books, p.260.
 
 ## Marriage
 
 - Practice radical generosity[^generosity]
-- Always be honest
+- Honesty is the _only_ policy
 
 [^generosity]: Klemp, N. and Klemp, K., 2021. The 80/80 Marriage. New York: Penguin Life, p.43.
