@@ -192,6 +192,7 @@ entries:
     author: Marcus Aurelius
     isbn: "0812968255"
     started: 2021-05-31
+    finished: 2021-06-04
 
   - title: A Promised Land
     author: Barack Obama
@@ -223,6 +224,7 @@ entries:
     author: Ryan Holiday
     isbn: "1591847818"
     started: 2021-05-26
+    finished: 2021-06-04
 
   - title: REAMDE
     author: Neal Stephenson
