@@ -499,3 +499,9 @@ entries:
     isbn: "0393652491"
     started: 2021-06-06
     finished: 2021-06-15
+  
+  - title: The 4-Hour Workweek
+    author: Timothy Ferriss
+    read: true
+    isbn: "0307465357"
+    started: 2021-06-15
