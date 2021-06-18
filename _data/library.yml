@@ -324,6 +324,7 @@ entries:
     author: Jim Carlton
     isbn: "0887309658"
     started: 2021-03-17
+    abandoned: 2021-06-18
 
   - title: Indistractable
     author: Nir Eyal
@@ -493,6 +494,7 @@ entries:
     author: Paula Cocozza
     isbn: "9781250129253"
     started: 2021-06-04
+    abandoned: 2021-06-18
 
   - title: The Stoic Challenge
     author: William B. Irvine

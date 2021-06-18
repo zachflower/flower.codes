@@ -13,8 +13,10 @@ layout: page
     {%- for book in books_by_started  -%}
       {%- if book.started -%}
         {%- unless book.finished -%}
-          {%- assign something = true -%}
-          {%- include library_book.html book=book -%}
+          {%- unless book.abandoned -%}
+            {%- assign something = true -%}
+            {%- include library_book.html book=book -%}
+          {%- endunless -%}
         {%- endunless -%}
       {%- endif -%}
     {%- endfor -%}
@@ -34,16 +36,16 @@ layout: page
 
 {%- for goal in goals_by_year  -%}
   <h2>Books Read in {{goal.year}}</h2>
-  {%- assign something = false -%}
-  {%- assign total = 0 -%}
+  {%- assign something_read = false -%}
+  {%- assign total_read = 0 -%}
   {%- capture read -%}
     <ol>
       {%- for book in books_by_finished  -%}
         {%- if book.started and book.finished -%}
           {%- assign finished_year = book.finished | date: "%Y" | minus: 0 -%}
           {%- if finished_year == goal.year -%}
-            {%- assign something = true -%}
-            {%- assign total = total | plus: 1 -%}
+            {%- assign something_read = true -%}
+            {%- assign total_read = total_read | plus: 1 -%}
             {%- include library_book.html book=book -%}
           {%- endif -%}
         {%- endif -%}
@@ -52,13 +54,39 @@ layout: page
   {%- endcapture -%}
 
   <p>
-    <strong>Goal: {{ total  }} of {{ goal.goal | default: 0 }}</strong>
+    <strong>Goal: {{ total_read  }} of {{ goal.goal | default: 0 }}</strong>
   </p>
 
-  {%- if something -%}
+  {%- if something_read -%}
     {{ read }}
   {%- else -%}
     <p><i>Nothing :(</i></p>
+  {%- endif -%}
+
+  {%- assign books_by_abandoned = site.data.library.entries | sort: "abandoned" -%}
+  {%- assign something_abandoned =false -%}
+  {%- assign total_abandoned = 0 -%}
+  {%- capture abandoned -%}
+    <ol>
+      {%- for book in books_by_abandoned  -%}
+        {%- if book.started and book.abandoned -%}
+          {%- assign abandoned_year = book.abandoned | date: "%Y" | minus: 0 -%}
+          {%- if abandoned_year == goal.year -%}
+            {%- assign something_abandoned = true -%}
+            {%- assign total_abandoned = total_abandoned | plus: 1 -%}
+            {%- include library_book.html book=book -%}
+          {%- endif -%}
+        {%- endif -%}
+      {%- endfor -%}
+    </ol>
+  {%- endcapture -%}
+
+  {%- if something_abandoned -%}
+    <p>
+      <strong>Abandoned: {{ total_abandoned }}</strong>
+    </p>
+
+    {{ abandoned }}
   {%- endif -%}
 
 {%- endfor -%}
