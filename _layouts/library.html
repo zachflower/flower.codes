@@ -64,8 +64,7 @@ layout: page
   {%- endif -%}
 
   {%- assign books_by_abandoned = site.data.library.entries | sort: "abandoned" -%}
-  {%- assign something_abandoned =false -%}
-  {%- assign total_abandoned = 0 -%}
+  {%- assign something_abandoned = false -%}
   {%- capture abandoned -%}
     <ol>
       {%- for book in books_by_abandoned  -%}
@@ -73,7 +72,6 @@ layout: page
           {%- assign abandoned_year = book.abandoned | date: "%Y" | minus: 0 -%}
           {%- if abandoned_year == goal.year -%}
             {%- assign something_abandoned = true -%}
-            {%- assign total_abandoned = total_abandoned | plus: 1 -%}
             {%- include library_book.html book=book -%}
           {%- endif -%}
         {%- endif -%}
@@ -83,7 +81,7 @@ layout: page
 
   {%- if something_abandoned -%}
     <p>
-      <strong>Abandoned: {{ total_abandoned }}</strong>
+      <strong>Abandoned</strong>
     </p>
 
     {{ abandoned }}
