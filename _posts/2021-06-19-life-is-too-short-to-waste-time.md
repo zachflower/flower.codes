@@ -6,6 +6,8 @@ date: 2021-06-19 12:00:00
 
 > "There is a limit to the time assigned to you, and if you don't use it to free yourself it will be gone and will never return." — [Marcus Aurelius](https://en.wikipedia.org/wiki/Marcus_Aurelius)
 
+---
+
 So, I've been [reading a lot](/library.html) this year.
 
 Originally, I just wanted to spend less time with my face in a screen and more time exercising my brain. A solid year of doomscrolling took its toll on my mental and physical health, so shifting my attention to the analog felt like a good place to start. In my quest to "read more," though, I've fallen into an altogether new trap: completionism.
