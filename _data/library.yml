@@ -519,3 +519,13 @@ entries:
     isbn: "0525538585"
     started: 2021-06-19
     finished: 2021-06-23
+  
+  - title: Dancing with Dragons
+    author: D.J. Conway
+    isbn: "9781567181654"
+    started: 2021-06-25
+
+  - title: Incredible Doom
+    author: Matthew Bogart and Jesse Holden
+    isbn: "9780063064942"
+    started: 2021-06-26
