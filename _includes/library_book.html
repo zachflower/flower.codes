@@ -2,13 +2,13 @@
     {%- assign title = '<font color="lightgray">________________________________</font>' -%}
     {%- unless book.private -%}
         {%- capture title -%}
-            {%- assign query = book.title -%}
+            {%- assign query = book.title | prepend: '"' | append: '"' -%}
 
             {%- if book.isbn -%}
                 {% assign query = book.isbn %}
             {%- endif -%}
 
-            {% if book.read %}* {% endif %}<a href='https://www.thriftbooks.com/browse/?b.search="{{query | url_encode}}"' target="_blank">{{book.title}}{% if book.series and book.number %} ({{book.series}} #{{book.number}}){% endif %}</a> by {{book.author}}
+            {% if book.read %}* {% endif %}<a href='https://www.thriftbooks.com/browse/?b.search={{query | url_encode}}' target="_blank">{{book.title}}{% if book.series and book.number %} ({{book.series}} #{{book.number}}){% endif %}</a> by {{book.author}}
         {%- endcapture -%}
     {%- endunless -%}
 
