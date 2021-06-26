@@ -1,5 +1,7 @@
 # frozen-string-literal: true
 
+require "rouge"
+
 Jekyll::External.require_with_graceful_fail "commonmarker"
 
 module Jekyll
@@ -92,7 +94,7 @@ module Jekyll
             block do
               lang = extract_code_lang(node.fence_info)
 
-              out("<font color=\"green\"><pre", sourcepos(node))
+              out("<pre", sourcepos(node))
 
               if option_enabled?(:GITHUB_PRE_LANG)
                 out_data_attr(lang)
@@ -103,7 +105,7 @@ module Jekyll
                 out(">")
               end
               out(render_with_rouge(node.string_content, lang))
-              out("</code></pre></font>")
+              out("</code></pre>")
             end
           end
 
@@ -188,18 +190,26 @@ module Jekyll
           end
 
           def render_with_rouge(code, lang)
-            require "rouge"
-
-            formatter = Rouge::Formatters::HTMLLegacy.new(
-              :line_numbers => false,
-              :wrap         => false,
-              :css_class    => "highlight",
-              :gutter_class => "gutter",
-              :code_class   => "code"
-            )
+            formatter = Jekyll::Highlighters::Formatters::UncommonMark.new(Rouge::Themes::Base16)
             lexer = Rouge::Lexer.find_fancy(lang, code) || Rouge::Lexers::PlainText
             formatter.format(lexer.lex(code))
           end
+        end
+      end
+    end
+  end
+end
+
+module Jekyll
+  module Highlighters
+    module Formatters
+      class UncommonMark < Rouge::Formatters::HTMLInline
+        def safe_span(tok, safe_val)
+          return safe_val if tok == Rouge::Token::Tokens::Text
+
+          rules = @theme.style_for(tok)
+
+          "<font color=\"#{rules.fg}\">#{safe_val}</font>"
         end
       end
     end
