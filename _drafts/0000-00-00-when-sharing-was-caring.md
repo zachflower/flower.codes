@@ -20,9 +20,10 @@ But, while her recipe cards offered us the chance to taste her food again—and 
 
 ## From the Kitchen of...
 
-After the holidays, when the sting of our lost started to dull and life regained some sense of normalcy, I sat down and started digitizing that stack of recipes. After the first few cards, I began to notice names written in the corners—some I recognized, but others I didn't. Having grown up during the transition from analogue to digital, and then digital to "connected," the concept of recipe cards was hardly new to me, but what I didn't expect was just how many of them came were attributed _other_ people.
+After the holidays, when the sting of our loss started to dull and life regained some sense of normalcy, I sat down and started digitizing that stack of recipes. After the first few cards, I began to notice names written in the corners—some I recognized, but others I didn't. Having grown up during the transition from analogue to digital, and then digital to "connected," the concept of recipe cards was hardly new to me, but what I didn't expect was just how many of them were attributed to _other_ people.
 
-To be clear, it's not the fact that the recipes _came_ from other people that was so surprising, but the fact that their sources were so diligently cited. I've read books with worse bibliographies.
+To be clear, it's not the fact that the recipes _came_ from other people that was so surprising, but the fact that their sources were so carefully cited. I've read _books_ with less diligent bibliographies.
+
 ## The _Real_ Social Network
 
 In today's hyper-connected, social-media driven world, _sharing_ is something that has become largely impersonal. You post a link here, or send a newsletter there, but the experience overall can be like shouting into the wind.

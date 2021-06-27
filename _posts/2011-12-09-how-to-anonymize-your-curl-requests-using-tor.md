@@ -10,6 +10,8 @@ I love writing web crawlers and data aggregators in PHP. They say knowledge is p
 For this particular example, I am sending a request to [icanhazip.com](http://icanhazip.com//) to demonstrate the changing IP address. If you have a greater understanding of cURL, there are many more steps that can be taken to mask your identity as well, but I won’t go into that here.
 
 ```php
+<?php
+
 // connect to local tor proxy and refresh ip address
 $ip = '127.0.0.1';
 $port = '9051';

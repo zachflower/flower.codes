@@ -19,6 +19,7 @@ Cheers :)
 ## Pages
 
 * [archive](/archive.html) all that i have written
+<!-- * [goals](/goals.html) where i want to go -->
 * [library](/library.html) i read and i've read
 * [rules](/rules.html) how i choose to live
 

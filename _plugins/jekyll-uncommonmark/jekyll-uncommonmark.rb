@@ -94,7 +94,7 @@ module Jekyll
             block do
               lang = extract_code_lang(node.fence_info)
 
-              out("<pre", sourcepos(node))
+              out("<font color=\"gray\"><pre", sourcepos(node))
 
               if option_enabled?(:GITHUB_PRE_LANG)
                 out_data_attr(lang)
@@ -105,7 +105,7 @@ module Jekyll
                 out(">")
               end
               out(render_with_rouge(node.string_content, lang))
-              out("</code></pre>")
+              out("</code></pre></font>")
             end
           end
 
@@ -190,7 +190,7 @@ module Jekyll
           end
 
           def render_with_rouge(code, lang)
-            formatter = Jekyll::Highlighters::Formatters::UncommonMark.new(Rouge::Themes::Base16)
+            formatter = Jekyll::Highlighters::Formatters::UncommonMark.new(Rouge::Themes::Base16.mode(:light))
             lexer = Rouge::Lexer.find_fancy(lang, code) || Rouge::Lexers::PlainText
             formatter.format(lexer.lex(code))
           end
