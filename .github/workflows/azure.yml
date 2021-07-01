@@ -33,9 +33,7 @@ jobs:
           repo_token: ${{ secrets.GITHUB_TOKEN }}
           skip_app_build: true # we are building this ourselves
           action: "upload"
-          app_location: "/"
-          api_location: ""
-          output_location: "_site"
+          app_location: "/_site"
 
   close_pull_request_job:
     if: github.event_name == 'pull_request' && github.event.action == 'closed'
