@@ -16,7 +16,15 @@ jobs:
         with:
           ruby-version: 2.7
           bundler-cache: true
+      - name: Set up Node
+        uses: actions/setup-node@v2-beta
+        with:
+          node-version: '14'
       - name: Install Dependencies
         run: bundle install
       - name: Build Jekyll Site
         run: bundle exec jekyll build
+      - name: Install Surge
+        run: npm install -g surge
+      - name: Deploy to Surge
+        run: surge ./_site --token ${{secrets.SURGE_TOKEN}}
