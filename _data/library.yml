@@ -535,3 +535,9 @@ entries:
     author: Antony Cummins
     isbn: "1786783541"
     started: 2021-06-30
+    finished: 2021-07-02
+  
+  - title: Zen and the Art of Motorcycle Maintenance
+    author: Robert M. Pirsig
+    isbn: "0060589469"
+    started: 2021-07-02
