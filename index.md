@@ -13,7 +13,6 @@ Cheers :)
 
 ## Pages
 
-* [archive](/archive.html) all that i have written
 * [library](/library.html) i read and i've read
 * [rules](/rules.html) how i choose to live
 
