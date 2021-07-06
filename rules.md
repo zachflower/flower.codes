@@ -6,10 +6,10 @@ regenerate: true
 
 This page is a collection of rules, values, and philosophies with which I choose to live my life by. It is hardly exhaustive, nor is it perfect. Some values are difficult to put into words, while others are wildly aspirational, but in order to hold myself accountable and strive to be a better person, father, and husband, writing them down felt like a good first step.
 
-01. [General](#general)
-01. [Technology](#technology)
-01. [Parenting](#parenting)
-01. [Marriage](#marriage)
+- [General](#general)
+- [Technology](#technology)
+- [Parenting](#parenting)
+- [Marriage](#marriage)
 
 ## General
 
@@ -18,6 +18,7 @@ This page is a collection of rules, values, and philosophies with which I choose
 - How you do anything is how you do everything[^doing]
 - To do nothing is to do something[^nothing]
 - Slow the fuck down
+- Take the scenic route
 
 [^mistakes]: Anderberg, J., 2017. Never Walk By a Mistake. [online] The Art of Manliness. Available at: <https://www.artofmanliness.com/articles/never-walk-mistake/> [Accessed 30 May 2021].
 [^doing]: Ryan Holiday, 2020. How You Do Anything Is How You Do Everything. [online] Available at: <https://ryanholiday.net/how-you-do-anything/> [Accessed 30 May 2021].
