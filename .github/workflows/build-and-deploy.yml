@@ -11,20 +11,68 @@ jobs:
     name: Build and Deploy
     steps:
       - uses: actions/checkout@v2
-      - name: Set up Ruby
+      - name: degrade pngs
+        shell: bash
+        run: |
+          cd ./assets/posts/
+
+          for f in *.png; do
+            if [[ "$f" == *-degraded.png ]]; then
+              continue
+            elif [ -f "${f%.png}-degraded.png" ]; then
+              continue
+            fi
+
+            convert "${f}" -verbose -strip -resize 800\> -colorspace Gray -colors 4 -quality 10 -set filename:f "%[t]-degraded" "%[filename:f].png"
+          done
+      - name: degrade jpgs
+        shell: bash
+        run: |
+          cd ./assets/posts/
+
+          for f in *.jpg; do
+            if [[ "$f" == *-degraded.jpg ]]; then
+              continue
+            elif [ -f "${f%.jpg}-degraded.jpg" ]; then
+              continue
+            fi
+
+            convert "${f}" -verbose -sampling-factor 4:2:0 -strip -interlace JPEG -resize 800\> -colorspace Gray -colors 4 -quality 10 -set filename:f "%[t]-degraded" "%[filename:f].jpg"
+          done
+      - name: commit changes
+        id: commit
+        shell: bash
+        run: |
+          git config --local user.email "action[bot]@github.com"
+          git config --local user.name "github-actions[bot]"
+
+          git add ./assets/posts
+
+          if [ -z "$(git status --porcelain)" ]; then
+             echo "::set-output name=push::false"
+          else
+             git commit -m "[bot] degraded newly added images"
+             echo "::set-output name=push::true"
+          fi
+      - name: push commit
+        if: steps.commit.outputs.push == 'true'
+        uses: ad-m/github-push-action@master
+        with:
+           github_token: ${{ secrets.GITHUB_TOKEN }}
+      - name: set up ruby
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: 2.7
           bundler-cache: true
-      - name: Set up Node
+      - name: set up node
         uses: actions/setup-node@v2-beta
         with:
           node-version: '14'
-      - name: Install Dependencies
+      - name: install dependencies
         run: bundle install
-      - name: Build Jekyll Site
+      - name: build jekyll site
         run: bundle exec jekyll build
-      - name: Install Surge
+      - name: install surge
         run: npm install -g surge
-      - name: Deploy to Surge
+      - name: deploy to surge
         run: surge ./_site --token ${{secrets.SURGE_TOKEN}}
