@@ -541,3 +541,11 @@ entries:
     author: Robert M. Pirsig
     isbn: "0060589469"
     started: 2021-07-02
+
+  - title: "Magician: Master"
+    author: Raymond E. Feist
+    isbn: "0553267612"
+    series: Riftwar Saga
+    number: 2
+    started: 2021-07-11
+    read: true
