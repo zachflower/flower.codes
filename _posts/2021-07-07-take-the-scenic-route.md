@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Take The Scenic Route"
+title: "Take the Scenic Route"
 date: 2021-07-07 12:00:00
 ---
 
