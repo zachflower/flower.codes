@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Life Is Too Short to Waste Time on Garbage"
+title: "Life Is Too Short to Waste Time"
 date: 2021-06-19 12:00:00
 ---
 

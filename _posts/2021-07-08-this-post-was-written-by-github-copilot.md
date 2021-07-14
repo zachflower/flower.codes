@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "This Psychotic Fever Dream Was Written by GitHub Copilot"
+title: "This Post Was Written by GitHub Copilot"
 date: 2021-07-08 11:00:00
 ---
 
