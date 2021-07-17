@@ -550,3 +550,65 @@ entries:
     number: 2
     started: 2021-07-11
     read: true
+
+  - title: Wool
+    author: Hugh Howey
+    isbn: "1476733953"
+    series: Silo
+    number: 1
+    read: true
+  
+  - title: The Chaos Protocols
+    author: Gordon White
+    isbn: "0738744719"
+  
+  - title: Little Black Book of Connections
+    author: Jeffrey Gitomer
+    isbn: "1885167660"
+    read: true
+  
+  - title: Futureproof
+    author: Kevin Roose
+    isbn: "059313334X"
+  
+  - title: Gates of Fire
+    author: Steven Pressfield
+    isbn: "055338368X"
+  
+  - title: The Library Book
+    author: Susan Orlean
+    isbn: "1476740194"
+  
+  - title: The Tiger
+    author: John Vaillant
+    isbn: "0307389049"
+  
+  - title: The Pursuit of William Abbey
+    author: Claire North
+    isbn: "0316316849"
+  
+  - title: Overwhelmed
+    author: Brigid Schulte
+    isbn: "1250062381"
+  
+  - title: Why Buddhism Is True
+    author: Robert Wright
+    isbn: "1439195463"
+
+  - title: Leadership Strategy and Tactics 
+    author: Jocko Willink
+    isbn: "1250226848"
+
+  - title: Traction
+    author: Gino Wickman
+    isbn: "1936661837"
+
+  - title: Radical Candor
+    author: Kim Scott
+    isbn: "1250235375"
+
+  - title: Writing What You Know
+    author: Meg Files
+    isbn: "1621535118"
+    read: true
+    
