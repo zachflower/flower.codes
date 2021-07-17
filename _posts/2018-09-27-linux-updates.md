@@ -3,7 +3,7 @@ layout: post
 title: "The Linux (R)evolution"
 date: 2018-09-27 07:24:00
 canonical_url: https://blog.automox.com/os-patching-essentials-the-linux-revolution
-category: automox
+source: automox
 ---
 
 I first discovered my passion for computers on the day my dad brought home our first family computer nearly 20 years ago. While it would be a few more years before that passion turned into an obsession bordering on insanity, the desire to create things out of intangible bits and bytes was irresistible. Little did I know, this same instinct was one that fueled the personal computing revolution that had already been raging for the past decade (and more). In those previous ten years, the world went from the first laptops and the World Wide Web to pocket computers and Wi-Fi, and while Microsoft and Apple duked it out over whose feature-packed operating system was better, there was a third contender that was built for—and by—computing hobbyists with that same drive to create. It was years ahead of the curve.

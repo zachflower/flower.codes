@@ -3,7 +3,7 @@ layout: post
 title: "Beyond the Ban: Creatively Enforcing Rules Without Losing Players"
 date: 2017-09-28 07:24:00
 canonical_url: https://mudcoders.com/beyond-the-ban-6dc28a57f768/
-category: the mud coders guild
+source: the mud coders guild
 ---
 
 When it comes to running a multi-user dungeon, having to enforce rules is the worst. It’s a game, and most people are there to have fun, but from time to time every game encounters cheaters, trolls, and rule breakers. While banning these toxic users can seem like the easiest solution, sometimes no-tolerance policies can serve to keep well-meaning players from ever returning.

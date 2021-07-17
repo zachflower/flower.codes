@@ -3,7 +3,7 @@ layout: post
 title: "Soft(where): Where Does Software Come From?"
 date: 2018-11-23 07:24:00
 canonical_url: https://blog.automox.com/softwhere-where-does-software-come-from
-category: automox
+source: automox
 ---
 
 "If I have seen further it is by standing on the shoulders of Giants."

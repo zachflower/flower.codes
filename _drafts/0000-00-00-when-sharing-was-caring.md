@@ -6,7 +6,7 @@ date: 9999-01-01 12:00:00
 
 About a year and a half ago, just a few months before the COVID-19 pandemic turned the world upside down, my grandmother passed away.
 
-One of the most kind, caring people you'd ever be likely to meet, my grandma was many things: a wonderful singer, an accomplished baker, a talented artist... she was the type of person who acquired skills like most people acquire debt. So, when she entered the end-stages of Parkinson's Disease and was denied the activities she so dearly loved by her own failing body, her death came as a bittersweet release.
+One of the most kind, caring people you'd ever be likely to meet, my grandma was many things: a wonderful singer, an accomplished baker, a talented artist... she was the type of person who acquired skills like most people acquire debt: unintentionally and with great haste. So, when she entered the end-stages of Parkinson's Disease and was denied the activities she so dearly loved by her own failing body, her death came as a bittersweet release.
 
 If you've never lost a loved one, it may have never occurred to you that when someone dies, they leave all their _stuff_ behind. For some people, these things get enshrined, never to be touched again. For others, they get boxed away and put out of sight. Generally, though, when a loved one passes, these possessions get distributed amongst family and friends as a reminder of what was lost.
 

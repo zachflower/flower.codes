@@ -3,7 +3,7 @@ layout: post
 title: "Soft(there): Dealing With Deprecations"
 date: 2018-12-13 07:24:00
 canonical_url: https://blog.automox.com/softthere-dealing-with-deprecations
-category: automox
+source: automox
 ---
 
 "If it ain't broke, don't fix it."

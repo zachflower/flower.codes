@@ -3,7 +3,7 @@ layout: post
 title: "Putting the “Code” in Configuration Management"
 date: 2019-01-24 07:24:00
 canonical_url: https://blog.automox.com/infrastructure-as-code-putting-the-code-in-configuration-management
-category: automox
+source: automox
 ---
 
 Let’s face it, when it comes to endpoint management, automation is king. In our hyper-connected, ultra-virtualized, cloud-based world, there is no shortage of machines that we have access to and no limitation to the amount of infrastructure we can manage. But with new scale comes new challenges, and configuration management is one of the first ones many organizations encounter.

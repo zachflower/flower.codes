@@ -3,7 +3,7 @@ layout: post
 title: "The Life and Times of Configuration Management: A Brief History"
 date: 2019-01-14 07:24:00
 canonical_url: https://blog.automox.com/the-life-and-times-of-configuration-management-a-brief-history
-category: automox
+source: automox
 ---
 
 In 2001, the Department of Defense published [MIL-HDBK-61A(SE)](http://www.acqnotes.com/Attachments/MIL-HDBK-61A%20(SE)Configuration%20Management%20Guidance.pdf), a 221-page military handbook offering guidance on the practice of configuration management to all military departments and agencies. While MIL-HDBK-61A(SE) is the government’s most recent contribution to the practice of configuration management, the Department of Defense itself has a long history of expertise in the field, having originated the concept in the 1950s as a technical management discipline for hardware components—as opposed to the software-based discipline it is most commonly associated with today.

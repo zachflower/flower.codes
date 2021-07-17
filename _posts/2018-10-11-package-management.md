@@ -3,7 +3,7 @@ layout: post
 title: "The Ins-and-Outs of Package Management"
 date: 2018-10-11 07:24:00
 canonical_url: https://blog.automox.com/the-ins-and-outs-of-package-management
-category: automox
+source: automox
 ---
 
 It's hard to remember a time before package managers. A time when software arrived on a set of floppy disks in the mail or a compact disc in the back of a catalog. A time when finding software online meant visiting a half-dozen shady websites that may or may not have been responsible for the three thousand search bars installed on your web browser. A time when you had to just trust the integrity of software distributors, because what other choice did you have?

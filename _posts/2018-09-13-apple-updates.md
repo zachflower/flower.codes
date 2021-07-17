@@ -3,7 +3,7 @@ layout: post
 title: "Apple, Updates, and You"
 date: 2018-09-13 07:24:00
 canonical_url: https://blog.automox.com/apple-updates-and-you
-category: automox
+source: automox
 ---
 
 Just over a year after the launch of Microsoft Windows 98, Apple Computer released the next and final version of their "Classic" Mac OS operating system, Mac OS 9. In typical Apple fashion, the months leading up to the release of OS 9 were marked by increasing hype, aggressive marketing, and the occasional shot across Microsoft's bow.

@@ -3,7 +3,7 @@ layout: post
 title: "Trust, but Verify"
 date: 2018-10-23 07:24:00
 canonical_url: https://blog.automox.com/keep-patching-your-shit-trust-but-verify
-category: automox
+source: automox
 ---
 
 In 1983, Ken Thompson and Dennis Ritchie were awarded the ACM A.M. Turing Award "for their development of generic operating systems theory and specifically for the implementation of the UNIX operating system." In his acceptance speech, aptly titled "*[Reflections on Trusting Trust](https://www.archive.ece.cmu.edu/~ganger/712.fall02/papers/p761-thompson.pdf)*," Thompson presented a now infamous hypothetical design for a backdoor attack in the C source code compiler that would render login security obsolete and, by its own design, be nearly impossible to detect (if you haven't read it, I highly recommend taking some time to so, as it is a fascinating read).

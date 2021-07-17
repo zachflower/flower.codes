@@ -3,7 +3,7 @@ layout: post
 title: "Everything You Ever Wanted to Know About Microsoft Windows Updates"
 date: 2018-08-12 07:24:00
 canonical_url: https://blog.automox.com/everything-you-want-microsoft-windows-updates
-category: automox
+source: automox
 ---
 
 In the summer of 1998, Microsoft released the next version of their flagship Windows operating system, Windows 98. While Windows 98 is often remembered as the operating system that defined desktop computing for the majority of users in the late 90s, it included a particularly unique feature that changed the way Microsoft was able to release updates. Originally introduced as a web application within Windows 98, Windows Update offered some additional customization for power users that was not available within the distributed operating system. This included things like new themes, games, driver updates, and optional applications. The initial intention of Windows Update was to provide free add-ons for Windows users. Over time, however, access to beta programs, security fixes, and critical patches were included as well; such as a fix for the now-infamous Y2K bug that plagued systems of the time.
