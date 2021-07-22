@@ -373,7 +373,7 @@ entries:
     isbn: "1929774516"
     started: 2021-03-26
     finished: 2021-03-29
-  
+
   - title: Nurture Shock
     author: Po Bronson and Ashley Merryman
     isbn: "0446504130"
@@ -385,26 +385,26 @@ entries:
     isbn: "0316069884"
     started: 2021-03-31
     finished: 2021-04-10
-  
+
   - title: Coding Democracy
     author: Maureen Webb
     isbn: "0262043556"
     started: 2021-04-09
     finished: 2021-04-30
-    
+
   - title: The 4-Hour Chef
     author: Timothy Ferriss
     isbn: "0547884591"
     started: 2021-04-27
     finished: 2021-06-05
     read: true
-    
+
   - title: How to Avoid a Climate Disaster
     author: Bill Gates
     isbn: "0385546130"
     started: 2021-04-30
     finished: 2021-05-03
-  
+
   - title: Superconnector
     author: Scott Gerber and Ryan Paugh
     isbn: "0738219967"
@@ -448,42 +448,42 @@ entries:
   - title: The Age of Surveillance Capitalism
     author: Shoshana Zuboff
     isbn: "1541758005"
-    
+
   - title: The Hitchhiker's Guide to the Galaxy
     author: Douglas Adams
     isbn: "1400052920"
-    
+
   - title: Choke
     author: Chuck Palahniuk
     isbn: "0385720920"
-    
+
   - title: The Road
     author: Cormac McCarthy
     isbn: "0307387895"
-    
+
   - title: Bones of the Dragon
     author: Margaret Weis and Tracy Hickman
     isbn: "076531973X"
     series: Dragonships of Vindras
     number: 1
-    
+
   - title: The Fellowship of the Ring
     author: J.R.R. Tolkien
     isbn: "0395489318"
     series: The Lord of the Rings
     number: 1
     started: 2021-05-25
-    
+
   - title: A Delusion of Satan
     author: Frances Hill
     isbn: "0306811596"
-    
+
   - title: The Alchemist
     author: Paulo Coelho
     isbn: "0062315005"
     started: 2021-05-03
     finished: 2021-05-12
-  
+
   - title: The Soul of Discipline
     author: Kim John Payne
     isbn: "9780345548696"
@@ -501,25 +501,25 @@ entries:
     isbn: "0393652491"
     started: 2021-06-06
     finished: 2021-06-15
-  
+
   - title: The 4-Hour Workweek
     author: Timothy Ferriss
     read: true
     isbn: "0307465357"
     started: 2021-06-15
     finished: 2021-06-25
-  
+
   - title: Buffy the Vampire Slayer and Philosophy
     author: James B. South
     isbn: "0812695313"
     started: 2021-06-18
-  
+
   - title: Stillness Is the Key
     author: Ryan Holiday
     isbn: "0525538585"
     started: 2021-06-19
     finished: 2021-06-23
-  
+
   - title: Dancing with Dragons
     author: D.J. Conway
     isbn: "9781567181654"
@@ -531,13 +531,13 @@ entries:
     isbn: "9780063064942"
     started: 2021-06-26
     finished: 2021-06-27
-  
+
   - title: How to be a Modern Samurai
     author: Antony Cummins
     isbn: "1786783541"
     started: 2021-06-30
     finished: 2021-07-02
-  
+
   - title: Zen and the Art of Motorcycle Maintenance
     author: Robert M. Pirsig
     isbn: "0060589469"
@@ -557,45 +557,45 @@ entries:
     series: Silo
     number: 1
     read: true
-  
+
   - title: The Chaos Protocols
     author: Gordon White
     isbn: "0738744719"
-  
+
   - title: Little Black Book of Connections
     author: Jeffrey Gitomer
     isbn: "1885167660"
     read: true
-  
+
   - title: Futureproof
     author: Kevin Roose
     isbn: "059313334X"
-  
+
   - title: Gates of Fire
     author: Steven Pressfield
     isbn: "055338368X"
-  
+
   - title: The Library Book
     author: Susan Orlean
     isbn: "1476740194"
-  
+
   - title: The Tiger
     author: John Vaillant
     isbn: "0307389049"
-  
+
   - title: The Pursuit of William Abbey
     author: Claire North
     isbn: "0316316849"
-  
+
   - title: Overwhelmed
     author: Brigid Schulte
     isbn: "1250062381"
-  
+
   - title: Why Buddhism Is True
     author: Robert Wright
     isbn: "1439195463"
 
-  - title: Leadership Strategy and Tactics 
+  - title: Leadership Strategy and Tactics
     author: Jocko Willink
     isbn: "1250226848"
 
@@ -611,8 +611,9 @@ entries:
     author: Meg Files
     isbn: "1621535118"
     read: true
-    
+
   - title: Kill It with Fire
     author: Marianne Bellotti
     isbn: "9781718501188"
     started: 2021-07-20
+    finished: 2021-07-21
