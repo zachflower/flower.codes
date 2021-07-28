@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Searching for Kid-Friendly Searching"
-date: 9999-01-01 12:00:00
+date: 2021-07-28 13:52:00
 ---
 
 This last spring, my daughter expressed an interest in learning about computers—how they work, how to use them, what they're made of. A lifelong computer geek myself, I jumped at the opportunity to bond with her over something that I have always been passionate about. I suggested that we build a computer "from scratch" and her excitement over that idea was explosive.
