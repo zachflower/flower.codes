@@ -28,7 +28,6 @@ url: "https://flower.codes"
 # Build settings
 markdown: UncommonMark
 plugins:
-  - jekyll-feed
   - jekyll-include-cache
 
 uncommonmark:

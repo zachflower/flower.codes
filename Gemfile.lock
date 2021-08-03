@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/jekyll/jekyll.git
-  revision: 76517175e700d80706c9139989053f1c53d9b956
+  revision: 55b6972ea73e683bee69c8f72aa69bc4425f4519
   specs:
     jekyll (4.2.0)
       addressable (~> 2.4)
@@ -46,8 +46,6 @@ GEM
     http_parser.rb (0.6.0)
     i18n (1.8.10)
       concurrent-ruby (~> 1.0)
-    jekyll-feed (0.15.1)
-      jekyll (>= 3.7, < 5.0)
     jekyll-include-cache (0.2.1)
       jekyll (>= 3.7, < 5.0)
     jekyll-sass-converter (2.1.0)
@@ -61,13 +59,13 @@ GEM
     liquid (4.0.3)
     liquid-c (4.0.0)
       liquid (>= 3.0.0)
-    listen (3.5.1)
+    listen (3.6.0)
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.4.0)
-    mini_portile2 (2.5.3)
-    nokogiri (1.11.7)
-      mini_portile2 (~> 2.5.0)
+    mini_portile2 (2.6.1)
+    nokogiri (1.12.1)
+      mini_portile2 (~> 2.6.1)
       racc (~> 1.4)
     nokogumbo (2.0.5)
       nokogiri (~> 1.8, >= 1.8.4)
@@ -100,7 +98,6 @@ DEPENDENCIES
   commonmarker
   html-proofer
   jekyll!
-  jekyll-feed
   jekyll-include-cache
   liquid-c
   tzinfo (~> 1.2)

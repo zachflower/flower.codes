@@ -17,7 +17,6 @@ gem "jekyll", github: "jekyll/jekyll"
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   # gem 'jekyll-commonmark'
-  gem "jekyll-feed"
   gem "jekyll-include-cache"
 end
 
