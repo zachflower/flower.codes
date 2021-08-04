@@ -84,5 +84,5 @@ jobs:
           key: ${{ secrets.SSH_KEY }}
           passphrase: ${{ secrets.SSH_KEY_PASSPHRASE }}
           rm: true
-          source: "_site/"
+          source: "_site/*"
           target: "${{ secrets.REMOTE_DIR }}"
