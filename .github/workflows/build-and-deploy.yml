@@ -84,4 +84,5 @@ jobs:
           remote_path: "${{ secrets.REMOTE_DIR }}"
           remote_host: ${{ secrets.REMOTE_HOST }}
           remote_user: deploy
-          remote_key: ${{ secrets.SSH_KEY_PASSPHRASE }}
+          remote_key: ${{ secrets.SSH_KEY }}
+          remote_key_pass : ${{ secrets.SSH_KEY_PASSPHRASE }}
