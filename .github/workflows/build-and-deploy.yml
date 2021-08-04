@@ -76,3 +76,13 @@ jobs:
         run: npm install -g surge
       - name: deploy to surge
         run: surge ./_site --token ${{secrets.SURGE_TOKEN}}
+      - name: deploy to server
+        uses: appleboy/scp-action@master
+        with:
+          host: ${{ secrets.REMOTE_HOST }}
+          username: ${{ secrets.REMOTE_USER }}
+          key: ${{ secrets.SSH_KEY }}
+          passphrase: ${{ secrets.SSH_KEY_PASSPHRASE }}
+          rm: true
+          source: "_site/"
+          target: "${{ secrets.REMOTE_DIR }}"
