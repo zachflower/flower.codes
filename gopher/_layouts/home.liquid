@@ -1,7 +1,10 @@
+---
+layout: null
+---
 {%- assign lines = content | split_by_newline -%}
 
 {%- for line in lines -%}
 	{{ line | prepend: 'i' | append: '	/'}}
 {% endfor %}
 
-{% include post_list.liquid %}
+{%- include post_list.liquid -%}
