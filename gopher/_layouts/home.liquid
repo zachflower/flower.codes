@@ -6,5 +6,7 @@ layout: null
 {%- for line in lines -%}
 	{{ line | prepend: 'i' | append: '	/'}}
 {% endfor %}
-i> POSTS
-{% include post_list.liquid -%}
+i>>> POSTS	/
+{%- for post in site.posts  -%}
+0{{post.date | date: "%Y.%m.%d"}} :: {{post.title}}	{{post.url}}
+{%- endfor -%}
