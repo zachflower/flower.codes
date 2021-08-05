@@ -1,3 +1,7 @@
-{{ content | split_by_length: 80 }}
+{%- assign lines = content | split_by_newline -%}
+
+{%- for line in lines -%}
+	{{ line | prepend: 'i' | append: '	/'}}
+{% endfor %}
 
 {% include post_list.liquid %}
