@@ -93,7 +93,7 @@ jobs:
         with:
           switches: -avzr --delete
           path: _gopher/
-          remote_path: /opt/stack/volumes/gopher/hole/
+          remote_path: /opt/stack/volumes/gophernicus/hole/
           remote_host: ${{ secrets.REMOTE_HOST }}
           remote_user: deploy
           remote_key: ${{ secrets.SSH_KEY }}
