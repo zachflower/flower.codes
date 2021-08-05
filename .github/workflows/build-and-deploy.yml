@@ -14,7 +14,7 @@ jobs:
       - name: degrade pngs
         shell: bash
         run: |
-          cd ./assets/posts/
+          cd ./http/assets/posts/
 
           for f in *.png; do
             if [[ "$f" == *-degraded.png ]]; then
@@ -28,7 +28,7 @@ jobs:
       - name: degrade jpgs
         shell: bash
         run: |
-          cd ./assets/posts/
+          cd ./http/assets/posts/
 
           for f in *.jpg; do
             if [[ "$f" == *-degraded.jpg ]]; then
