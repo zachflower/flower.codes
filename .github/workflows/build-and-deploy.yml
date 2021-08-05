@@ -81,7 +81,7 @@ jobs:
         with:
           switches: -avzr --delete
           path: _site/
-          remote_path: "${{ secrets.REMOTE_DIR }}"
+          remote_path: /opt/stack/volumes/caddy/site/flower.codes/
           remote_host: ${{ secrets.REMOTE_HOST }}
           remote_user: deploy
           remote_key: ${{ secrets.SSH_KEY }}
