@@ -6,6 +6,5 @@ layout: null
 {%- for line in lines -%}
 	{{ line | prepend: 'i' | append: '	/'}}
 {% endfor %}
-
-> POSTS
-{%- include post_list.liquid -%}
+i> POSTS
+{% include post_list.liquid -%}

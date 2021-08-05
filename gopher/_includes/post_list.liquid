@@ -8,14 +8,14 @@
 {%- capture this_year -%}{{ post.date | date: "%Y" }}{%- endcapture -%}
 {%- capture next_year -%}{{ post.previous.date | date: "%Y" }}{%- endcapture -%}
 {%- if forloop.first -%}
-i=> {{this_year}}	/
+i>> {{this_year}}	/
 i 	/
 {% endif -%}
 0{{post.title}}	{{post.url}}
 {%- unless forloop.last -%}
 {%- if this_year != next_year -%}
 i 	/
-i=> {{next_year}}	/
+i>> {{next_year}}	/
 i 	/
 {% endif -%}
 {%- endunless -%}
