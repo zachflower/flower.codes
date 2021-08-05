@@ -1,3 +1,3 @@
-# flower.codes
+# gopher://flower.codes
 
 I write things sometimes.

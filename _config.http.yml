@@ -23,12 +23,13 @@ author: Zachary Flower
 email: zach@flower.codes
 description: Impostor.
 baseurl: ""
-url: "https://flower.codes"
+url: "http://flower.codes"
+
+source: http
+destination: _http
 
 # Build settings
 markdown: UncommonMark
-plugins:
-  - jekyll-include-cache
 
 uncommonmark:
   options: ["FOOTNOTES"]
@@ -53,7 +54,6 @@ compress_html:
 #
 exclude:
   - README.md
-  - LICENSE
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/

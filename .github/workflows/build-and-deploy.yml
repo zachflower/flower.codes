@@ -69,19 +69,31 @@ jobs:
         with:
           node-version: '14'
       - name: install dependencies
-        run: bundle install
-      - name: build jekyll site
-        run: bundle exec jekyll build
+        run: make install
+      - name: build http site
+        run: make http
+      - name: build gopher hole
+        run: make gopher
       - name: install surge
         run: npm install -g surge
-      - name: deploy to surge
-        run: surge ./_site --token ${{secrets.SURGE_TOKEN}}
-      - name: deploy to server
+      - name: deploy site to surge
+        run: surge ./_http --token ${{secrets.SURGE_TOKEN}}
+      - name: deploy site to server
         uses: burnett01/rsync-deployments@5.0
         with:
           switches: -avzr --delete
-          path: _site/
+          path: _http/
           remote_path: /opt/stack/volumes/caddy/site/flower.codes/
+          remote_host: ${{ secrets.REMOTE_HOST }}
+          remote_user: deploy
+          remote_key: ${{ secrets.SSH_KEY }}
+          remote_key_pass : ${{ secrets.SSH_KEY_PASSPHRASE }}
+      - name: deploy gopherhole to server
+        uses: burnett01/rsync-deployments@5.0
+        with:
+          switches: -avzr --delete
+          path: _gopher/
+          remote_path: /opt/stack/volumes/gopher/hole/
           remote_host: ${{ secrets.REMOTE_HOST }}
           remote_user: deploy
           remote_key: ${{ secrets.SSH_KEY }}
