@@ -6,8 +6,6 @@ layout: null
 {%- for line in lines -%}
 	{{ line | prepend: 'i' | append: '	/'}}
 {% endfor %}
-
-0About	/about.txt
-0Contact	/contact.txt
-1Phlog	/phlog
-hWebsite	http://flower.codes
+{% for post in site.posts  -%}
+0{{post.date | date: "%Y.%m.%d"}} :: {{post.title}}	{{post.url}}
+{%- endfor -%}
