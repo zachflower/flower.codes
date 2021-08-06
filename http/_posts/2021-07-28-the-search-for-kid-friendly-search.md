@@ -32,6 +32,6 @@ Here's the thing... these kid-friendly search engines are powered by Google, whi
 
 If my kids want to search for dinosaurs, they should be presented with educational and otherwise appropriate websites to help them learn about dinosaurs; not a full page of ads for dinosaurs before they see the actual search results:
 
-![Kiddle.co search for "dinosaurs" showing a full page of ads before the first valid result](/assets/posts/kiddle-dinosaur-search.png)
+![Kiddle.co search for "dinosaurs" showing a full page of ads before the first valid result](/assets/posts/kiddle-dinosaur-search.jpg)
 
 Is it too much to ask for a search experience that empowers my kids to explore without immediately trying to monetize their every action?

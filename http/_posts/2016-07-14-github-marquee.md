@@ -148,7 +148,7 @@ marquee 'Hi there'
 
 Which resulted in a neat little update to my personal GitHub calendar matrix like so:
 
-![Screenshot of "Hi There" displayed on the GitHub Contribution Graph](/assets/posts/hi-there.png)
+![Screenshot of "Hi There" displayed on the GitHub Contribution Graph](/assets/posts/hi-there.jpg)
 
 
 If you’d like to try this on your own GitHub account, simply install using the following command:

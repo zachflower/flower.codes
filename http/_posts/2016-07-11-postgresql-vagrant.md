@@ -32,12 +32,12 @@ LogLevel FATAL
 
 Take note of the **HostName**, **User**, **Port** and **IdentityFile** values. You’ll need them in the next step.
 
-![PSequel Setup](/assets/posts/postgres-1.png)
+![PSequel Setup](/assets/posts/postgres-1.jpg)
 
 
 Now, open up PSequel and set up a new connection. Click the “Use SSH Tunneling” checkbox, and fill in the values you noted above in the appropriate spaces.
 
-![PSequel Setup](/assets/posts/postgres-2.png)
+![PSequel Setup](/assets/posts/postgres-2.jpg)
 
 
 Now that you’ve configured SSH tunneling, all you have to do is fill out the appropriate “Connection Details” (be sure to use localhost as the Host) and you are ready to rock!

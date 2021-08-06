@@ -25,7 +25,7 @@ Seems legit.
 
 Here's a quick comparison of the two files. The only difference, as far as my computer can tell? The file size of the concatenated file is 30MB bigger.
 
-![Comparison](/assets/posts/comparison-1.png)
+![Comparison](/assets/posts/comparison-1.jpg)
 
 To make it clear that MIME type validation is useless in this situation, here are the results of three different file type commands:
 
@@ -56,7 +56,7 @@ My first step was to re-run my original concatenation script, except this time I
 
 Here's a comparison between the original and concatenated audio files. The only visible difference is, again, the file size.
 
-![Comparison](/assets/posts/comparison-4.png)
+![Comparison](/assets/posts/comparison-4.jpg)
 
 You're probably noticing a theme here, though let's face it, this isn't exactly rocket science (or science at all, for that matter). Once you figure it out once, reproducing the results is a pretty straightforward process.
 
