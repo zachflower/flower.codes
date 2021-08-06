@@ -6,4 +6,6 @@ layout: null
 {%- for line in lines -%}
 	{{ line | prepend: 'i' | append: '	/'}}
 {% endfor %}
-{%- include post_list.liquid -%}
+iAtom Feed	/feed.xml
+
+{% include post_list.liquid -%}
