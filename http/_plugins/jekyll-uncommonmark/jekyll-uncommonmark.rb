@@ -141,7 +141,6 @@ module Jekyll
             filename = node.url
 
             if filename.start_with?('/assets/posts/')
-              filename = filename.sub(".png", "-degraded.png") if filename.end_with?(".png")
               filename = filename.sub(".jpg", "-degraded.jpg") if filename.end_with?(".jpg")
             end
 

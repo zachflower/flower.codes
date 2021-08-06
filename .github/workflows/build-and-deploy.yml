@@ -11,20 +11,6 @@ jobs:
     name: build and deploy
     steps:
       - uses: actions/checkout@v2
-      - name: degrade pngs
-        shell: bash
-        run: |
-          cd ./http/assets/posts/
-
-          for f in *.png; do
-            if [[ "$f" == *-degraded.png ]]; then
-              continue
-            elif [ -f "${f%.png}-degraded.png" ]; then
-              continue
-            fi
-
-            convert "${f}" -verbose -strip -resize 800\> -colorspace Gray -colors 4 -quality 10 -set filename:f "%[t]-degraded" "%[filename:f].png"
-          done
       - name: degrade jpgs
         shell: bash
         run: |
