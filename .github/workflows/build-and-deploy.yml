@@ -74,10 +74,6 @@ jobs:
         run: make http
       - name: build gopher hole
         run: make gopher
-      - name: install surge
-        run: npm install -g surge
-      - name: deploy site to surge
-        run: surge ./_http --token ${{secrets.SURGE_TOKEN}}
       - name: deploy site to server
         uses: burnett01/rsync-deployments@5.0
         with:
