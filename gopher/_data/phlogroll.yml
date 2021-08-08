@@ -1,4 +1,7 @@
 entries:
-  - url: 'gopher://sdf.org/1/users/slugmax'
-  - url: 'gopher://bitreich.org/1/usr/solene/'
-  - url: 'gopher://1436.ninja/1/Phlog'
+  - hostname: 'sdf.org'
+    selector: '/1/users/slugmax'
+  - hostname: 'bitreich.org'
+    selector: '/1/usr/solene/'
+  - hostname: '1436.ninja'
+    selector: '/1/Phlog'
