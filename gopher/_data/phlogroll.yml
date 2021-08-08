@@ -1,10 +1,15 @@
 entries:
-  - hostname: 'sdf.org'
+  - title: 'sdf.org/1/users/slugmax'
+    hostname: 'sdf.org'
     selector: '/1/users/slugmax'
     port: 70
-  - hostname: 'bitreich.org'
-    selector: '/1/usr/solene/'
+  - title: 'bitreich.org/1/usr/solene'
+    hostname: 'bitreich.org'
+    selector: '/1/usr/solene'
     port: 70
   - hostname: '1436.ninja'
     selector: '/1/Phlog'
+    port: 70
+  - hostname: 'baud.baby'
+    selector: '/phlog'
     port: 70
