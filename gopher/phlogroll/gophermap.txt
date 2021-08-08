@@ -1,0 +1,11 @@
+---
+layout: phlogroll
+---
+======================================================================
+ Gopherspace is different than the web. It's far more wild-west and,
+ to be honest, I have trouble keeping it all organized in my head. So
+ this page of Gopherholes that I have discovered and enjoyed for one
+ reason or another is as much for me as it is for anyone else. Check
+ 'em out... or don't.
+                                             Zach <zach@flower.codes>
+======================================================================
