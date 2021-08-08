@@ -7,3 +7,5 @@ entries:
     selector: '/Phlog'
   - hostname: 'baud.baby'
     selector: '/phlog'
+  - hostname: 'zaibatsu.circumlunar.space'
+    selector: '/~solderpunk/phlog'
