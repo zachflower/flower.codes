@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Collecting" Obsolete Technology
+title: '"Collecting" Obsolete Technology'
 date: 2021-08-08 12:30:00
 ---
 Like many technologists out there (see: nerds), I have an inordinate amount of
