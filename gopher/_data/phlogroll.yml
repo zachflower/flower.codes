@@ -1,8 +1,8 @@
 entries:
-  - hostname: 'sdf.org'
-    selector: '/users/slugmax'
-  - hostname: 'bitreich.org'
-    selector: '/usr/solene'
+  - hostname: 'r.circumlunar.space'
+    selector: '/~slugmax/phlog'
+  - hostname: 'dataswamp.org'
+    selector: '/~solene'
   - hostname: '1436.ninja'
     selector: '/Phlog'
   - hostname: 'baud.baby'
