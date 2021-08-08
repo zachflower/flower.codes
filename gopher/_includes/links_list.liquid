@@ -1,3 +1,3 @@
 {%- for entry in include.entries -%}
-1{% if entry.title %}{{entry.title}}{% elsif entry.hostname %}{{entry.hostname}}{% else %}{{entry.selector}}{% endif %}	{{entry.selector}}{% if entry.hostname %}	{{entry.hostname}}{% endif %}{% if entry.port %}	{{entry.port}}{% endif %}
+1{% if entry.title %}{{entry.title}}{% elsif entry.hostname %}gopher://{{entry.hostname}}/1{{entry.selector}}{% else %}{{entry.selector}}{% endif %}	{{entry.selector}}{% if entry.hostname %}	{{entry.hostname}}{% if entry.port %}	{{entry.port}}{% else %}	70{% endif %}{% endif %}
 {%- endfor -%}
