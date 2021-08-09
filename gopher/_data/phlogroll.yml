@@ -9,3 +9,5 @@ entries:
     selector: '/phlog'
   - hostname: 'zaibatsu.circumlunar.space'
     selector: '/~solderpunk/phlog'
+  - hostname: 'gopher.black'
+    selector: '/phlog'
