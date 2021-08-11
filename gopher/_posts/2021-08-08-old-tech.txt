@@ -17,7 +17,7 @@ end-of-life Android phones, 15 *very* small hard disk drives, an
 early-generation Chromebook, two unsupported iPads, one each of an
 old iPhone, iPod Touch, and iPod Classic, all of the Rokus, every
 video game system ever made, more dead smart- home accessories than
-I can count, a treasure chest of Arduinos (Arduinii?) and Raspberry
+I can count, a treasure chest of Arduinos (Arduini?) and Raspberry
 Pis, a Palm Pilot of all things, and a partridge in a pear tree.
 
 Over the years, my desire to have the latest gadget has been mostly
