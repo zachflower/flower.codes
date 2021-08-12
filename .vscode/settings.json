@@ -2,7 +2,7 @@
     "editor.rulers": [{
         "column": 68,
         "color": "#505050"
-    }, 80, 160],
+    }, 80],
     "editor.formatOnSave": false,
     "files.trimTrailingWhitespace": true
 }
