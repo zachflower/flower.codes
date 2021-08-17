@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Enter The Gopherverse"
-date: 9999-01-01 12:00:00
+date: 2021-08-16 19:14:00
 ---
 
 Anyone remember [Gopher](https://en.wikipedia.org/wiki/Gopher_(protocol))? It was an old alternative to the World Wide Web that was largely text-based (see: awesome). Over the last few years, computerists (computerers?) more adventurous than myself have been flocking back to Gopher in droves—relatively speaking. I think that most people can agree that the World Wide Web as we know it today is largely a _toxic, irredeemable wasteland that—by all objective measurements—was a tragic mistake!_

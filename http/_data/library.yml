@@ -637,3 +637,16 @@ entries:
     author: Miyamoto Musashi
     isbn: "1590307976"
     started: 2021-08-03
+
+  - title: Otherworld
+    author: Jason Segel and Kirsten Miller
+    series: Last Reality
+    number: 1
+    isbn: "9781101939321"
+    started: 2021-08-13
+    finished: 2021-08-14
+
+  - title: My Best Friend's Exorcism
+    author: Grady Hendrix
+    isbn: "1594749760"
+    started: 2021-08-15
