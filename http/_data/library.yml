@@ -426,3 +426,9 @@ entries:
     isbn: "1594749760"
     started: 2021-08-15
     finished: 2021-08-16
+
+  - title: Dark Matter
+    author: Blake Crouch
+    isbn: "1101904224"
+    started: 2021-08-16
+    finished: 2021-08-17
