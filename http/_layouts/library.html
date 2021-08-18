@@ -88,23 +88,3 @@ layout: page
   {%- endif -%}
 
 {%- endfor -%}
-
-{%- assign something = false -%}
-{%- capture backlog -%}
-  <hr size="1" noshade />
-
-  <h2>Book Backlog</h2>
-
-  <ol>
-    {%- for book in site.data.library.entries -%}
-      {%- unless book.started -%}
-        {%- assign something = true -%}
-        {%- include library_book.html book=book -%}
-      {%- endunless -%}
-    {%- endfor -%}
-  </ol>
-{%- endcapture -%}
-
-{%- if something -%}
-  {{ backlog }}
-{%- endif -%}

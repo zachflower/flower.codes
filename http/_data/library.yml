@@ -154,18 +154,6 @@ entries:
     started: 2021-05-10
     finished: 2021-05-24
 
-  - title: Steve Jobs
-    author: Walter Isaacson
-    isbn: "1451648537"
-
-  - title: Small Fry
-    author: Lisa Brennan-Jobs
-    isbn: "0802128238"
-
-  - title: Blood, Sweat, and Pixels
-    author: Jason Schreier
-    isbn: "0062651234"
-
   - title: Permanent Record
     author: Edward Snowden
     isbn: "1250237238"
@@ -183,10 +171,6 @@ entries:
     isbn: "0553351397"
     started: 2021-02-20
     finished: 2021-03-08
-
-  - title: Click Here to Kill Everybody
-    author: Bruce Schneier
-    isbn: "0393357449"
 
   - title: Meditations
     author: Marcus Aurelius
@@ -206,89 +190,11 @@ entries:
     started: 2021-02-07
     finished: 2021-02-20
 
-  - title: A Game of Thrones
-    author: George R.R. Martin
-    isbn: "0553573403"
-    series: A Song of Ice and Fire
-    number: 1
-
-  - title: Norse Mythology
-    author: Neil Gaiman
-    isbn: "1410499499"
-
-  - title: "1984"
-    author: George Orwell
-    isbn: "0451524934"
-
   - title: Ego Is the Enemy
     author: Ryan Holiday
     isbn: "1591847818"
     started: 2021-05-26
     finished: 2021-06-04
-
-  - title: REAMDE
-    author: Neal Stephenson
-    isbn: "0062191497"
-
-  - title: Band of Brothers
-    author: Stephen E. Ambrose
-    isbn: "1501179403"
-
-  - title: The Handmaid's Tale
-    author: Margaret Atwood
-    isbn: "038549081X"
-
-  - title: Gates
-    author: Stephen Manes and Paul Andrews
-    isbn: "0671880748"
-
-  - title: Sapiens
-    author: Yuval Noah Harari
-    isbn: "0062316117"
-
-  - title: Casino Royale
-    author: Ian Fleming
-    isbn: "014200202X"
-    series: James Bond
-    number: 1
-
-  - title: Neuromancer
-    author: William Gibson
-    isbn: "0441569595"
-    series: Sprawl 0.5
-    number: 1
-
-  - title: Cryptonomicon
-    author: Neal Stephenson
-    isbn: "0380788624"
-
-  - title: A Short History of Nearly Everything
-    author: Bill Bryson
-    isbn: "076790818X"
-
-  - title: Artemis
-    author: Andy Weir
-    isbn: "0553448145"
-
-  - title: I Am America (And So Can You!)
-    author: Stephen Colbert
-    isbn: "0446580503"
-
-  - title: The Phoenix Project
-    author: Gene Kim, Kevin Behr, and George Spafford
-    isbn: "1942788290"
-
-  - title: Quit Like a Millionaire
-    author: Bryce Leung and Kristy Shen
-    isbn: "9780525538691"
-
-  - title: The Five Thieves of Happiness
-    author: John Izzo
-    isbn: "1626569320"
-
-  - title: Fahrenheit 451
-    author: Ray Bradbury
-    isbn: "1451673310"
 
   - title: The Shining
     author: Stephen King
@@ -310,10 +216,6 @@ entries:
     started: 2021-03-01
     finished: 2021-03-03
 
-  - title: Good to Great
-    author: Jim Collins
-    isbn: "0066620996"
-
   - title: Essentialism
     author: Greg McKeown
     isbn: "0804137382"
@@ -332,28 +234,12 @@ entries:
     started: 2021-03-13
     finished: 2021-03-15
 
-  - title: Tribe of Mentors
-    author: Timothy Ferriss
-    isbn: "1328994961"
-
   - title: Enchantment
     author: Guy Kawasaki
     isbn: "9781591845836"
     started: 2021-03-17
     finished: 2021-03-17
     read: true
-
-  - title: Rapture for the Geeks
-    author: Richard Dooling
-    isbn: "0307405257"
-
-  - title: Hooked
-    author: Nir Eyal
-    isbn: "1591847788"
-
-  - title: Zero to One
-    author: Peter Thiel
-    isbn: "0804139296"
 
   - title: Invisible Influence
     author: Jonah Berger
@@ -405,30 +291,6 @@ entries:
     started: 2021-04-30
     finished: 2021-05-03
 
-  - title: Superconnector
-    author: Scott Gerber and Ryan Paugh
-    isbn: "0738219967"
-
-  - title: The Seventh Sense
-    author: Joshua Cooper Ramo
-    isbn: "0316285064"
-
-  - title: The Gnostic Gospels
-    author: Elaine Pagels
-    isbn: "0679724532"
-
-  - title: Verses from the Center
-    author: Nāgārjuna
-    isbn: "1573228761"
-
-  - title: The Omnivore's Dilema
-    author: Michael Pollan
-    isbn: "0143038583"
-
-  - title: Thinking in Numbers
-    author: Daniel Tammet
-    isbn: "0316187372"
-
   - title: The Hobbit
     author: J.R.R. Tolkien
     isbn: "054792822X"
@@ -441,32 +303,6 @@ entries:
     started: 2021-05-03
     finished: 2021-05-05
 
-  - title: An American Sickness
-    author: Elisabeth Rosenthal
-    isbn: "0143110853"
-
-  - title: The Age of Surveillance Capitalism
-    author: Shoshana Zuboff
-    isbn: "1541758005"
-
-  - title: The Hitchhiker's Guide to the Galaxy
-    author: Douglas Adams
-    isbn: "1400052920"
-
-  - title: Choke
-    author: Chuck Palahniuk
-    isbn: "0385720920"
-
-  - title: The Road
-    author: Cormac McCarthy
-    isbn: "0307387895"
-
-  - title: Bones of the Dragon
-    author: Margaret Weis and Tracy Hickman
-    isbn: "076531973X"
-    series: Dragonships of Vindras
-    number: 1
-
   - title: The Fellowship of the Ring
     author: J.R.R. Tolkien
     isbn: "0395489318"
@@ -474,10 +310,6 @@ entries:
     number: 1
     started: 2021-05-25
     abandoned: 2021-07-25
-
-  - title: A Delusion of Satan
-    author: Frances Hill
-    isbn: "0306811596"
 
   - title: The Alchemist
     author: Paulo Coelho
@@ -553,68 +385,11 @@ entries:
     finished: 2021-08-07
     read: true
 
-  - title: Wool
-    author: Hugh Howey
-    isbn: "1476733953"
-    series: Silo
-    number: 1
-    read: true
-
-  - title: The Chaos Protocols
-    author: Gordon White
-    isbn: "0738744719"
-
-  - title: Little Black Book of Connections
-    author: Jeffrey Gitomer
-    isbn: "1885167660"
-    read: true
-
-  - title: Futureproof
-    author: Kevin Roose
-    isbn: "059313334X"
-
-  - title: Gates of Fire
-    author: Steven Pressfield
-    isbn: "055338368X"
-
-  - title: The Library Book
-    author: Susan Orlean
-    isbn: "1476740194"
-
-  - title: The Tiger
-    author: John Vaillant
-    isbn: "0307389049"
-
-  - title: The Pursuit of William Abbey
-    author: Claire North
-    isbn: "0316316849"
-
-  - title: Overwhelmed
-    author: Brigid Schulte
-    isbn: "1250062381"
-
-  - title: Why Buddhism Is True
-    author: Robert Wright
-    isbn: "1439195463"
-
   - title: Leadership Strategy and Tactics
     author: Jocko Willink
     isbn: "1250226848"
     started: 2021-07-22
     finished: 2021-07-25
-
-  - title: Traction
-    author: Gino Wickman
-    isbn: "1936661837"
-
-  - title: Radical Candor
-    author: Kim Scott
-    isbn: "1250235375"
-
-  - title: Writing What You Know
-    author: Meg Files
-    isbn: "1621535118"
-    read: true
 
   - title: Kill It with Fire
     author: Marianne Bellotti
