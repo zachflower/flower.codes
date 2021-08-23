@@ -17,6 +17,7 @@ entries:
     isbn: "0451473019"
     started: 2021-01-01
     finished: 2021-02-19
+    recommended: true
 
   - title: Origin
     author: Dan Brown
@@ -45,12 +46,14 @@ entries:
     isbn: "1452184526"
     started: 2021-01-01
     finished: 2021-01-18
+    recommended: true
 
   - title: The Subtle Art of Not Giving a F*ck
     author: Mark Manson
     isbn: "0062457713"
     started: 2021-01-25
     finished: 2021-01-28
+    recommended: true
 
   - title: The Punch Escrow
     author: Tal M. Klein
@@ -63,6 +66,7 @@ entries:
     isbn: "0671726889"
     started: 2021-01-25
     finished: 2021-01-29
+    recommended: true
 
   - title: "Magician: Apprentice"
     author: Raymond E. Feist
@@ -121,6 +125,7 @@ entries:
     started: 2020-01-01
     finished: 2020-12-31
     read: true
+    recommended: true
 
   - title: The Vexed Generation
     author: Scott Meyer
@@ -165,6 +170,7 @@ entries:
     isbn: "1591846358"
     started: 2021-05-12
     finished: 2021-05-24
+    recommended: true
 
   - title: Peace Is Every Step
     author: Thich Nhat Hanh
@@ -371,6 +377,7 @@ entries:
     isbn: "1786783541"
     started: 2021-06-30
     finished: 2021-07-02
+    recommended: true
 
   - title: Zen and the Art of Motorcycle Maintenance
     author: Robert M. Pirsig
@@ -397,12 +404,14 @@ entries:
     isbn: "9781718501188"
     started: 2021-07-20
     finished: 2021-07-21
+    recommended: true
 
   - title: Zen in the Martial Arts
     author: Joe Hyams
     isbn: "0874771013"
     started: 2021-07-27
     finished: 2021-08-03
+    recommended: true
 
   - title: Why Be Happy?
     author: Scott Haas
@@ -439,6 +448,7 @@ entries:
     isbn: "0525536515"
     started: 2021-08-19
     finished: 2021-08-21
+    recommended: true
 
   - title: Futureproof
     author: Kevin Roose

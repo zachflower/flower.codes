@@ -88,3 +88,22 @@ layout: page
   {%- endif -%}
 
 {%- endfor -%}
+
+{%- assign something_recommended = false -%}
+{%- capture recommended -%}
+  <ol></ol>
+  {%- for book in site.data.library.entries} -%}
+    {%- if book.recommended -%}
+      {%- assign something_recommended = true -%}
+      {%- include library_book.html book=book -%}
+    {%- endif -%}
+  {%- endfor -%}
+{%- endcapture -%}
+
+{%- if something_recommended -%}
+  <hr size="1" noshade />
+  <h2>Recommended</h2>
+  <ol>
+    {{ recommended }}
+  </ol>
+{%- endif -%}
