@@ -11,3 +11,5 @@ entries:
     selector: '/~solderpunk/phlog'
   - hostname: 'gopher.black'
     selector: '/phlog'
+  - hostname: 'i-logout.cz'
+    selector: '/phlog'
