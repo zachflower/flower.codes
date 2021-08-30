@@ -9,24 +9,22 @@ body {
 a {
     color: blue;
     text-decoration: none;
-}
 
-a:hover {
-    text-decoration: underline;
+    &:hover {
+        text-decoration: underline;
+    }
 }
 
 hr {
     border-top: 1px solid lightgray;
 }
 
-p.image {
+.image {
     background-color: #66F;
     line-height: 0;
 }
 
 img {
-    width: 100%;
-    height: auto;
     mix-blend-mode: screen;
 }
 
@@ -48,5 +46,10 @@ ol {
     #wrapper {
         width: 100%;
         max-width: 800px;
+    }
+
+    img {
+        width: 100%;
+        height: auto;
     }
 }
