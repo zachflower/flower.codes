@@ -27,3 +27,6 @@ url: "gopher://flower.codes"
 
 source: gopher
 destination: _gopher
+
+# Build settings
+disable_disk_cache: true

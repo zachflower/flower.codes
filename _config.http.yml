@@ -30,6 +30,7 @@ destination: _http
 
 # Build settings
 markdown: UncommonMark
+disable_disk_cache: true
 
 uncommonmark:
   options: ["FOOTNOTES"]
