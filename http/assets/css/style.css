@@ -17,8 +17,14 @@ hr {
     border-top: 1px solid lightgray;
 }
 
+center.image {
+    background-color: #66F;
+    line-height: 0;
+}
+
 img {
     width: 100%;
+    mix-blend-mode: screen;
 }
 
 pre {

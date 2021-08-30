@@ -141,10 +141,10 @@ module Jekyll
             filename = node.url
 
             if filename.start_with?('/assets/posts/')
-              filename = filename.sub(".jpg", "-degraded.jpg") if filename.end_with?(".jpg")
+              filename = filename.sub(".jpg", "-degraded.gif") if filename.end_with?(".jpg")
             end
 
-            out('<center>')
+            out('<center class="image">')
             out('<img src="', escape_href(filename), '"')
             plain do
               out(' alt="', :children, '"')
