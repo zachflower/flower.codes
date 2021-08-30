@@ -144,13 +144,16 @@ module Jekyll
               filename = filename.sub(".jpg", "-degraded.gif") if filename.end_with?(".jpg")
             end
 
-            out('<center class="image">')
+            out('<center>')
+            out('<p class="image">')
             out('<img src="', escape_href(filename), '"')
             plain do
               out(' alt="', :children, '"')
             end
             out(' title="', escape_html(node.title), '"') if node.title && !node.title.empty?
+            out(" loading=\"lazy\"")
             out(" width=\"#{width}\" />")
+            out('</p>')
             out('</center>')
           end
 
