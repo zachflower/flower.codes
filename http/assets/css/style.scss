@@ -1,3 +1,5 @@
+---
+---
 body {
     font-size: 16px;
     font-size: .98rem !important;
@@ -23,7 +25,8 @@ p.image {
 }
 
 img {
-    max-width: 100%;
+    width: 100%;
+    height: auto;
     mix-blend-mode: screen;
 }
 
