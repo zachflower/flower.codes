@@ -13,51 +13,12 @@
 
   <link rel="shortcut icon" href="#" />
   <link rev="made" href="mailto:{{ site.email }}" />
-  <link type="application/atom+xml" rel="alternate" href="{{site.url}}/feed.xml" title="flower.codes" />
 
-  <style type='text/css'>
-    body {
-      font-size: 16px;
-      font-size: .98rem !important;
-      line-height: 1.8;
-    }
-
-    a {
-      color: blue;
-      text-decoration: none;
-    }
-
-    a:hover {
-      text-decoration: underline;
-    }
-
-    hr {
-      border-top: 1px solid lightgray;
-    }
-
-    img {
-      width: 100%;
-    }
-
-    pre {
-      width: 100%;
-      white-space: pre-wrap;
-      word-wrap: break-word;
-    }
-
-    ol {
-      list-style-type: decimal-leading-zero;
-    }
-
-    #wrapper {
-      width: 800px;
-    }
-
-    @media only screen and (max-width: 800px) {
-      #wrapper {
-        width: 100%;
-        max-width: 800px;
-      }
-    }
-  </style>
+  {% if jekyll.environment == "development" %}
+    <link type="application/atom+xml" rel="alternate" href="/feed.xml" title="flower.codes" />
+    <link rel="stylesheet" href="/assets/css/style.css" />
+  {% else %}
+    <link type="application/atom+xml" rel="alternate" href="{{site.url}}/feed.xml" title="flower.codes" />
+    <link rel="stylesheet" href="{{site.url}}/assets/css/style.css?{{site.time | date: '%s'}}" />
+  {% endif %}
 </head>

@@ -1,0 +1,43 @@
+body {
+    font-size: 16px;
+    font-size: .98rem !important;
+    line-height: 1.8;
+}
+
+a {
+    color: blue;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+hr {
+    border-top: 1px solid lightgray;
+}
+
+img {
+    width: 100%;
+}
+
+pre {
+    width: 100%;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+}
+
+ol {
+    list-style-type: decimal-leading-zero;
+}
+
+#wrapper {
+    width: 800px;
+}
+
+@media only screen and (max-width: 800px) {
+    #wrapper {
+        width: 100%;
+        max-width: 800px;
+    }
+}
