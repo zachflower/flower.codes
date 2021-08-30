@@ -13,12 +13,11 @@
 
   <link rel="shortcut icon" href="#" />
   <link rev="made" href="mailto:{{ site.email }}" />
+  <link type="application/atom+xml" rel="alternate" href="/feed.xml" title="flower.codes" />
 
   {% if jekyll.environment == "development" %}
-    <link type="application/atom+xml" rel="alternate" href="/feed.xml" title="flower.codes" />
     <link rel="stylesheet" href="/assets/css/style.css" />
   {% else %}
-    <link type="application/atom+xml" rel="alternate" href="{{site.url}}/feed.xml" title="flower.codes" />
-    <link rel="stylesheet" href="{{site.url}}/assets/css/style.css?{{site.time | date: '%s'}}" />
+    <link rel="stylesheet" href="/assets/css/style.css?{{site.time | date: '%s'}}" />
   {% endif %}
 </head>
