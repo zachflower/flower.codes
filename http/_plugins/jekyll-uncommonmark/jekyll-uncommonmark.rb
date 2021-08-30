@@ -1,6 +1,7 @@
 # frozen-string-literal: true
 
 require "rouge"
+require 'fastimage'
 
 Jekyll::External.require_with_graceful_fail "commonmarker"
 
@@ -136,12 +137,18 @@ module Jekyll
           end
 
           def image(node)
+            directory = File.expand_path(File.dirname(__FILE__))
             width = 800
 
             filename = node.url
 
             if filename.start_with?('/assets/posts/')
-              filename = filename.sub(".jpg", "-degraded.gif") if filename.end_with?(".jpg")
+              degraded = filename.sub(".jpg", "-degraded.gif") if filename.end_with?(".jpg")
+              absolute_path = "#{directory}/../..#{degraded}"
+
+              if File.file?(absolute_path)
+                filename = degraded
+              end
             end
 
             out('<center>')
@@ -151,8 +158,21 @@ module Jekyll
               out(' alt="', :children, '"')
             end
             out(' title="', escape_html(node.title), '"') if node.title && !node.title.empty?
-            out(" loading=\"lazy\"")
-            out(" width=\"#{width}\" />")
+
+            if filename.start_with?('/')
+              absolute_path = "#{directory}/../..#{filename}"
+
+              if File.file?(absolute_path)
+                size = FastImage.size(absolute_path)
+                ratio = size[0].to_f / width.to_f
+                height = size[1].to_f / ratio.to_f
+
+                out(" height=\"#{height.to_i}\"")
+              end
+            end
+
+            out(" width=\"#{width.to_i}\"")
+            out(" loading=\"lazy\" />")
             out('</p>')
             out('</center>')
           end

@@ -26,6 +26,7 @@ platforms :mingw, :x64_mingw, :mswin, :jruby do
   gem "tzinfo-data"
 end
 
+gem "fastimage"
 gem "commonmarker"
 gem "liquid-c"
 gem "html-proofer"

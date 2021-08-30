@@ -15,10 +15,10 @@ update: $(PROJECT_DEPS)
 	$(BUNDLE) update
 
 http: install
-	JEKYLL_ENV=production $(JEKYLL) build --config _config.http.yml
+	JEKYLL_ENV=production $(JEKYLL) build --verbose --config _config.http.yml
 
 gopher: install
-	JEKYLL_ENV=production $(JEKYLL) build --config _config.gopher.yml
+	JEKYLL_ENV=production $(JEKYLL) build --verbose --config _config.gopher.yml
 
 serve: install
 	JEKYLL_ENV=development $(JEKYLL) serve --config _config.http.yml

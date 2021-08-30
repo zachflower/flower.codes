@@ -23,7 +23,7 @@ p.image {
 }
 
 img {
-    width: 100%;
+    max-width: 100%;
     mix-blend-mode: screen;
 }
 
