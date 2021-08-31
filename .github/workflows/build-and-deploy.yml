@@ -21,7 +21,7 @@ jobs:
               continue
             fi
 
-            convert "${f}" -verbose -interlace GIF -resize 640\> -colorspace gray -colors 4 -ordered-dither 8x8 -set filename:f "%[t]-degraded" "%[filename:f].gif"
+            convert "${f}" -verbose -format GIF -interlace GIF -resize 640\> -colorspace gray -colors 4 -ordered-dither 8x8 -set filename:f "%[t]-degraded" "%[filename:f].gif"
           done
       - name: commit changes
         id: commit
