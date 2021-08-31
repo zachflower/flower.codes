@@ -151,8 +151,7 @@ module Jekyll
               end
             end
 
-            out('<center>')
-            out('<p class="image">')
+            out('<center class="i">')
             out('<img src="', escape_href(filename), '"')
             plain do
               out(' alt="', :children, '"')
@@ -173,7 +172,6 @@ module Jekyll
 
             out(" width=\"#{width.to_i}\"")
             out(" loading=\"lazy\" />")
-            out('</p>')
             out('</center>')
           end
 
