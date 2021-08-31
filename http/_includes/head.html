@@ -17,8 +17,8 @@
   <link type="application/atom+xml" rel="alternate" href="/feed.xml" title="flower.codes" />
 
   {% if jekyll.environment == "development" %}
-    <link rel="stylesheet" href="/assets/css/style.css" />
+    <link rel="stylesheet" href="/assets/css/style.css" media="screen" />
   {% else %}
-    <link rel="stylesheet" href="/assets/css/style.css?{{site.time | date: '%s'}}" />
+    <link rel="stylesheet" href="/assets/css/style.css?{{site.time | date: '%s'}}" media="screen" />
   {% endif %}
 </head>
