@@ -8,17 +8,21 @@ regenerate: true
 
 ### Desk
 
-- Husky adjustable height work table with a large VIVO keyboard tray
+- [Husky Adjustable Height Workbench](https://www.homedepot.com/p/Husky-46-in-Adjustable-Height-Work-Table-HOLT46XDB12/301809931) with a large [VIVO Keyboard Tray](https://amzn.com/B07HFDJCSL)
+  - If you're in the market for a convertible standing desk, this combination is _significantly_ more affordable.
 - AKRacing Core Series EX gaming chair
   - In 2020, I started experiencing severe neck pain and numbness in my shoulder that turned out to be caused by a slipped disc (fun). This chair provides surprisingly good back and head support for the price, and gives me somewhere to lean back when my spine needs a break.
-- Topo Comfort Mat
+- Ergodriven Topo Comfort standing desk mat
   -  When my desk is in a standing position, this mat keeps me moving and helps reduce fatigue in my legs and feet.
 
 ### Computers
 
-- MacBook Pro (Retina, 15-inch, Mid 2012) running macOS - I've had this laptop for nearly a decade now, and to be honest I can't ever see myself upgrading.
-- Custom Desktop Computer running Windows 10 - This is my daily driver. While Windows has its drawbacks, I enjoy the versatility it brings thanks to WSL2.
-- Dell Inspiron 2200 running Fedora Core 4 - Released in 2005, this laptop is my "not dead yet" box. It's my go-to Gopher machine, and has a bunch of obsolete browsers installed on it so I can make sure my website works _everywhen_.
+- MacBook Pro (Retina, 15-inch, Mid 2012) running macOS
+  - I've had this laptop for nearly a decade now, and to be honest I can't ever see myself upgrading.
+- Custom Desktop Computer running Windows 10
+  - This is my daily driver. While Windows has its drawbacks, I enjoy the versatility it brings thanks to WSL2.
+- Dell Inspiron 2200 running Fedora Core 4
+  - Released in 2005, this laptop is my "not dead yet" box. It's my go-to Gopher machine, and has a bunch of obsolete browsers installed on it so I can make sure my website works _everywhen_.
 - Apple iPad (7th Generation) + [Logitech Slim Folio](https://amzn.com/B07YFFKH27)
 
 ### Peripherals
