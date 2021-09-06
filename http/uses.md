@@ -40,33 +40,33 @@ regenerate: true
 
 ### Desktop
 
-- Visual Studio Code integrated development environment
-- Mozilla Firefox web browser
-- Windows Terminal / iTerm2 terminal emulators
-- Mozilla Thunderbird e-mail client
-- SizeUp window manager
-- TablePlus database client
+- [Visual Studio Code](https://code.visualstudio.com/) integrated development environment
+- [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/) web browser
+- [Windows Terminal](https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701?activetab=pivot:overviewtab) / [iTerm2](https://iterm2.com/) terminal emulators
+- [Mozilla Thunderbird](https://www.thunderbird.net/en-US/) e-mail client with HTML mail _turned off_
+- [SizeUp](https://www.irradiatedsoftware.com/sizeup/) window manager
+- [TablePlus](https://tableplus.com/) database client
 
 ### Terminal
 
-- vim editor
-- homebrew package manager
-- tintin++ MUD client
-- bat cat alternative
+- [vim](https://www.vim.org/) editor
+- [homebrew](https://brew.sh/) package manager
+- [tintin++](https://tintin.mudhalla.net/) MUD client
+- [bat](https://github.com/sharkdp/bat) cat alternative
 
 ### Mobile
 
-- Prologue audiobook listener
-- Libby library
-- Working Copy git client
-- Reeder RSS aggregator
-- Prompt SSH client
+- [Prologue](https://prologue.audio/) audiobook streamer
+- [Libby](https://libbyapp.com/welcome) library
+- [Working Copy](https://workingcopy.app/) git client
+- [Reeder](https://www.reederapp.com/) RSS feed aggregator
+- [Prompt](https://www.panic.com/prompt/) SSH client
 
 ### Self-Hosted
 
-- DD-WRT router firmware
-- Plex / Jellyfin media servers
-- Adguard Home ad blocker
+- [DD-WRT](https://dd-wrt.com/) router firmware
+- [Plex](https://www.plex.tv/) / [Jellyfin](https://jellyfin.org/) media servers
+- [AdGuard Home](https://adguard.com/en/adguard-home/overview.html) ad blocker
 
 ## Travel
 
@@ -81,26 +81,26 @@ regenerate: true
 - [Apple AirPods](https://duckduckgo.com/?iar=shopping&q=apple+airpods) wireless earbuds
 - [Apple iPod (6th Generation)](https://duckduckgo.com/?iar=shopping&q=apple+ipod+classic+6th+generation) with click wheel
 - [Skullcandy Venue](https://duckduckgo.com/?iar=shopping&q=skullcandy+venue) wireless over-ear headphones
-- Kindle Paperwhite e-reader
-- YubiKey 5 hardware authentication devices
-- Tile trackers
-- Game Boy Color game console + Pokemon Red cartridge
+- [Kindle Paperwhite](https://duckduckgo.com/?iar=shopping&q=kindle+paperwhite) e-reader
+- [YubiKey 5](https://duckduckgo.com/?iar=shopping&q=yubikey+5) hardware authentication devices
+- [Tile](https://duckduckgo.com/?iar=shopping&q=tile+tracker) trackers
+- [Game Boy Color](https://duckduckgo.com/?iar=shopping&q=gameboy+color) game console + [Pokemon Red](https://duckduckgo.com/?iar=shopping&q=pokemon+red+gameboy) cartridge
 
 ### Accessories
 
-- Brass Touch Tool no-touch door opener
-- Waxing Post Picker's Wallet with a Dunlop Tortex Standard (.88mm) pick
-- Pilot G2 ballpoint click pens
-- Pilot Varsity fountain pens
-- Moleskine classic notebooks
-- Handmade 108-bead mala necklace
-- Stainless steel Casio DATA BANK wristwatch
-- Opinel No. 7 pocket knife
+- [Brass Touch Tool](https://duckduckgo.com/?iar=shopping&q=brass+touch+tool) no-touch door opener
+- [Whipping Post Picker's Wallet](https://duckduckgo.com/?iar=shopping&q=%22wp+standard%22+pickers+wallet) with a [Dunlop Tortex Standard (.88mm)](https://duckduckgo.com/?iar=shopping&q=dunlop+tortex+standard+.88mm+pick) pick
+- [Pilot G2](https://duckduckgo.com/?iar=shopping&q=pilot+g2+pens) retractable gel ink pens
+- [Pilot Varsity](https://duckduckgo.com/?iar=shopping&q=pilot+varsity+pens) disposable fountain pens
+- [Moleskine](https://duckduckgo.com/?iar=shopping&q=moleskine+classic+notebook) classic notebooks
+- Handmade 108-bead [mala necklace](https://duckduckgo.com/?iar=shopping&q=mala+necklace)
+- Stainless steel [Casio DATA BANK](https://duckduckgo.com/?iar=shopping&q=casio+dbc-611+stainless) wristwatch
+- [Opinel No. 7](https://duckduckgo.com/?iar=shopping&q=opinel+no7) pocket knife
 
 ## Miscellaneous
 
 ### Retro
 
-- Canon AE-1 Program 35mm SLR camera
-- 1941 Royal Arrow manual typewriter
-- Montgomery Ward Cartridge Mark XII electric typewriter
+- [Canon AE-1 Program](https://duckduckgo.com/?iar=shopping&q=canon+ae-1+program) 35mm SLR camera
+- [1941 Royal Arrow](https://duckduckgo.com/?iar=shopping&q=1941+royal+arrow) manual typewriter
+- [Montgomery Ward Cartridge Mark XII](https://duckduckgo.com/?iar=shopping&q=montgomery+ward+cartridge+mark+xii) electric typewriter
