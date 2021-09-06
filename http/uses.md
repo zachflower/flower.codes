@@ -28,7 +28,7 @@ regenerate: true
 - MacBook Pro (Retina, 15-inch, Mid 2012) running macOS - I've had this laptop for nearly a decade now, and to be honest I can't ever see myself upgrading.
 - Custom Desktop Computer running Windows 10 - This is my daily driver. While Windows has its drawbacks, I enjoy the versatility it brings thanks to WSL2.
 - Dell Inspiron 2200 running Fedora Core 4 - Released in 2005, this laptop is my "not dead yet" box. It's my go-to Gopher machine, and has a bunch of obsolete browsers installed on it so I can make sure my website works _everywhen_.
-- Apple iPad (7th Generation) in a [Logitech Slim Folio](https://amzn.com/B07YFFKH27) keyboard case
+- Apple iPad (7th Generation) + [Logitech Slim Folio](https://amzn.com/B07YFFKH27)
 
 ### Peripherals
 
@@ -51,13 +51,20 @@ regenerate: true
 
 ### Desktop
 
-- Visual Studio Code
-- Mozilla Firefox
-- iTerm2 / Windows Terminal
+- Visual Studio Code - I've bounced around all the popular IDEs over the years, but Visual Studio Code has definitely won out in terms of features, usability, and performance.
+- Mozilla Firefox - Chromium is eating the web. Firefox FTW.
+- iTerm2 and Windows Terminal
 - Mozilla Thunderbird
 - SizeUp
-- Homebrew
 - TablePlus
+
+### Terminal
+
+- `vim` - I like the versatility of Visual Studio Code in a graphical environment, but in the command line (or on my ridiculously outdated Dell Latitude), Vim is _the_ editor.
+- `homebrew`
+- `tintin++`
+- `bat`
+
 
 ### Mobile
 
@@ -69,7 +76,7 @@ regenerate: true
 
 ### Self-Hosted
 
-- Plex / Jellyfin
+- Plex and Jellyfin
 - Adguard Home
 
 ## Travel
@@ -80,14 +87,15 @@ regenerate: true
 
 ### Devices
 
-- Apple iPhone XS Max / Nokia 225
+- Apple iPhone XS Max
+- Nokia 225
 - Apple AirPods
 - Apple iPod Classic
-- Skullcandy Venue wireless over-ear headphones
-- Kindle Paperwhite
+- Skullcandy Venue - I picked these wireless over-ear headphones up a few years back on clearance, and to be honest I'm super glad I did. They sport a simple design, decent active noise cancelling, and built-in Tile tracking, which is pretty cool.
+- Kindle Paperwhite - I haven't tried any other e-readers, so I can't speak to how well the Kindle stacks up, but what it _does_ have going for it (besides the backlight) is how well it integrates with Libby.
 - YubiKey 5
-- Tile
-- Game Boy Color
+- Tile - I keep a tile in my bag, not because I think it'll help me recover it if it gets stolen, but because I think it'll help me recover it when I inevitably forget it at a coffee shop or airport security (which totally hasn't happened to me before).
+- Game Boy Color - What can I say, I'm a sucker for Pokemon Red. The lack of an internet connection is a bonus too.
 
 ### Accessories
 
