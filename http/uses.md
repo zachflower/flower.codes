@@ -7,6 +7,8 @@ regenerate: true
 ## Meta
 
 - Jekyll
+- ImageMagick
+- SASS
 - GitHub
 - Docker
 - Caddy2
@@ -14,18 +16,18 @@ regenerate: true
 
 ## Hardware
 
-### Furniture
+### Desk
 
-- Husky Adjustable Height Work Table (46-inch)
-- VIVO Keyboard Tray (Large)
-- AKRacing Core Series EX Gaming Chair
-- Topo Comfort Mat
+- Husky Adjustable Height Work Table - Convertible standing desks are expensive, but you know what's not _quite_ so expensive? This guy.
+- VIVO Keyboard Tray - The black metal matches the aesthetic of the Husky work table and keeps the desktop free of clutter.
+- AKRacing Core Series EX Gaming Chair - In 2020, I started experiencing severe neck pain and numbness in my shoulder that turned out to be caused by a slipped disc (fun). This chair provides surprisingly good back and head support for the price, and gives me somewhere to lean back when my spine needs a break.
+- Topo Comfort Mat -  When my desk is in a standing position, this mat keeps me moving and helps reduce fatigue in my legs and feet.
 
 ### Computers
 
-- MacBook Pro (Retina, 15-inch, Mid 2012) running macOS
-- Custom Desktop Computer running Windows 10
-- Dell Inspiron 2200 running Fedora Core 4
+- MacBook Pro (Retina, 15-inch, Mid 2012) running macOS - I've had this laptop for nearly a decade now, and to be honest I can't ever see myself upgrading.
+- Custom Desktop Computer running Windows 10 - This is my daily driver. While Windows has its drawbacks, I enjoy the versatility it brings thanks to WSL2.
+- Dell Inspiron 2200 running Fedora Core 4 - Released in 2005, this laptop is my "not dead yet" box. It's my go-to Gopher machine, and has a bunch of obsolete browsers installed on it so I can make sure my website works _everywhen_.
 - Apple iPad (7th Generation) in a [Logitech Slim Folio](https://amzn.com/B07YFFKH27) keyboard case
 
 ### Peripherals
@@ -42,6 +44,7 @@ regenerate: true
 - Mr. Coffee Mug Warmer
 - Nighthawk R7000 + DD-WRT
 - Sonos PLAY:3
+- Nintendo Switch
 - 13" [Sharp AQUOS LC-13S1U-S](https://www.newegg.com/p/N82E16889101028) standard definition LCD TV with a Roku 1
 
 ## Software
@@ -52,6 +55,9 @@ regenerate: true
 - Mozilla Firefox
 - iTerm2 / Windows Terminal
 - Mozilla Thunderbird
+- SizeUp
+- Homebrew
+- TablePlus
 
 ### Mobile
 
@@ -59,6 +65,7 @@ regenerate: true
 - Libby
 - Working Copy
 - Reeder
+- Prompt
 
 ### Self-Hosted
 
@@ -80,15 +87,18 @@ regenerate: true
 - Kindle Paperwhite
 - YubiKey 5
 - Tile
+- Game Boy Color
 
 ### Accessories
 
 - Brass Touch Tool
-- Waxing Post Picker's Wallet
+- Waxing Post Picker's Wallet with a Dunlop Tortex Standard (.88mm) pick
 - Pilot G2 / Pilot Varsity
-- Moleskine Classic Notebooks
+- Moleskine Classic Notebook (Soft-Cover, Pocket)
 - Mouse Book Club
 - Handmade mala necklace
+- Casio DATA BANK (Stainless) watch
+- Opinel No. 7 pocket knife
 
 ## Miscellaneous
 
@@ -99,14 +109,27 @@ regenerate: true
 
 ## Services
 
+### Entertainment
+
 - Feedly
 - Kill the Newsletter!
-- Evernote
 - Pocket
 - Spotify
 - Audible
-- 1Password
+
+### Development
+
 - GitHub
-- DuckDuckGo
+- Heroku
+- DigitalOcean
+- Cloudflare
+
+### Productivity
+
+- Evernote
 - Migadu
-- name.com
+
+### Security
+
+- 1Password
+- Private Internet Access VPN
