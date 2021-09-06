@@ -14,27 +14,27 @@ regenerate: true
 
 ### Computers
 
-- [MacBook Pro (Retina, 15-inch, Mid 2012)](https://support.apple.com/kb/SP653?locale=en_US) running [macOS](https://en.wikipedia.org/wiki/MacOS)
+- [MacBook Pro (Retina, 15-inch, Mid 2012)](https://duckduckgo.com/?iar=shopping&q=macbook+pro+retina+15+inch+mid+2012) running [macOS](https://en.wikipedia.org/wiki/MacOS)
 - Custom Desktop Computer running [Windows 10](https://en.wikipedia.org/wiki/Windows_10)
-- Dell Inspiron 2200 running [Fedora Core 4](https://docs.fedoraproject.org/en-US/Fedora_Core/4/html/Release_Notes/index.html)
-- [Apple iPad (7th Generation)](https://support.apple.com/kb/SP807?viewlocale=en_US&locale=en_US) + [Logitech Slim Folio](https://amzn.com/B07YFFKH27)
+- [Dell Inspiron 2200](https://duckduckgo.com/?iar=shopping&q=dell+inspiron+2200) running [Fedora Core 4](https://docs.fedoraproject.org/en-US/Fedora_Core/4/html/Release_Notes/index.html)
+- [Apple iPad (7th Generation)](https://duckduckgo.com/?iar=shopping&q=apple+ipad+7th+generation) + [Logitech Slim Folio](https://duckduckgo.com/?iar=shopping&q=logitech+slim+folio)
 
 ### Peripherals
 
-- 27" [Acer XF270H](https://amzn.com/B07G3YRT4H) monitor on a [North Bayou](https://amzn.com/B01AI2YGK4) full motion swivel arm
-- [Logitech G613](https://amzn.com/B07796MBJ7) wireless mechanical keyboard
-- [Logitech MX Master 2S](https://amzn.com/B071YZJ1G1) wireless mouse
-- [Logitech C920](https://amzn.com/B006JH8T3S) HD webcam with privacy cover
-- [Logitech Z407](https://amzn.com/B0877BPCJM) 2.1 channel speakers
-- [Corsair VOID Pro](https://amzn.com/B0748N6796) wireless gaming headset on a [Corsair ST100](B075JGKX4X) headset stand
+- 27" [Acer XF270H](https://duckduckgo.com/?iar=shopping&q=acer+xf270h) monitor on a [North Bayou](https://duckduckgo.com/?iar=shopping&q=north+bayou+full+motion+swivel+arm) full motion swivel arm
+- [Logitech G613](https://duckduckgo.com/?iar=shopping&q=logitech+g613) wireless mechanical keyboard
+- [Logitech MX Master 2S](https://duckduckgo.com/?iar=shopping&q=logitech+mx+master+2s) wireless mouse
+- [Logitech C920](https://duckduckgo.com/?iar=shopping&q=logitech+c920) HD webcam with privacy cover
+- [Logitech Z407](https://duckduckgo.com/?iar=shopping&q=logitech+z407) 2.1 channel speakerzs
+- [Corsair VOID Pro](https://duckduckgo.com/?iar=shopping&q=corsair+void+pro) wireless gaming headset on a [Corsair ST100](https://duckduckgo.com/?iar=shopping&q=corsair+st100) headset stand
 
 ### Miscellaneous
 
-- [Mr. Coffee](https://www.mrcoffee.com/accessories/mug-warmers/mr.coffee-mug-warmer/SAP_MWBLKPDQRB.html) coffee mug warmer
-- [Nighthawk R7000](https://www.netgear.com/home/wifi/routers/r7000/) wireless router
-- Sonos PLAY:3 wireless speaker
-- Nintendo Switch game console
-- 13" [Sharp AQUOS LC-13S1U-S](https://www.newegg.com/p/N82E16889101028) standard definition LCD TV with a Roku 1 (3rd Generation) streaming box
+- [Mr. Coffee](https://duckduckgo.com/?iar=shopping&q=mr+coffee+mug+warmer) coffee mug warmer
+- [Nighthawk R7000](https://duckduckgo.com/?iar=shopping&q=nighthawk+r7000) wireless router
+- [Sonos PLAY:3](https://duckduckgo.com/?iar=shopping&q=sonos+play+3) wireless speaker
+- [Nintendo Switch](https://duckduckgo.com/?iar=shopping&q=nintendo+switch) game console
+- 13" [Sharp AQUOS LC-13S1U-S](https://duckduckgo.com/?iar=shopping&q=sharp+aquos+lc-13s1u-s) standard definition LCD TV with a [Roku 1 (3rd Generation)](https://duckduckgo.com/?iar=shopping&q=roku+1+3rd+generation) streaming box
 
 ## Software
 
@@ -72,15 +72,15 @@ regenerate: true
 
 ### Bags
 
-- Topo Designs Quick Pack sling bag
+- [Topo Designs Quick Pack](https://duckduckgo.com/?iar=shopping&q=topo+designs+quick+pack) sling bag
 
 ### Devices
 
-- Apple iPhone XS Max + Otterbox + Pop Symmetry case
-- Nokia 225 feature phone
-- Apple AirPods wireless earbuds
-- Apple iPod (6th Generation) with click wheel
-- Skullcandy Venue wireless over-ear headphones
+- [Apple iPhone XS Max](https://duckduckgo.com/?iar=shopping&q=apple+iphone+xs+max) + [Otterbox + Pop Symmetry](https://duckduckgo.com/?iar=shopping&q=otterbox+pop+symmetry+iphone) case
+- [Nokia 225](https://duckduckgo.com/?iar=shopping&q=nokia+225) feature phone
+- [Apple AirPods](https://duckduckgo.com/?iar=shopping&q=apple+airpods) wireless earbuds
+- [Apple iPod (6th Generation)](https://duckduckgo.com/?iar=shopping&q=apple+ipod+classic+6th+generation) with click wheel
+- [Skullcandy Venue](https://duckduckgo.com/?iar=shopping&q=skullcandy+venue) wireless over-ear headphones
 - Kindle Paperwhite e-reader
 - YubiKey 5 hardware authentication devices
 - Tile trackers
