@@ -4,12 +4,16 @@ title: Uses
 regenerate: true
 ---
 
+I recently came across [uses.tech](https://uses.tech/) lately, and was _fascinated_ by all of the different `/uses` pages listed on it. The idea of sharing the technology and tools you rely on resonated with me, so I thought I'd put together my own list. You'd think this would have been easy, but to be honest it was _surprisingly_ difficult. I wasn't just haphazardly listing out the stuff that I use, but actually reevaluating and reeinforcing the use of that stuff with deliberate intent.
+
+There are some things that I've left _off_ of this list, not because I no longer use them, but because I don't intend to _continue_ to use them. Other things will only be here temporarily, while even others will likely _never_ go away. All that said, I present the abridged list of stuff that I use on a recurring basis with no further comment.
+
 ## Hardware
 
 ### Desk
 
 - [Husky Adjustable Height Workbench](https://duckduckgo.com/?iar=shopping&q=husky+adjustable+height+workbench) with a large [VIVO Keyboard Tray](https://duckduckgo.com/?iar=shopping&q=vivo+keyboard+tray)
-- [AKRacing Core Series EX](https://duckduckgo.com/?iar=shopping&q=akracing+core+serie+ex) gaming chair
+- [AKRacing Core Series EX](https://duckduckgo.com/?iar=shopping&q=akracing+core+series+ex) gaming chair
 - [Ergodriven Topo Comfort](https://duckduckgo.com/?iar=shopping&q=ergodriven+topo+comfort+mat) standing desk mat
 
 ### Computers
