@@ -8,9 +8,9 @@ regenerate: true
 
 ### Desk
 
-- [Husky Adjustable Height Workbench](https://duckduckgo.com/?iar=shopping&q=husky+adjustable+height+workbench) with a large [VIVO Keyboard Tray](https://duckduckgo.com/?iar=shopping&q=vivo-keyboard-tray)
-- [AKRacing Core Series EX](https://duckduckgo.com/?iar=shopping&q=akracing-core-series-ex) gaming chair
-- [Ergodriven Topo Comfort](https://duckduckgo.com/?iar=shopping&q=ergodriven-topo-comfort-mat) standing desk mat
+- [Husky Adjustable Height Workbench](https://duckduckgo.com/?iar=shopping&q=husky+adjustable+height+workbench) with a large [VIVO Keyboard Tray](https://duckduckgo.com/?iar=shopping&q=vivo+keyboard+tray)
+- [AKRacing Core Series EX](https://duckduckgo.com/?iar=shopping&q=akracing+core+serie+ex) gaming chair
+- [Ergodriven Topo Comfort](https://duckduckgo.com/?iar=shopping&q=ergodriven+topo+comfort+mat) standing desk mat
 
 ### Computers
 
