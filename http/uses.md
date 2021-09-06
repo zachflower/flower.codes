@@ -8,9 +8,9 @@ regenerate: true
 
 ### Desk
 
-- [Husky Adjustable Height Workbench](https://www.homedepot.com/p/Husky-46-in-Adjustable-Height-Work-Table-HOLT46XDB12/301809931) with a large [VIVO Keyboard Tray](https://amzn.com/B07HFDJCSL)
-- [AKRacing Core Series EX](https://www.akracing.com/products/akracing-core-series-ex-gaming-chair?variant=7224599871553) gaming chair
-- [Ergodriven Topo Comfort](https://ergodriven.com/products/topo?variant=27365321411) standing desk mat
+- [Husky Adjustable Height Workbench](https://duckduckgo.com/?iar=shopping&q=husky+adjustable+height+workbench) with a large [VIVO Keyboard Tray](https://duckduckgo.com/?iar=shopping&q=vivo-keyboard-tray)
+- [AKRacing Core Series EX](https://duckduckgo.com/?iar=shopping&q=akracing-core-series-ex) gaming chair
+- [Ergodriven Topo Comfort](https://duckduckgo.com/?iar=shopping&q=ergodriven-topo-comfort-mat) standing desk mat
 
 ### Computers
 
