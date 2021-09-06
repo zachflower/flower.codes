@@ -6,13 +6,14 @@ regenerate: true
 
 ## Meta
 
-- Jekyll
-- ImageMagick
-- SASS
-- GitHub
-- Docker
-- Caddy2
-- DigitalOcean
+- [Jekyll](https://jekyllrb.com) - This is the static site generator I use for _this_ website (and my [gopherhole](gopher://flower.codes)).
+- [ImageMagick](https://imagemagick.org/) - I use a simple ImageMagick script to compress and dither all of the images for this site.
+- [SASS](https://sass-lang.com/) - There's not much CSS to be found here, but for what little there is I use SASS to simplify compression.
+- [GitHub](https://github.com/) - Pretty self-explanatory. Code goes here.
+- [Docker](https://www.docker.com/) - I'm a fan of Docker's ease-of-use and (more importantly) portability.
+  - [`caddy:2`](https://registry.hub.docker.com/_/caddy) - I've come to _really_ love the usability of Caddy over Nginx and Apache.
+  - [`joshkaiju/gophernicus:latest`](https://registry.hub.docker.com/r/joshkaiju/gophernicus) - Gophernicus is one of the more popular Gopher servers, and this is one of the only containerized versions of it.
+- [DigitalOcean](https://m.do.co/c/a8eb87aea1f2) - I recognize that, as a static site, this website could be more easily hosted on [GitHub Pages](https://pages.github.com/) or [Surge](https://surge.sh/), but I wanted to have a little more control over the SSL settings so it would remain usable on legacy systems.
 
 ## Hardware
 
@@ -41,9 +42,9 @@ regenerate: true
 
 ### Miscellaneous
 
-- Mr. Coffee Mug Warmer
-- Nighthawk R7000 + DD-WRT
-- Sonos PLAY:3
+- Mr. Coffee Mug Warmer - I don't know about you, but if my coffee doesn't stay warm I drink it _way_ too fast.
+- Nighthawk R7000 + DD-WRT - Quite possibly the best thrift store find I've had. Awesome router, with an even awesomer (awesomest?) firmware.
+- Sonos PLAY:3 - The _second_ best thrift store find I've had. Still works, and sounds fantastic.
 - Nintendo Switch
 - 13" [Sharp AQUOS LC-13S1U-S](https://www.newegg.com/p/N82E16889101028) standard definition LCD TV with a Roku 1
 
@@ -68,7 +69,7 @@ regenerate: true
 
 ### Mobile
 
-- Prologue
+- Prologue - Prologue is an _incredible_ audiobook app for Plex libraries.
 - Libby
 - Working Copy
 - Reeder
@@ -76,7 +77,8 @@ regenerate: true
 
 ### Self-Hosted
 
-- Plex and Jellyfin
+- Plex
+- Jellyfin
 - Adguard Home
 
 ## Travel
@@ -140,4 +142,9 @@ regenerate: true
 ### Security
 
 - 1Password
-- Private Internet Access VPN
+- Private Internet Access
+
+### Retro
+
+- TheOldNet Proxy
+- OldWeb.Today
