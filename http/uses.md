@@ -9,15 +9,15 @@ regenerate: true
 ### Desk
 
 - [Husky Adjustable Height Workbench](https://www.homedepot.com/p/Husky-46-in-Adjustable-Height-Work-Table-HOLT46XDB12/301809931) with a large [VIVO Keyboard Tray](https://amzn.com/B07HFDJCSL)
-- AKRacing Core Series EX gaming chair
-- Ergodriven Topo Comfort standing desk mat
+- [AKRacing Core Series EX](https://www.akracing.com/products/akracing-core-series-ex-gaming-chair?variant=7224599871553) gaming chair
+- [Ergodriven Topo Comfort](https://ergodriven.com/products/topo?variant=27365321411) standing desk mat
 
 ### Computers
 
 - [MacBook Pro (Retina, 15-inch, Mid 2012)](https://support.apple.com/kb/SP653?locale=en_US) running [macOS](https://en.wikipedia.org/wiki/MacOS)
 - Custom Desktop Computer running [Windows 10](https://en.wikipedia.org/wiki/Windows_10)
-- Dell Inspiron 2200 running Fedora Core 4
-- Apple iPad (7th Generation) + [Logitech Slim Folio](https://amzn.com/B07YFFKH27)
+- Dell Inspiron 2200 running [Fedora Core 4](https://docs.fedoraproject.org/en-US/Fedora_Core/4/html/Release_Notes/index.html)
+- [Apple iPad (7th Generation)](https://support.apple.com/kb/SP807?viewlocale=en_US&locale=en_US) + [Logitech Slim Folio](https://amzn.com/B07YFFKH27)
 
 ### Peripherals
 
@@ -30,8 +30,8 @@ regenerate: true
 
 ### Miscellaneous
 
-- Mr. Coffee coffee mug warmer
-- Nighthawk R7000 wireless router
+- [Mr. Coffee](https://www.mrcoffee.com/accessories/mug-warmers/mr.coffee-mug-warmer/SAP_MWBLKPDQRB.html) coffee mug warmer
+- [Nighthawk R7000](https://www.netgear.com/home/wifi/routers/r7000/) wireless router
 - Sonos PLAY:3 wireless speaker
 - Nintendo Switch game console
 - 13" [Sharp AQUOS LC-13S1U-S](https://www.newegg.com/p/N82E16889101028) standard definition LCD TV with a Roku 1 (3rd Generation) streaming box
