@@ -4,6 +4,14 @@ title: Uses
 regenerate: true
 ---
 
+## Meta
+
+- Jekyll
+- GitHub
+- Docker
+- Caddy2
+- DigitalOcean
+
 ## Hardware
 
 ### Furniture
@@ -34,7 +42,7 @@ regenerate: true
 - Mr. Coffee Mug Warmer
 - Nighthawk R7000 + DD-WRT
 - Sonos PLAY:3
-- 13" [Sharp AQUOS LC-13S1U-S](https://www.newegg.com/p/N82E16889101028) standard definition LCD TV with a Roku 1 SE
+- 13" [Sharp AQUOS LC-13S1U-S](https://www.newegg.com/p/N82E16889101028) standard definition LCD TV with a Roku 1
 
 ## Software
 
@@ -59,30 +67,35 @@ regenerate: true
 
 ## Travel
 
+### Bags
+
+- Topo Designs Quick Pack
+
+### Devices
+
 - Apple iPhone XS Max / Nokia 225
 - Apple AirPods
-- YubiKey 5
+- Apple iPod Classic
+- Skullcandy Venue wireless over-ear headphones
 - Kindle Paperwhite
+- YubiKey 5
+- Tile
 
-## Analog
+### Accessories
 
-- The [Pilot G2]() has been my go-to pen for as long as I can remember / Pilot Varsity
-- Moleskine Classic Notebook (Soft Cover, Pocket)
-- Moleskine Classic Notebook (Hard Cover, Large)
+- Brass Touch Tool
+- Waxing Post Picker's Wallet
+- Pilot G2 / Pilot Varsity
+- Moleskine Classic Notebooks
 - Mouse Book Club
+- Handmade mala necklace
 
-## Retro
+## Miscellaneous
+
+### Retro
 
 - Canon AE-1 Program
-- 1941 Royal Arrow
-
-## Meta
-
-- Jekyll
-- GitHub
-- Docker
-- Caddy2
-- DigitalOcean
+- 1941 Royal Arrow / Montgomery Ward Cartridge Mark XII
 
 ## Services
 
