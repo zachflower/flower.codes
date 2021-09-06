@@ -4,25 +4,15 @@ title: Uses
 regenerate: true
 ---
 
-## Meta
-
-- [Jekyll](https://jekyllrb.com) - This is the static site generator I use for _this_ website (and my [gopherhole](gopher://flower.codes)).
-- [ImageMagick](https://imagemagick.org/) - I use a simple ImageMagick script to compress and dither all of the images for this site.
-- [SASS](https://sass-lang.com/) - There's not much CSS to be found here, but for what little there is I use SASS to simplify compression.
-- [GitHub](https://github.com/) - Pretty self-explanatory. Code goes here.
-- [Docker](https://www.docker.com/) - I'm a fan of Docker's ease-of-use and (more importantly) portability.
-  - [`caddy:2`](https://registry.hub.docker.com/_/caddy) - I've come to _really_ love the usability of Caddy over Nginx and Apache.
-  - [`joshkaiju/gophernicus:latest`](https://registry.hub.docker.com/r/joshkaiju/gophernicus) - Gophernicus is one of the more popular Gopher servers, and this is one of the only containerized versions of it.
-- [DigitalOcean](https://m.do.co/c/a8eb87aea1f2) - I recognize that, as a static site, this website could be more easily hosted on [GitHub Pages](https://pages.github.com/) or [Surge](https://surge.sh/), but I wanted to have a little more control over the SSL settings so it would remain usable on legacy systems.
-
 ## Hardware
 
 ### Desk
 
-- Husky Adjustable Height Work Table - Convertible standing desks are expensive, but you know what's not _quite_ so expensive? This guy.
-- VIVO Keyboard Tray - The black metal matches the aesthetic of the Husky work table and keeps the desktop free of clutter.
-- AKRacing Core Series EX Gaming Chair - In 2020, I started experiencing severe neck pain and numbness in my shoulder that turned out to be caused by a slipped disc (fun). This chair provides surprisingly good back and head support for the price, and gives me somewhere to lean back when my spine needs a break.
-- Topo Comfort Mat -  When my desk is in a standing position, this mat keeps me moving and helps reduce fatigue in my legs and feet.
+- Husky adjustable height work table with a large VIVO keyboard tray
+- AKRacing Core Series EX gaming chair
+  - In 2020, I started experiencing severe neck pain and numbness in my shoulder that turned out to be caused by a slipped disc (fun). This chair provides surprisingly good back and head support for the price, and gives me somewhere to lean back when my spine needs a break.
+- Topo Comfort Mat
+  -  When my desk is in a standing position, this mat keeps me moving and helps reduce fatigue in my legs and feet.
 
 ### Computers
 
@@ -65,7 +55,6 @@ regenerate: true
 - `homebrew`
 - `tintin++`
 - `bat`
-
 
 ### Mobile
 
@@ -116,35 +105,3 @@ regenerate: true
 
 - Canon AE-1 Program
 - 1941 Royal Arrow / Montgomery Ward Cartridge Mark XII
-
-## Services
-
-### Entertainment
-
-- Feedly
-- Kill the Newsletter!
-- Pocket
-- Spotify
-- Audible
-
-### Development
-
-- GitHub
-- Heroku
-- DigitalOcean
-- Cloudflare
-
-### Productivity
-
-- Evernote
-- Migadu
-
-### Security
-
-- 1Password
-- Private Internet Access
-
-### Retro
-
-- TheOldNet Proxy
-- OldWeb.Today
