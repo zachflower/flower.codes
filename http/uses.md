@@ -76,6 +76,8 @@ There are some things that I've left _off_ of this list, not because I no longer
 
 ### Bags
 
+- [KAKA Multifunctional](https://duckduckgo.com?iar=shopping&q=kaka+multifunctional+travel+bag) travel bag
+- [Kopack Slim](https://duckduckgo.com?iar=shopping&q=kopack+slim+backpack) laptop backpack
 - [Topo Designs Quick Pack](https://duckduckgo.com/?iar=shopping&q=topo+designs+quick+pack) sling bag
 
 ### Devices
