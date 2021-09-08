@@ -4,6 +4,14 @@ layout: null
 ====================================================================
   title: {{ page.title }}
   date: {{ page.date | date: "%Y-%m-%d %H:%M:%S" }}
+{%- if page.location %}  location: {{ page.location }}
+{% endif -%}
+{%- if page.device %}  device: {{ page.device }}
+{% endif -%}
+{%- if page.soundtrack %}  soundtrack: {{ page.soundtrack }}
+{% endif -%}
+{%- if page.mood %}  mood: {{ page.mood }}
+{% endif -%}
 ====================================================================
 
 {{ content }}

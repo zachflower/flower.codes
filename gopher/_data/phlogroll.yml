@@ -13,3 +13,5 @@ entries:
     selector: '/phlog'
   - hostname: 'i-logout.cz'
     selector: '/phlog'
+  - hostname: 'zaibatsu.circumlunar.space'
+    selector: '/~visiblink/phlog'
