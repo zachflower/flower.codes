@@ -34,5 +34,5 @@ convenient, at least).
 Until then, I will be enjoying some time with my kids.
 
 ---
-[0]: gopher://gopherpedia.com/1/AlphaSmart
+[0]: gopher://gopherpedia.com/0/AlphaSmart
 ---
