@@ -1,0 +1,41 @@
+---
+layout: post
+title: Crouton
+date: 2021-09-11 07:53:11
+device: Asus Chromebook C100P
+---
+Years ago, before Google and I stopped seeing eye-to-eye, I bought
+an Asus Chromebook C100P. It's a great, cheap little machine with
+mediocre specs and decent battery life that was good for browsing
+the web and not much else. I had originally intended to get a
+lightweight laptop for writing away from my desk, but the simplicity
+of Chrome OS just wasn't enough for me, so this little guy has been
+sitting in a drawer for the better part of three years.
+
+But, I hate waste.
+
+I hate that I have a perfectly good machine sitting around doing
+nothing, and I hate that I have been allowing it to languish for so
+long. Thankfully, the Gopherverse has given me a renewed drive to
+create new value out of the old tech in my life, so I've spent the
+last few days looking into options for reviving this thing and
+extracting more value out of it.
+
+After a few false starts installing Arch and Debian on an external
+SD card (spoiler: it works, but not in a way that is useful), I came
+across Crouton [0], a brilliant little project that lets you run
+Linux in a chroot on a Chromebook.
+
+I won't go into the installation steps, as the Crouton GitHub page
+does a great job walking you through that process, but I *will* say
+that everything works out of the gate without any issue. With some
+experimentation, I landed on a simple LXDE desktop environment
+running Ubuntu Xenial (I know, old school, but so far I'm only using
+this thing to write *this* phlog post.
+
+I'll figure out what more to do with it later, but in the mean time
+it'll serve nicely as little portable gopher clienet.
+
+---
+[0]: https://github.com/dnschneid/crouton
+---
