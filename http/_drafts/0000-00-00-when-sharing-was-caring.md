@@ -4,7 +4,7 @@ title: "When Sharing Was Caring"
 date: 9999-01-01 12:00:00
 ---
 
-About a year and a half ago, just a few months before the COVID-19 pandemic turned the world upside down, my grandmother passed away.
+About two years ago, just a few months before the COVID-19 pandemic turned the world upside down, my grandmother passed away.
 
 One of the most kind, caring people you'd ever be likely to meet, my grandma was many things: a wonderful singer, an accomplished baker, a talented artist... she was the type of person who acquired skills like most people acquire debt: unintentionally and with great haste. So, when she entered the end-stages of Parkinson's Disease and was denied the activities she so dearly loved by her own failing body, her death came as a bittersweet release.
 
@@ -28,4 +28,4 @@ To be clear, it's not the fact that the recipes _came_ from other people that wa
 
 In today's hyper-connected, social-media driven world, _sharing_ is something that has become largely impersonal. You post a link here, or send a newsletter there, but the experience overall can be like shouting into the wind.
 
-We've all looked up a recipe on the internet only to be regaled by the author with a 12,000 word tale of suspense, drama, and then triumph in the face of adversity before getting to the list of ingredients. It's an attempt at connection, or at least context, that has become a meme in itself in recent years; but before the advent of the World Wide Web, recipes were shared in an entirely different way—but, I suspect, with just as much gusto.
+We've all looked up a recipe on the internet only to be regaled with a 12,000 word tale of suspense, drama, and then triumph in the face of adversity before getting to the list of ingredients. It's an attempt at connection, or at least context, that has become a meme in itself in recent years; but before the advent of the World Wide Web, recipes were shared in an entirely different way—but, I suspect, with just as much gusto.

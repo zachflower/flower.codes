@@ -32,3 +32,10 @@ dd-wrt config
 - services tab > dnsmasq section
 - Additional Dnsmasq Options
 - dhcp-option=6,192.168.1.177 (ip of adguard home server)
+
+3 weeks later
+
+- Oh no! internet dropped again
+- Rebooting helps
+- dd-wrt has an app for that!
+- Set router to reboot every sunday at 4am
