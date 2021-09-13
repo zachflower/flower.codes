@@ -485,3 +485,15 @@ entries:
     author: Fumio Sasaki
     isbn: "9781324005582"
     started: 2021-09-08
+
+  - title: Project Hail Mary
+    author: Andy Weir
+    isbn: "0593135202"
+    started: 2021-09-09
+
+  - title: Heaven's River
+    author: Dennis E. Taylor
+    isbn: "1680682261"
+    series: Bobiverse
+    number: 4
+    started: 2021-09-12
