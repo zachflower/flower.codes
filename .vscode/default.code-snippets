@@ -1,0 +1,22 @@
+{
+	"Create a new library book": {
+		"scope": "yaml,yml",
+		"prefix": "book",
+		"body": [
+			"- title: ${1:Alice's Adventures in Wonderland}",
+			"  author: ${2:Lewis Carroll}",
+			"  isbn: \"${3:9781904808442}\"",
+			"  started: $CURRENT_YEAR-$CURRENT_MONTH-$CURRENT_DATE"
+		],
+	},
+	"The current date": {
+		"scope": "yaml,yml",
+		"prefix": "today",
+		"body": "$CURRENT_YEAR-$CURRENT_MONTH-$CURRENT_DATE"
+	},
+	"Mark book as finished": {
+		"scope": "yaml,yml",
+		"prefix": "finished",
+		"body": "finished: $CURRENT_YEAR-$CURRENT_MONTH-$CURRENT_DATE"
+	}
+}

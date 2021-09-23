@@ -424,6 +424,7 @@ entries:
     author: Miyamoto Musashi
     isbn: "1590307976"
     started: 2021-08-03
+    finished: 2021-09-22
 
   - title: Otherworld
     author: Jason Segel and Kirsten Miller
@@ -506,3 +507,8 @@ entries:
     isbn: "9780802128232"
     started: 2021-09-15
     finished: 2021-09-22
+
+  - title: How to Think Like a Roman Emperor
+    author: Donald Robertson
+    isbn: "1250196620"
+    started: 2021-09-23
