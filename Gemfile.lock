@@ -88,6 +88,7 @@ GEM
       ethon (>= 0.9.0)
     unicode-display_width (2.0.0)
     webrick (1.7.0)
+    word_wrap (1.0.0)
     yell (2.2.2)
 
 PLATFORMS
@@ -102,6 +103,7 @@ DEPENDENCIES
   tzinfo (~> 1.2)
   tzinfo-data
   wdm (~> 0.1.1)
+  word_wrap
 
 RUBY VERSION
    ruby 2.7.2p137
