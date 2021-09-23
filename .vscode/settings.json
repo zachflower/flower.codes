@@ -5,4 +5,8 @@
     }, 80],
     "editor.formatOnSave": false,
     "files.trimTrailingWhitespace": true
+    "[plaintext]": {
+        "editor.wordWrapColumn": 68,
+        "editor.wordWrap": "wordWrapColumn"
+    },
 }
