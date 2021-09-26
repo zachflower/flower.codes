@@ -68,6 +68,7 @@ There are some things that I've left _off_ of this list, not because I no longer
 ### Self-Hosted
 
 - [DD-WRT](https://dd-wrt.com/) router firmware
+- [Miniflux](https://miniflux.app/) RSS reader
 - [Plex](https://www.plex.tv/) / [Jellyfin](https://jellyfin.org/) media servers
 - [AdGuard Home](https://adguard.com/en/adguard-home/overview.html) ad blocker
 
