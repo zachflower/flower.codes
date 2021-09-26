@@ -20,7 +20,6 @@ There are some things that I've left _off_ of this list, not because I no longer
 
 - [MacBook Pro (Retina, 15-inch, Mid 2012)](https://duckduckgo.com/?iar=shopping&q=macbook+pro+retina+15+inch+mid+2012) running [macOS](https://en.wikipedia.org/wiki/MacOS)
 - Custom Desktop Computer running [Windows 10](https://en.wikipedia.org/wiki/Windows_10)
-- [Dell Inspiron 2200](https://duckduckgo.com/?iar=shopping&q=dell+inspiron+2200) running [Fedora Core 4](https://docs.fedoraproject.org/en-US/Fedora_Core/4/html/Release_Notes/index.html)
 - [Apple iPad (7th Generation)](https://duckduckgo.com/?iar=shopping&q=apple+ipad+7th+generation) + [Logitech Slim Folio](https://duckduckgo.com/?iar=shopping&q=logitech+slim+folio)
 
 ### Peripherals
@@ -104,6 +103,12 @@ There are some things that I've left _off_ of this list, not because I no longer
 - [Opinel No. 7](https://duckduckgo.com/?iar=shopping&q=opinel+no7) pocket knife
 
 ## Miscellaneous
+
+## Obsolete
+
+- [AlphaSmart 3000](https://en.wikipedia.org/wiki/AlphaSmart#AlphaSmart_3000) portable word processor
+- [Asus Chromebook Flip (C100P)](https://duckduckgo.com/?iar=shopping&q=Asus+Chromebook+Flip+(C100P)) running [Ubuntu 16.04](http://releases.ubuntu.com/16.04/) using [Crouton](https://github.com/dnschneid/crouton)
+- [Dell Inspiron 2200](https://duckduckgo.com/?iar=shopping&q=dell+inspiron+2200) running [Windows XP](https://en.wikipedia.org/wiki/Windows_XP)
 
 ### Retro
 
