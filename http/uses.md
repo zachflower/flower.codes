@@ -28,8 +28,7 @@ There are some things that I've left _off_ of this list, not because I no longer
 - [Logitech G613](https://duckduckgo.com/?iar=shopping&q=logitech+g613) wireless mechanical keyboard
 - [Logitech MX Master 2S](https://duckduckgo.com/?iar=shopping&q=logitech+mx+master+2s) wireless mouse
 - [Logitech C920](https://duckduckgo.com/?iar=shopping&q=logitech+c920) HD webcam with privacy cover
-- [Logitech Z407](https://duckduckgo.com/?iar=shopping&q=logitech+z407) 2.1 channel speakerzs
-- [Corsair VOID Pro](https://duckduckgo.com/?iar=shopping&q=corsair+void+pro) wireless gaming headset on a [Corsair ST100](https://duckduckgo.com/?iar=shopping&q=corsair+st100) headset stand
+- [Logitech Z407](https://duckduckgo.com/?iar=shopping&q=logitech+z407) 2.1 channel speakers
 
 ### Miscellaneous
 
