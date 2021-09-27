@@ -108,6 +108,7 @@ There are some things that I've left _off_ of this list, not because I no longer
 - [AlphaSmart 3000](https://en.wikipedia.org/wiki/AlphaSmart#AlphaSmart_3000) portable word processor
 - [Asus Chromebook Flip (C100P)](https://duckduckgo.com/?iar=shopping&q=Asus+Chromebook+Flip+(C100P)) running [Ubuntu 16.04](http://releases.ubuntu.com/16.04/) using [Crouton](https://github.com/dnschneid/crouton)
 - [Dell Inspiron 2200](https://duckduckgo.com/?iar=shopping&q=dell+inspiron+2200) running [Windows XP](https://en.wikipedia.org/wiki/Windows_XP)
+- 1977 [Sony CVM-131](https://duckduckgo.com/?iar=shopping&q=1977+Sony+CVM-131+television) CRT television with a [Roku 1 (3rd Generation)](https://duckduckgo.com/?iar=shopping&q=roku+1+3rd+generation) streaming box
 
 ### Retro
 
