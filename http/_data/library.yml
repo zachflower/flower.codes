@@ -518,3 +518,41 @@ entries:
     isbn: "0578810042"
     started: 2021-09-23
     finished: 2021-09-23
+    
+  - title: Darkly Dreaming Dexter
+    author: Jeff Lindsay
+    isbn: "0307277887"
+    series: Dexter
+    number: 1
+    started: 2021-09-28
+    finished: 2021-10-01
+    
+  - title: All Systems Red
+    author: Martha Wells
+    isbn: "9780765397539"
+    series: The Murderbot Diaries
+    number: 1
+    started: 2021-10-01
+    finished: 2021-10-02
+  
+  - title: The Manual
+    author: Epictetus
+    series: "Stoic Philosophy"
+    number: 1
+    isbn: "1545461112"
+    started: 2021-10-02
+    finished: 2021-10-02
+    
+  - title: Carrie
+    author: Stephen King
+    isbn: "9780385086950"
+    started: 2021-10-02
+    finished: 2021-10-03
+  
+  - title: Meditations
+    author: Marcus Aurelius
+    isbn: "1548281301"
+    series: "Stoic Philosophy"
+    number: 2
+    started: 2021-10-03
+    finished: 2021-10-04
