@@ -556,3 +556,11 @@ entries:
     number: 2
     started: 2021-10-03
     finished: 2021-10-04
+    
+  - title: The Paper Magician
+    author: Charlie N. Holmberg
+    isbn: "9781477823835"
+    series: "The Paper Magician"
+    number: 1
+    started: 2021-10-04
+    finished: 2021-10-05
