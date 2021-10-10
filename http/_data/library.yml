@@ -182,6 +182,7 @@ entries:
     isbn: "0812968255"
     started: 2021-05-31
     finished: 2021-06-04
+    recommended: true
 
   - title: A Promised Land
     author: Barack Obama
