@@ -24,6 +24,7 @@ Well, consider this my own treasure map. It's a place for me to share the places
 - [Marginalia Search](https://search.marginalia.nu/) a search engine for the unique web
 - [The Old Net](https://theoldnet.com/) come live in the past
 - [Website Carbon Calculator](https://www.websitecarbon.com/website/flower-codes/) how green is your website?
+- [MudBytes](http://mudbytes.net/) all the MUD snippets you could ask for
 
 ## Miscellaneous
 
