@@ -9,15 +9,10 @@ order to write a message on your GitHub contribution summary graph.
 
 **Source:** [https://github.com/zachflower/marquee](https://github.com/zachflower/marquee)
 
-1. [Demo](#demo)
 1. [Installation](#installation)
 1. [Usage](#usage)
 
 ___
-
-## Demo
-
-![Example](/assets/posts/marquee-example.jpg)
 
 ## Installation
 
