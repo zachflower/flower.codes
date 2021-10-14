@@ -3,5 +3,6 @@ _gopher
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
+.DS_Store
 vendor
 /public

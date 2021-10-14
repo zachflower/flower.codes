@@ -14,12 +14,14 @@ Cheers :)
 ## Pages
 
 * [library](/library.html) i read and i've read
+* [links](/links.html) web pages i enjoy
 * [rules](/rules.html) how i choose to live
 * [uses](/uses.html) i am not my things
 
 ## Projects
 
-* [tcpcv](https://github.com/zachflower/tcpcv) text-based résumé server
+* [tcpcv](/projects/tcpcv.html) text-based résumé server
+* [`</marquee>`](/projects/marquee.html) github as text-based art
 * [the mud coders guild](http://mudcoders.com) community for text-based gamedevs
 
 ## Posts
