@@ -19,12 +19,13 @@ There are some things that I've left _off_ of this list, not because I no longer
 ### Computers
 
 - [MacBook Pro (Retina, 15-inch, Mid 2012)](https://duckduckgo.com/?iar=shopping&q=macbook+pro+retina+15+inch+mid+2012) running [macOS](https://en.wikipedia.org/wiki/MacOS)
-- Custom Desktop Computer running [Windows 10](https://en.wikipedia.org/wiki/Windows_10)
 - [Apple iPad (7th Generation)](https://duckduckgo.com/?iar=shopping&q=apple+ipad+7th+generation) + [Logitech Slim Folio](https://duckduckgo.com/?iar=shopping&q=logitech+slim+folio)
 
 ### Peripherals
 
-- 27" [Acer XF270H](https://duckduckgo.com/?iar=shopping&q=acer+xf270h) monitor on a [North Bayou](https://duckduckgo.com/?iar=shopping&q=north+bayou+full+motion+swivel+arm) full motion swivel arm
+- 27" [Acer XF270H](https://duckduckgo.com/?iar=shopping&q=acer+xf270h) monitor
+- 24" [Dell UltraSharp 2405FPW](https://duckduckgo.com/?iar=shopping&q=dell+2405fpw) monitor positioned vertically
+- 23" [Dell UltraSharp U2312HM](https://duckduckgo.com/?iar=shopping&q=dell+u2312hm) monitor positioned vertically
 - [Logitech G613](https://duckduckgo.com/?iar=shopping&q=logitech+g613) wireless mechanical keyboard
 - [Logitech MX Master 2S](https://duckduckgo.com/?iar=shopping&q=logitech+mx+master+2s) wireless mouse
 - [Logitech C920](https://duckduckgo.com/?iar=shopping&q=logitech+c920) HD webcam with privacy cover
@@ -42,11 +43,11 @@ There are some things that I've left _off_ of this list, not because I no longer
 ### Desktop
 
 - [Visual Studio Code](https://code.visualstudio.com/) integrated development environment
-- [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/) web browser
-- [Windows Terminal](https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701?activetab=pivot:overviewtab) / [iTerm2](https://iterm2.com/) terminal emulators
-- [Mozilla Thunderbird](https://www.thunderbird.net/en-US/) e-mail client with HTML mail _turned off_
+- [Brave](https://brave.com/) web browser
+- [iTerm2](https://iterm2.com/) terminal emulators
+- [Apple Mail](https://en.wikipedia.org/wiki/Apple_Mail) e-mail client with HTML mail _turned off_
 - [SizeUp](https://www.irradiatedsoftware.com/sizeup/) window manager
-- [TablePlus](https://tableplus.com/) database client
+- [Sequel Pro](https://sequelpro.com/) / [Postico](https://eggerapps.at/postico/) database clients
 
 ### Terminal
 
