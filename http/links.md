@@ -13,6 +13,7 @@ Well, consider this my own treasure map. It's a place for me to share the places
 - [~dustin](https://tilde.town/~dustin/) the site that directly inspired my [library](/library.html) page
 - [~parimal](https://neustadt.fr/) a tribute to the creative web of the 90s
 - [~manu](https://manuelmoreale.com/) great writer, thought-provoking content
+- [~brandon](https://brandonsjournal.neocities.org/) a fellow 90's kid, forever missing the past
 
 ## Resources
 
@@ -25,6 +26,7 @@ Well, consider this my own treasure map. It's a place for me to share the places
 - [The Old Net](https://theoldnet.com/) come live in the past
 - [Website Carbon Calculator](https://www.websitecarbon.com/website/flower-codes/) how green is your website?
 - [MudBytes](http://mudbytes.net/) all the MUD snippets you could ask for
+- [textfiles.com](http://textfiles.com) no links list is complete without it
 
 ## Miscellaneous
 
