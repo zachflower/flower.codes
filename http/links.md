@@ -27,6 +27,7 @@ Well, consider this my own treasure map. It's a place for me to share the places
 - [Website Carbon Calculator](https://www.websitecarbon.com/website/flower-codes/) how green is your website?
 - [MudBytes](http://mudbytes.net/) all the MUD snippets you could ask for
 - [textfiles.com](http://textfiles.com) no links list is complete without it
+- [GitHub 95](https://github95.vercel.app/) github as it was meant to be viewed
 
 ## Miscellaneous
 
