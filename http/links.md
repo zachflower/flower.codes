@@ -14,6 +14,7 @@ Well, consider this my own treasure map. It's a place for me to share the places
 - [~parimal](https://neustadt.fr/) a tribute to the creative web of the 90s
 - [~manu](https://manuelmoreale.com/) great writer, thought-provoking content
 - [~brandon](https://brandonsjournal.neocities.org/) a fellow 90's kid, forever missing the past
+- [~eric](https://ericexperiment.com/) retro computing overload
 
 ## Resources
 
@@ -28,6 +29,8 @@ Well, consider this my own treasure map. It's a place for me to share the places
 - [MudBytes](http://mudbytes.net/) all the MUD snippets you could ask for
 - [textfiles.com](http://textfiles.com) no links list is complete without it
 - [GitHub 95](https://github95.vercel.app/) github as it was meant to be viewed
+- [Old'aVista](http://oldavista.com/) a search engine for old personal websites
+- [MSCHF](https://mschf.xyz/) a fascinatingly inventive modern art collective
 
 ## Miscellaneous
 

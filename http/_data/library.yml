@@ -598,3 +598,8 @@ entries:
     author: Gino Wickman
     isbn: "1936661837"
     started: 2021-10-25
+
+  - title: The Exorcist
+    author: William Peter Blatty
+    isbn: "006209436X"
+    started: 2021-01-01
