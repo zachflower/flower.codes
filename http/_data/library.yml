@@ -606,3 +606,10 @@ entries:
     started: 2021-01-01
     series: "The Exorcist"
     number: 1
+
+  - title: Becoming a Better Programmer
+    author: Pete Goodliffe
+    isbn: "9781491905531"
+    started: 2021-10-29
+    read: true
+    recommended: true
