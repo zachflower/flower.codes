@@ -91,7 +91,6 @@ layout: page
 
 {%- assign something_recommended = false -%}
 {%- capture recommended -%}
-  <ol></ol>
   {%- for book in site.data.library.entries -%}
     {%- if book.recommended -%}
       {%- assign something_recommended = true -%}
