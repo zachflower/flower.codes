@@ -23,7 +23,7 @@ layout: compress
         <td align="left">
           <font face='monospace,courier new,courier'>
             <main>
-              {{ content }}
+              {{ content | replace: "’", "'" | replace: "“", '"' | replace: "”", '"' }}
             </main>
             <br />
             <footer>
