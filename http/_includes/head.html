@@ -1,8 +1,11 @@
 <head>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <meta name="description" content="{{ site.description }}">
+  <meta name="description" content="{{ site.description }}" />
+
+  <!-- begone googlebot -->
+  <meta name="googlebot" content="noindex" />
 
   <title>
     {%- if page.title -%}
@@ -17,6 +20,9 @@
 
   <!-- whoami? -->
   <link rev="made" rel="me authn" href="mailto:{{ site.email }}" />
+
+  <!-- whereami? -->
+  <link rel="home" href="{{ site.url }}" />
 
   <!-- rss -->
   <link type="application/atom+xml" rel="alternate" href="/feed.xml" title="flower.codes" />
