@@ -57,4 +57,10 @@ ol {
     img {
         height: auto;
     }
+
+    section {
+        .footnotes {
+            overflow-x: scroll
+        }
+    }
 }

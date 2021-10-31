@@ -138,7 +138,7 @@ module Jekyll
 
           def image(node)
             directory = File.expand_path(File.dirname(__FILE__))
-            width = 800 - (2 * 20)
+            width = 800
 
             filename = node.url
 

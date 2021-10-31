@@ -20,11 +20,11 @@ This page is a collection of rules, values, and philosophies with which I choose
 - Slow the fuck down
 - Take the scenic route[^scenic]
 
-[^mistakes]: Anderberg, J., 2017. Never Walk By a Mistake. [online] The Art of Manliness. Available at: <https://www.artofmanliness.com/articles/never-walk-mistake/> [Accessed 30 May 2021].
-[^doing]: Ryan Holiday, 2020. How You Do Anything Is How You Do Everything. [online] Available at: <https://ryanholiday.net/how-you-do-anything/> [Accessed 30 May 2021].
+[^mistakes]: Anderberg, J., 2017. Never Walk By a Mistake. [online] The Art of Manliness. Available at: [artofmanliness.com](https://www.artofmanliness.com/articles/never-walk-mistake/) [Accessed 30 May 2021].
+[^doing]: Ryan Holiday, 2020. How You Do Anything Is How You Do Everything. [online] Available at: [ryanholiday.net](https://ryanholiday.net/how-you-do-anything/) [Accessed 30 May 2021].
 [^nothing]: Foer, J., 2010. Eating animals. New York: Back Bay Books, p.38.
 [^hope]: Thich, N., 1992. Peace Is Every Step. London: Bantam Books, p.42.
-[^scenic]: Zachary Flower, 2021. Take the Scenic Route. [online] Available at: <https://flower.codes/2021/07/07/take-the-scenic-route.html> [Accessed 7 July, 2021].
+[^scenic]: Zachary Flower, 2021. Take the Scenic Route. [online] Available at: [flower.codes](//flower.codes/2021/07/07/take-the-scenic-route.html) [Accessed 7 July, 2021].
 
 ## Technology
 
@@ -39,7 +39,7 @@ This page is a collection of rules, values, and philosophies with which I choose
 - Praise effort, not results
 - Encourage boredom[^boredom]
 
-[^gardener]: Mae, K., 2019. How to Be a 'Gardener' Parent. [online] Lifehacker. Available at: <https://lifehacker.com/how-to-be-a-gardener-parent-1832461241> [Accessed 30 May 2021].
+[^gardener]: Mae, K., 2019. How to Be a 'Gardener' Parent. [online] Lifehacker. Available at: [lifehacker.com](https://lifehacker.com/how-to-be-a-gardener-parent-1832461241) [Accessed 30 May 2021].
 [^boredom]: Payne, K., 2015. The Soul of Discipline. New York: Ballantine Books, p.260.
 
 ## Marriage
