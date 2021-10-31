@@ -31,11 +31,11 @@ layout: compress
               <font color="gray"><small><i>
                     <p align='right'>
                       {% if page.id %}
-                        <time datetime="{{ page.date | date: " %Y-%m-%d" }}">{{ page.date | date: "%Y.%m.%d" }}</time> ▪ {{link}} ▪
+                        <time datetime="{{ page.date | date: " %Y-%m-%d" }}">{{ page.date | date: "%Y.%m.%d" }}</time> &bullet; {{link}} &bullet;
                       {% else %}
-                        {{link}} ▪
+                        {{link}} &bullet;
                       {% endif %}
-                      <a href="/feed.xml">rss</a> ▪ <a href="https://webring.xxiivv.com/#random">webring</a>
+                      <a href="/feed.xml">rss</a> &bullet; <a href="https://webring.xxiivv.com/#random">webring</a>
                     </p>
                   </i></small></font>
             </footer>
