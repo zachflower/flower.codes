@@ -9,6 +9,16 @@
 			"  started: $CURRENT_YEAR-$CURRENT_MONTH-$CURRENT_DATE"
 		],
 	},
+	"Create a new movie": {
+		"scope": "yaml,yml",
+		"prefix": "movie",
+		"body": [
+			"- title: ${1:Kung Fu Panda}",
+			"  tmdb: ${2:https://www.themoviedb.org/movie/9502-kung-fu-panda}",
+			"  released: \"${3:2008}\"",
+			"  watched: $CURRENT_YEAR-$CURRENT_MONTH-$CURRENT_DATE"
+		],
+	},
 	"The current date": {
 		"scope": "yaml,yml",
 		"prefix": "today",
