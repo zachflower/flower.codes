@@ -17,31 +17,33 @@ layout: compress
 
 <body bgcolor="white" link='green' vlink='green' alink='green' text="black">
   <br /><br />
-  <table id="w" width="800" border="0" cellpadding="20" cellspacing="0" align='center'>
-    <tr>
-      <td align="left">
-        <font face='monospace,courier new,courier'>
-          <main>
-            {{ content | replace: "’", "'" | replace: "“", '"' | replace: "”", '"' }}
-          </main>
-          <br />
-          <footer>
-            <hr size="1" noshade />
-            <font color="gray"><small><i>
-                  <p align='right'>
-                    {% if page.id %}
-                      <time datetime="{{ page.date | date: " %Y-%m-%d" }}">{{ page.date | date: "%Y.%m.%d" }}</time> | {{link}} |
-                    {% else %}
-                      {{link}} |
-                    {% endif %}
-                    <a href="/feed.xml">rss</a> | <a href="https://webring.xxiivv.com/#random">webring</a>
-                  </p>
-                </i></small></font>
-          </footer>
-        </font>
-      </td>
-    </tr>
-  </table>
+  <center>
+    <table id="w" width="800" border="0" cellpadding="20" cellspacing="0">
+      <tr>
+        <td align="left">
+          <font face='monospace,courier new,courier'>
+            <main>
+              {{ content | replace: "’", "'" | replace: "“", '"' | replace: "”", '"' }}
+            </main>
+            <br />
+            <footer>
+              <hr size="1" noshade />
+              <font color="gray"><small><i>
+                    <p align='right'>
+                      {% if page.id %}
+                        <time datetime="{{ page.date | date: " %Y-%m-%d" }}">{{ page.date | date: "%Y.%m.%d" }}</time> | {{link}} |
+                      {% else %}
+                        {{link}} |
+                      {% endif %}
+                      <a href="/feed.xml">rss</a> | <a href="https://webring.xxiivv.com/#random">webring</a>
+                    </p>
+                  </i></small></font>
+            </footer>
+          </font>
+        </td>
+      </tr>
+    </table>
+  </center>
   <br /><br />
 </body>
 
