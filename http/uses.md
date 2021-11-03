@@ -43,9 +43,9 @@ There are some things that I've left _off_ of this list, not because I no longer
 ### Desktop
 
 - [Visual Studio Code](https://code.visualstudio.com/) integrated development environment
-- [Brave](https://brave.com/) web browser
-- [iTerm2](https://iterm2.com/) terminal emulators
-- [Apple Mail](https://en.wikipedia.org/wiki/Apple_Mail) e-mail client with HTML mail _turned off_
+- [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/?redirect_source=firefox-com) web browser
+- [iTerm2](https://iterm2.com/) terminal emulator
+- [Apple Mail](https://en.wikipedia.org/wiki/Apple_Mail) e-mail client
 - [SizeUp](https://www.irradiatedsoftware.com/sizeup/) window manager
 - [Sequel Pro](https://sequelpro.com/) / [Postico](https://eggerapps.at/postico/) database clients
 
@@ -84,7 +84,8 @@ There are some things that I've left _off_ of this list, not because I no longer
 - [Apple iPhone XS Max](https://duckduckgo.com/?iar=shopping&q=apple+iphone+xs+max) + [Otterbox + Pop Symmetry](https://duckduckgo.com/?iar=shopping&q=otterbox+pop+symmetry+iphone) case
 - [Nokia 225](https://duckduckgo.com/?iar=shopping&q=nokia+225) feature phone
 - [Apple AirPods](https://duckduckgo.com/?iar=shopping&q=apple+airpods) wireless earbuds
-- [Apple iPod (6th Generation)](https://duckduckgo.com/?iar=shopping&q=apple+ipod+classic+6th+generation) with click wheel
+- [Apple iPod (5th Generation)](https://duckduckgo.com/?iar=shopping&q=apple+ipod+classic+5th+generation) with click wheel
+- [Apple iPod Shuffle (2nd Generation)](https://duckduckgo.com/?iar=shopping&q=apple+ipod+shuffle+2nd+generation) in orange
 - [Skullcandy Venue](https://duckduckgo.com/?iar=shopping&q=skullcandy+venue) wireless over-ear headphones
 - [Kindle Paperwhite](https://duckduckgo.com/?iar=shopping&q=kindle+paperwhite) e-reader
 - [YubiKey 5](https://duckduckgo.com/?iar=shopping&q=yubikey+5) hardware authentication devices
