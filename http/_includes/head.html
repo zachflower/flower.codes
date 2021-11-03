@@ -27,14 +27,67 @@
   <!-- rss -->
   <link type="application/atom+xml" rel="alternate" href="/feed.xml" />
 
-  <!-- webmentions -->
-  <link rel="webmention" href="https://webmention.io/flower.codes/webmention" />
-  <link rel="pingback" href="https://webmention.io/flower.codes/xmlrpc" />
+  <!-- styles -->
+  <style type="text/css">
+  <!--
+    body {
+        font-family: monospace, "courier new", courier;
+        font-size: 16px;
+        line-height: 1.8;
+    }
 
-  <!-- stylesheets -->
-  {% if jekyll.environment == "development" %}
-    <link rel="stylesheet" href="/assets/css/style.css" media="screen" />
-  {% else %}
-    <link rel="stylesheet" href="/assets/css/style.css?{{site.time | date: '%s'}}" media="screen" />
-  {% endif %}
+    a {
+        text-decoration: none;
+    }
+
+    a:hover {
+        text-decoration: underline;
+    }
+
+    hr {
+      border-top: 1px solid #ccc;
+    }
+
+    .i {
+      background: #562;
+      line-height: 0;
+    }
+
+    .i img {
+        mix-blend-mode: screen;
+    }
+
+    pre {
+        width: 100%;
+        white-space: pre-wrap;
+        word-wrap: break-word;
+    }
+
+    ol {
+        list-style-type: decimal-leading-zero;
+    }
+
+    #w {
+        width: 800px;
+    }
+
+    @media only screen and (max-width: 800px) {
+        #w,img {
+            width: 100%;
+        }
+
+        #w {
+            max-width: 800px;
+        }
+
+        img {
+            height: auto;
+        }
+
+        section .footnotes {
+              overflow-x: scroll
+        }
+    }
+  -->
+  </style>
 </head>
