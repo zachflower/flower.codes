@@ -45,7 +45,7 @@ There are some things that I've left _off_ of this list, not because I no longer
 - [Visual Studio Code](https://code.visualstudio.com/) integrated development environment
 - [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/?redirect_source=firefox-com) web browser
 - [iTerm2](https://iterm2.com/) terminal emulator
-- [Apple Mail](https://en.wikipedia.org/wiki/Apple_Mail) e-mail client
+- [Thunderbird](https://www.thunderbird.net/) e-mail client
 - [SizeUp](https://www.irradiatedsoftware.com/sizeup/) window manager
 - [Sequel Pro](https://sequelpro.com/) / [Postico](https://eggerapps.at/postico/) database clients
 
