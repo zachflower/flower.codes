@@ -37,6 +37,7 @@ There are some things that I've left _off_ of this list, not because I no longer
 - [Nighthawk R7000](https://duckduckgo.com/?iar=shopping&q=nighthawk+r7000) wireless router
 - [Sonos PLAY:3](https://duckduckgo.com/?iar=shopping&q=sonos+play+3) wireless speaker
 - [Nintendo Switch](https://duckduckgo.com/?iar=shopping&q=nintendo+switch) game console
+- 13" [Sharp AQUOS LC-13S1U-S](https://duckduckgo.com/?iar=shopping&q=sharp+aquos+lc-13s1u-s) standard definition LCD TV with a [Roku 1 (3rd Generation)](https://duckduckgo.com/?iar=shopping&q=roku+1+3rd+generation) streaming box and [Panasonic OmniVision](https://duckduckgo.com/?iar=shopping&q=panasonic+omnivision+vcr) VCR
 
 ## Software
 
@@ -105,12 +106,12 @@ There are some things that I've left _off_ of this list, not because I no longer
 
 ## Miscellaneous
 
-## Obsolete
+### Obsolete
 
 - [AlphaSmart 3000](https://en.wikipedia.org/wiki/AlphaSmart#AlphaSmart_3000) portable word processor
 - [Asus Chromebook Flip (C100P)](https://duckduckgo.com/?iar=shopping&q=Asus+Chromebook+Flip+(C100P)) running [Ubuntu 16.04](http://releases.ubuntu.com/16.04/) using [Crouton](https://github.com/dnschneid/crouton)
 - [Dell Inspiron 2200](https://duckduckgo.com/?iar=shopping&q=dell+inspiron+2200) running [Windows XP](https://en.wikipedia.org/wiki/Windows_XP)
-- 1977 [Sony CVM-131](https://duckduckgo.com/?iar=shopping&q=1977+Sony+CVM-131+television) CRT television with a [Roku 1 (3rd Generation)](https://duckduckgo.com/?iar=shopping&q=roku+1+3rd+generation) streaming box
+- 1977 [Sony CVM-131](https://duckduckgo.com/?iar=shopping&q=1977+Sony+CVM-131+television) CRT television
 
 ### Retro
 
