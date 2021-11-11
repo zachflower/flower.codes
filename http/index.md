@@ -16,7 +16,6 @@ Cheers :)
 * [library](/library.html) i read and i've read
 * [links](/links.html) web pages i enjoy
 * [rules](/rules.html) how i choose to live
-* [uses](/uses.html) i am not my things
 
 ## Projects
 
