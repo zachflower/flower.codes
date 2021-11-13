@@ -210,7 +210,7 @@ module Jekyll
           end
 
           def render_with_rouge(code, lang)
-            formatter = Jekyll::Highlighters::Formatters::UncommonMark.new(Rouge::Themes::Base16.mode(:light))
+            formatter = Jekyll::Highlighters::Formatters::UncommonMark.new(Rouge::Themes::Base16::Solarized)
             lexer = Rouge::Lexer.find_fancy(lang, code) || Rouge::Lexers::PlainText
             formatter.format(lexer.lex(code))
           end
