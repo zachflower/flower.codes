@@ -30,7 +30,7 @@
 		"body": "finished: $CURRENT_YEAR-$CURRENT_MONTH-$CURRENT_DATE"
 	},
 	"Blog post frontmatter": {
-		"scope": "md,markdown,txt,plaintext",
+		"scope": "md,markdown",
 		"prefix": "post",
 		"body": [
 			"---",
