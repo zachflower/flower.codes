@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reviving the Old Pocket PC' 
+title: Reviving the Old Pocket PC
 date: 2021-11-16 08:58:19
 device: Audiovox XV6600
 ---
