@@ -6,17 +6,6 @@ trigger:
     - main
 
 steps:
-  - name: restore-cache
-    image: drillster/drone-volume-cache
-    depends_on: [clone]
-    volumes:
-      - name: cache
-        path: /cache
-    settings:
-      restore: true
-      mount:
-        - ./.bundle
-
   - name: build
     image: ruby:2.7
     depends_on: [restore-cache]
@@ -25,17 +14,6 @@ steps:
       - make install
       - make http
       - make gopher
-
-  - name: rebuild-cache
-    image: drillster/drone-volume-cache
-    depends_on: [build]
-    volumes:
-      - name: cache
-        path: /cache
-    settings:
-      rebuild: true
-      mount:
-        - ./.bundle
 
   # TODO optimize
 
@@ -62,8 +40,3 @@ steps:
         from_secret: rsync_http_path
       RSYNC_GOPHER_PATH:
         from_secret: rsync_gopher_path
-
-volumes:
-  - name: cache
-    host:
-      path: /tmp/cache
