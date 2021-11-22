@@ -23,6 +23,9 @@ gopher: install
 serve: install
 	JEKYLL_ENV=development $(JEKYLL) serve --config _config.http.yml
 
+degrade:
+	./bin/degrade.sh
+
 clean:
 	$(JEKYLL) clean --config _config.http.yml
 	$(JEKYLL) clean --config _config.gopher.yml
