@@ -37,7 +37,6 @@ steps:
       mount:
         - ./.bundle
 
-  # TODO optimize
   - name: degrade-images
     image: ruby:2.7
     depends_on: [clone]
