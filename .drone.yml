@@ -38,10 +38,43 @@ steps:
         - ./.bundle
 
   # TODO optimize
+  - name: degrade-images
+    image: v4tech/imagemagick:latest
+    depends_on: [clone]
+    commands:
+      - |
+        cd ./http/assets/posts/
+
+        for f in *.jpg; do
+          if [ -f "${f%.jpg}-degraded.gif" ]; then
+            continue
+          fi
+
+          convert "${f}" -verbose -format GIF -interlace GIF -resize 640\> -colorspace gray -colors 4 -ordered-dither 8x8 -set filename:f "%[t]-degraded" "%[filename:f].gif"
+        done
+
+  - name: save-degraded-images
+    image: ruby:2.7
+    depends_on: [degrade-images]
+    commands:
+      - |
+        git config --local user.email "drone@crlf.wtf"
+        git config --local user.name "drone[bot]"
+
+        git add ./http/assets/posts
+
+        if [ -z "$(git status --porcelain)" ]; then
+            echo "::set-output name=push::false"
+        else
+            git commit -m "[SKIP CI] degraded newly added images"
+            echo "::set-output name=push::true"
+        fi
+
+        git push
 
   - name: deploy
     image: ruby:2.7
-    depends_on: [build]
+    depends_on: [degrade-images]
     commands:
       - apt update
       - apt install rsync -y
