@@ -1,6 +1,7 @@
 _http
 _gopher
 .sass-cache
+.bundle
 .jekyll-cache
 .jekyll-metadata
 .DS_Store
