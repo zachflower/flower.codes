@@ -8,7 +8,6 @@ trigger:
 steps:
   - name: build
     image: ruby:2.7
-    depends_on: [restore-cache]
     commands:
       - export BUNDLE_PATH="./.bundle"
       - make install
