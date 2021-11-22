@@ -43,7 +43,7 @@ steps:
 
   - name: deploy
     image: ruby:2.7
-    depends_on: [build, optimize]
+    depends_on: [build]
     commands:
       - apt update
       - apt install rsync -y
