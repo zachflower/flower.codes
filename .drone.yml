@@ -16,8 +16,6 @@ steps:
       restore: true
       mount:
         - ./.bundle
-        - ./.jekyll-cache
-        - ./.jekyll-metadata
 
   - name: build
     image: ruby:2.7
