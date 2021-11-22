@@ -65,7 +65,7 @@ steps:
 
   - name: deploy
     image: ruby:2.7
-    depends_on: [degrade-images]
+    depends_on: [build, degrade-images]
     commands:
       - apt update
       - apt install rsync -y
