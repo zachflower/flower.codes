@@ -43,7 +43,7 @@ steps:
     depends_on: [clone]
     commands:
       - apt update
-      - apt install imagemagick -y
+      - apt install imagemagick libjpeg62-dev -y
       - |
         cd ./http/assets/posts/
 
