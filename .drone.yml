@@ -19,7 +19,7 @@ steps:
         - ./.jekyll-cache
         - ./.jekyll-metadata
 
-  - name: build everything
+  - name: build
     image: ruby:2.7
     depends_on: [restore-cache]
     commands:
