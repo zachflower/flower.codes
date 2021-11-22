@@ -61,7 +61,7 @@ steps:
             echo "::set-output name=push::true"
         fi
 
-        git push
+        git push origin main
 
   - name: deploy
     image: ruby:2.7
