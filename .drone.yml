@@ -39,9 +39,11 @@ steps:
 
   # TODO optimize
   - name: degrade-images
-    image: v4tech/imagemagick:latest
+    image: ruby:2.7
     depends_on: [clone]
     commands:
+      - apt update
+      - apt install imagemagick -y
       - |
         cd ./http/assets/posts/
 
