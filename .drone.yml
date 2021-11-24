@@ -43,24 +43,23 @@ steps:
     commands:
       - make degrade
 
-  # - name: save-degraded-images
-  #   image: ruby:2.7
-  #   depends_on: [degrade-images]
-  #   commands:
-  #     - |
-  #       git config --local user.email "drone@crlf.wtf"
-  #       git config --local user.name "drone[bot]"
+  - name: save-degraded-images
+    image: ruby:2.7
+    depends_on: [degrade-images]
+    commands:
+      - |
+        git config --local user.email "drone@crlf.wtf"
+        git config --local user.name "drone[bot]"
 
-  #       git add ./http/assets/posts
+        git add ./http/assets/posts
 
-  #       if [ -z "$(git status --porcelain)" ]; then
-  #           echo "::set-output name=push::false"
-  #       else
-  #           git commit -m "[SKIP CI] degraded newly added images"
-  #           echo "::set-output name=push::true"
-  #       fi
-
-  #       git push origin main
+        if [ -z "$(git status --porcelain)" ]; then
+          echo "::set-output name=push::false"
+        else
+          git commit -m "[SKIP CI] degraded newly added images"
+          echo "::set-output name=push::true"
+          git push origin main
+        fi
 
   - name: deploy
     image: ruby:2.7
