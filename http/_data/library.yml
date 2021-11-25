@@ -625,3 +625,8 @@ entries:
     isbn: "1937077594"
     started: 2021-11-24
     finished: 2021-11-25
+
+  - title: Rapture for the Geeks
+    author: Richard Dooling
+    isbn: "0307405257"
+    started: 2021-11-25
