@@ -630,3 +630,9 @@ entries:
     author: Richard Dooling
     isbn: "0307405257"
     started: 2021-11-25
+
+  - title: The Boy, the Mole, the Fox and the Horse
+    author: Charlie Mackesy
+    isbn: "0062976583"
+    started: 2021-12-04
+    finished: 2021-12-04
