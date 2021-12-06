@@ -63,6 +63,29 @@ layout: page
     <p><i>Nothing :(</i></p>
   {%- endif -%}
 
+  {%- assign something_recommended = false -%}
+  {%- capture recommended -%}
+    <ol>
+      {%- for book in site.data.library.entries -%}
+        {%- assign finished_year = book.finished | date: "%Y" | minus: 0 -%}
+        {%- if finished_year == goal.year -%}
+          {%- if book.recommended -%}
+            {%- assign something_recommended = true -%}
+            {%- include library_book.html book=book -%}
+          {%- endif -%}
+        {%- endif -%}
+      {%- endfor -%}
+    </ol>
+  {%- endcapture -%}
+
+  {%- if something_recommended -%}
+    <p>
+      <strong>Recommended</strong>
+    </p>
+
+    {{ recommended }}
+  {%- endif -%}
+
   {%- assign books_by_abandoned = site.data.library.entries | sort: "abandoned" -%}
   {%- assign something_abandoned = false -%}
   {%- capture abandoned -%}
@@ -88,21 +111,3 @@ layout: page
   {%- endif -%}
 
 {%- endfor -%}
-
-{%- assign something_recommended = false -%}
-{%- capture recommended -%}
-  {%- for book in site.data.library.entries -%}
-    {%- if book.recommended -%}
-      {%- assign something_recommended = true -%}
-      {%- include library_book.html book=book -%}
-    {%- endif -%}
-  {%- endfor -%}
-{%- endcapture -%}
-
-{%- if something_recommended -%}
-  <hr size="1" noshade />
-  <h2>Recommended</h2>
-  <ol>
-    {{ recommended }}
-  </ol>
-{%- endif -%}
