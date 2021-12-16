@@ -21,7 +21,7 @@ gopher: install
 	JEKYLL_ENV=production $(JEKYLL) build --verbose --config _config.gopher.yml
 
 serve: install
-	JEKYLL_ENV=development $(JEKYLL) serve --config _config.http.yml
+	JEKYLL_ENV=development $(JEKYLL) serve --config _config.http.yml --future --drafts
 
 degrade:
 	./bin/degrade.sh
