@@ -108,6 +108,7 @@ entries:
     started: 2020-01-01
     finished: 2020-12-31
     read: true
+    recommended: true
 
   - title: Outland
     author: Dennis E. Taylor
