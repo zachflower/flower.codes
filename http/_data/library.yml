@@ -667,3 +667,8 @@ entries:
     started: 2021-12-21
     finished: 2021-12-27
     recommended: true
+
+  - title: The Road
+    author: Cormac McCarthy
+    isbn: "9780307387899"
+    started: 2021-12-27
