@@ -1,4 +1,6 @@
 goals:
+  - year: 2022
+    goal: 50
   - year: 2021
     goal: 20
   - year: 2020
@@ -675,4 +677,9 @@ entries:
     started: 2021-12-27
     finished: 2021-12-30
     recommended: true
+
+  - title: Atomic Habits
+    author: James Clear
+    isbn: "0735211299"
+    started: 2022-01-01
 
