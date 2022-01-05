@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "WTF is a Postmortem?"
-date: 2021-12-11 08:47:03
+date: 2022-01-05 16:40:34
 ---
 
 A postmortem is the analysis of an event after it occurs. When an issue is encountered in a production environment, a postmortem is an important process that lets us reflect on and learn from our mistakes so we can improve our process and prevent them from happening again in the future. It is not an opportunity to assign blame or point fingers. When something goes wrong, it is nearly always due to an underlying, systemic problem, rather than the deliberate actions of any one individual.
