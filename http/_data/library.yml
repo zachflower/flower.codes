@@ -682,4 +682,10 @@ entries:
     author: James Clear
     isbn: "0735211299"
     started: 2022-01-01
+    finished: 2022-01-05
+    recommended: true
 
+  - title: Everything Is F*cked
+    author: Mark Manson
+    isbn: "0062955934"
+    started: 2022-01-05
