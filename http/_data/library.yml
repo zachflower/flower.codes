@@ -697,3 +697,8 @@ entries:
     isbn: "1573228761"
     started: 2022-01-07 
     finished: 2022-01-08
+
+  - title: Blood, Sweat, and Pixels
+    author: Jason Schreier
+    isbn: "9780062651235"
+    started: 2022-01-08
