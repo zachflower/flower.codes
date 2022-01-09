@@ -702,3 +702,10 @@ entries:
     author: Jason Schreier
     isbn: "9780062651235"
     started: 2022-01-08
+
+  - title: Casino Royale
+    author: Ian Fleming
+    series: James Bond
+    number: 1
+    isbn: "1784871990"
+    started: 2022-01-08
