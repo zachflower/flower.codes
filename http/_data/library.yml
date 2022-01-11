@@ -689,19 +689,20 @@ entries:
     author: Mark Manson
     isbn: "0062955934"
     started: 2022-01-05
-    finished: 2022-01-07 
+    finished: 2022-01-07
     recommended: true
 
   - title: Verses from the Center
     author: Stephen Batchelor
     isbn: "1573228761"
-    started: 2022-01-07 
+    started: 2022-01-07
     finished: 2022-01-08
 
   - title: Blood, Sweat, and Pixels
     author: Jason Schreier
     isbn: "9780062651235"
     started: 2022-01-08
+    finished: 2022-01-11
 
   - title: Casino Royale
     author: Ian Fleming
