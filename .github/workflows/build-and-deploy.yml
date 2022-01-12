@@ -63,6 +63,6 @@ jobs:
           path: _gopher/
           remote_path: /home/crlf/public_gopher/
           remote_host: tilde.town
-          remote_user: deploy
+          remote_user: crlf
           remote_key: ${{ secrets.SSH_KEY }}
           remote_key_pass : ${{ secrets.SSH_KEY_PASSPHRASE }}
