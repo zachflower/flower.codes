@@ -22,8 +22,8 @@ title: ~crlf
 author: ~crlf
 email: crlf@tilde.town
 description: Quite.
-baseurl: ""
-url: "gopher://tilde.down/1/~crlf"
+baseurl: "/1/~crlf"
+url: "gopher://tilde.down"
 
 source: gopher
 destination: _gopher

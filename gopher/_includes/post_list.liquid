@@ -11,7 +11,7 @@
 i{{this_year}}	/
 i 	/
 {% endif -%}
-0{{post.date | date: "%Y.%m.%d"}} :: {{post.title}}	{{post.url}}
+0{{post.date | date: "%Y.%m.%d"}} :: {{post.title}}	{{post.url | remove_first: "/"}}
 {%- unless forloop.last -%}
 {%- if this_year != next_year -%}
 i 	/

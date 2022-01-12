@@ -1,5 +1,5 @@
 entries:
   - title: 'Phlogroll'
-    selector: '/phlogroll'
+    selector: 'phlogroll'
   - title: 'Atom Feed'
-    selector: '/feed.xml'
+    selector: 'feed.xml'
