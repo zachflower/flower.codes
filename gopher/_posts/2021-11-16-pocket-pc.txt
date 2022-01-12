@@ -14,10 +14,7 @@ Class notes, scheduling, (delayed) emails... it was like night and day when comp
 
 But that wasn’t the point. As a budding professional nerd, there was something magical about having a computer in my pocket. And as much as my friends teased me for having such a "huge phone," I couldn’t care less. It felt like having a sneak preview of the future (a future where the phones were twice the size of my humble Pocket PC).
 
-It's been a few days now, and so far it gives me the same feels that it used
-to, but now I can appreciate the quirks more. Thanks to a collection of old
-dongles and wifi modules, I’ve got it on the internet (something that is
-impressively usable thanks to Opera Mini 5.1 [[http://m.opera.com]]) and have it syncing with my old Windows XP laptop. Unlike my excursion into LineageOS, I actually have a plan for this thing...
+It's been a few days now, and so far it gives me the same feels that it used to, but now I can appreciate the quirks more. Thanks to a collection of old dongles and wifi modules, I’ve got it on the internet (something that is impressively usable thanks to Opera Mini 5.1 [[http://m.opera.com]]) and have it syncing with my old Windows XP laptop. Unlike my excursion into LineageOS, I actually have a plan for this thing...
 
 I’m going to use it to manage my technostalgic experiments. The tasks list is great, and I can keep my notes in context (I'm even writing *this* on it). Most importantly, I can give it a purpose, which means it won’t be languishing in a box anymore.
 

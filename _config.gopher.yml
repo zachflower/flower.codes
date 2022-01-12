@@ -18,13 +18,6 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: ~crlf
-author: ~crlf
-email: crlf@tilde.town
-description: Quite.
-baseurl: "/1/~crlf"
-url: "gopher://tilde.down"
-
 source: gopher
 destination: _gopher
 
