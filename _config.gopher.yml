@@ -18,12 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: flower.codes
-author: Zachary Flower
-email: zach@flower.codes
-description: Impostor.
+title: ~crlf
+author: ~crlf
+email: crlf@tilde.town
+description: Quite.
 baseurl: ""
-url: "gopher://flower.codes"
+url: "gopher://tilde.down/1/~crlf"
 
 source: gopher
 destination: _gopher

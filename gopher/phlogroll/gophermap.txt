@@ -7,5 +7,5 @@ layout: phlogroll
  head. So this page of Gopherholes that I have discovered and
  enjoyed for one reason or another is as much for me as it is for
  anyone else. Check 'em out... or don't.
-                                           Zach <zach@flower.codes>
+                                            ~crlf <crlf@tilde.town>
 ====================================================================

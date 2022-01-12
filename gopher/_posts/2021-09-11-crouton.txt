@@ -38,24 +38,24 @@ it'll serve nicely as little portable gopher client; and, just for
 posterity, here is its neofetch (with the small logo variant to fit
 my 68 character column limit):
 
-         _    zach@localhost 
-     ---(_)   ---------------- 
- _/  ---  \   OS: Ubuntu 16.04.7 LTS on Chrome OS armv7l 
-(_) |   |     Host: Google Minnie 
-  \  --- _/   Kernel: 4.19.122-09119-gb1efef1fec5e 
-     ---(_)   Uptime: 13 hours, 31 mins 
-              Packages: 1086 (dpkg) 
-              Shell: bash 4.3.48 
-              Resolution: 1280x800 
-              DE: LXDE 
-              WM: Openbox 
-              WM Theme: Bear2 
-              Theme: Adwaita [GTK3] 
-              Icons: Adwaita [GTK3] 
-              Terminal: lxterminal 
-              Terminal Font: Monospace 12 
-              CPU: Rockchip (Device Tree) (4) @ 1.800GHz 
-              Memory: 1720MiB / 2014MiB 
+         _    crlf@localhost
+     ---(_)   ----------------
+ _/  ---  \   OS: Ubuntu 16.04.7 LTS on Chrome OS armv7l
+(_) |   |     Host: Google Minnie
+  \  --- _/   Kernel: 4.19.122-09119-gb1efef1fec5e
+     ---(_)   Uptime: 13 hours, 31 mins
+              Packages: 1086 (dpkg)
+              Shell: bash 4.3.48
+              Resolution: 1280x800
+              DE: LXDE
+              WM: Openbox
+              WM Theme: Bear2
+              Theme: Adwaita [GTK3]
+              Icons: Adwaita [GTK3]
+              Terminal: lxterminal
+              Terminal Font: Monospace 12
+              CPU: Rockchip (Device Tree) (4) @ 1.800GHz
+              Memory: 1720MiB / 2014MiB
 
 ---
 [0]: https://github.com/dnschneid/crouton

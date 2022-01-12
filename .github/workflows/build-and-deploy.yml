@@ -43,38 +43,26 @@ jobs:
         uses: ad-m/github-push-action@master
         with:
            github_token: ${{ secrets.GITHUB_TOKEN }}
-      # - name: set up ruby
-      #   uses: ruby/setup-ruby@v1
-      #   with:
-      #     ruby-version: 2.7
-      #     bundler-cache: true
-      # - name: set up node
-      #   uses: actions/setup-node@v2-beta
-      #   with:
-      #     node-version: '14'
-      # - name: install dependencies
-      #   run: make install
-      # - name: build http site
-      #   run: make http
-      # - name: build gopher hole
-      #   run: make gopher
-      # - name: deploy site to server
-      #   uses: burnett01/rsync-deployments@5.0
-      #   with:
-      #     switches: -avzr --delete
-      #     path: _http/
-      #     remote_path: /opt/stack/volumes/caddy/site/flower.codes/
-      #     remote_host: ${{ secrets.REMOTE_HOST }}
-      #     remote_user: deploy
-      #     remote_key: ${{ secrets.SSH_KEY }}
-      #     remote_key_pass : ${{ secrets.SSH_KEY_PASSPHRASE }}
-      # - name: deploy gopherhole to server
-      #   uses: burnett01/rsync-deployments@5.0
-      #   with:
-      #     switches: -avzr --delete
-      #     path: _gopher/
-      #     remote_path: /opt/stack/volumes/gophernicus/hole/
-      #     remote_host: ${{ secrets.REMOTE_HOST }}
-      #     remote_user: deploy
-      #     remote_key: ${{ secrets.SSH_KEY }}
-      #     remote_key_pass : ${{ secrets.SSH_KEY_PASSPHRASE }}
+      - name: set up ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 2.7
+          bundler-cache: true
+      - name: set up node
+        uses: actions/setup-node@v2-beta
+        with:
+          node-version: '14'
+      - name: install dependencies
+        run: make install
+      - name: build gopher hole
+        run: make gopher
+      - name: deploy gopherhole to server
+        uses: burnett01/rsync-deployments@5.0
+        with:
+          switches: -avzr --delete
+          path: _gopher/
+          remote_path: /home/crlf/public_gopher/
+          remote_host: tilde.town
+          remote_user: deploy
+          remote_key: ${{ secrets.SSH_KEY }}
+          remote_key_pass : ${{ secrets.SSH_KEY_PASSPHRASE }}

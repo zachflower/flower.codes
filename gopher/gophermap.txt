@@ -6,5 +6,5 @@ layout: home
  Well then... welcome to my gopherhole. It's not much, but it's all
  mine. If you see something you like, or just want to chat, feel
  free to reach out.
-                                           Zach <zach@flower.codes>
+                                            ~crlf <crlf@tilde.town>
 ====================================================================
