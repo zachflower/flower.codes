@@ -716,3 +716,8 @@ entries:
     isbn: "0525538690"
     started: 2022-01-11
     finished: 2022-01-12
+
+  - title: The Chaos Protocols
+    author: Gordon White
+    isbn: "0738744719"
+    started: 2022-01-12
