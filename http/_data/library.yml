@@ -721,3 +721,9 @@ entries:
     author: Gordon White
     isbn: "0738744719"
     started: 2022-01-12
+
+  - title: I Will Teach You to Be Rich
+    author: Ramit Sethi
+    isbn: "1523505745"
+    started: 2022-01-12
+    read: true
