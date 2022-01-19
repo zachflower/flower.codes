@@ -746,3 +746,8 @@ entries:
     isbn: "0008261407"
     started: 2022-01-15
     finished: 2022-01-17
+
+  - title: Illusions
+    author: Richard Bach
+    isbn: "9780099427865"
+    started: 2022-01-19
