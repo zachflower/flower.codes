@@ -753,3 +753,8 @@ entries:
     started: 2022-01-19
     finished: 2022-01-19
     recommended: true
+
+  - title: Siddhartha
+    author: Hermann Hesse
+    isbn: "0553208845"
+    started: 2022-01-19
