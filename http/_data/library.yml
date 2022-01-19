@@ -757,4 +757,5 @@ entries:
   - title: Siddhartha
     author: Hermann Hesse
     isbn: "0553208845"
+    read: true
     started: 2022-01-19
