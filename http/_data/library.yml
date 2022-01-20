@@ -727,9 +727,9 @@ entries:
   - title: I Will Teach You to Be Rich
     author: Ramit Sethi
     isbn: "1523505745"
-    started: 2022-01-12
     read: true
-    abandoned: true
+    started: 2022-01-12
+    abandoned: 2022-01-14
 
   - title: How to Win Friends and Influence People
     author: Dale Carnegie
