@@ -39,3 +39,4 @@ dd-wrt config
 - Rebooting helps
 - dd-wrt has an app for that!
 - Set router to reboot every sunday at 4am
+- *bliss*
