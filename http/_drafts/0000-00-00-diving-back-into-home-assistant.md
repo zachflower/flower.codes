@@ -1,5 +1,5 @@
 ---
 layout: post
 title: Diving Back into Home Assistant
-date: 0000-00-00 00:00:00
+date: 9999-01-01 12:00:00
 ---

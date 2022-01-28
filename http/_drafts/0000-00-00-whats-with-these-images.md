@@ -11,7 +11,7 @@ date: 9999-01-01 12:00:00
 ## H... How?
 
 ```sh
-convert image.jpg -verbose -format GIF -interlace GIF -resize 640\> -colorspace gray -colors 4 -ordered-dither 8x8 -set filename:f "%[t]-degraded" "%[filename:f].gif"
+convert image.jpg -verbose -format GIF -interlace GIF -resize 640\> -colorspace gray -colors 4 -ordered-dither h8x8a -set filename:f "%[t]-degraded" "%[filename:f].gif"
 ```
 
 ```html
