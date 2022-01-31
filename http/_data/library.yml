@@ -768,3 +768,8 @@ entries:
     isbn: "0679444815"
     read: true
     started: 2022-01-31
+
+  - title: Norse Mythology
+    author: Neil Gaiman
+    isbn: "039360909X"
+    started: 2022-01-31
