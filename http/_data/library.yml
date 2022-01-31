@@ -762,3 +762,9 @@ entries:
     started: 2022-01-19
     finished: 2022-01-31
     recommended: true
+
+  - title: Timeline
+    author: Michael Crichton
+    isbn: "0679444815"
+    read: true
+    started: 2022-01-31
