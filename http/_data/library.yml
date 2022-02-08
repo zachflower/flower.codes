@@ -791,6 +791,7 @@ entries:
     author: Elaine Pagels
     isbn: "0679724532"
     started: 2022-02-02
+    abandoned: 2022-02-07
 
   - title: Emergency
     author: Neil Strauss
@@ -810,3 +811,9 @@ entries:
     isbn: "0735213615"
     started: 2022-02-06
     finished: 2022-02-07
+    recommended: true
+
+  - title: Peace Is Every Breath
+    author: Thich Nhat Hanh
+    isbn: "0062005820"
+    started: 2022-02-07
