@@ -833,4 +833,5 @@ entries:
   - title: Call of Cthulhu
     author: H.P. Lovecraft
     isbn: "9798669574079"
+    source: amazon
     started: 2022-02-10

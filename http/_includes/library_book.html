@@ -16,13 +16,27 @@
 
         {{title}} by {{author}}
     {%- else -%}
-        {%- assign query = book.title | prepend: '"' | append: '"' -%}
+        {%- if book.url -%}
+            {%- assign source_url = book.url -%}
+        {%- else -%}
+            {%- assign query = book.title | prepend: '"' | append: '"' -%}
 
-        {%- if book.isbn -%}
-            {%- assign query = book.isbn -%}
+            {%- if book.isbn -%}
+                {%- assign query = book.isbn -%}
+            {%- endif -%}
+
+            {%- assign query = query | url_encode -%}
+
+            {%-if book.source == 'amazon' -%}
+                {%- assign source_url = 'https://www.amazon.com/s?i=stripbooks&k=' | append: query -%}
+            {%- elsif book.source == 'goodreads' -%}
+                {%- assign source_url = 'https://www.goodreads.com/search?q=' | append: query -%}
+            {%- else -%}
+                {%- assign source_url = 'https://www.thriftbooks.com/browse/?b.search=' | append: query -%}
+            {%- endif -%}
         {%- endif -%}
 
-        <a href='https://www.thriftbooks.com/browse/?b.search={{query | url_encode}}' target="_blank">{{book.title}}{% if book.series and book.number %} ({{book.series}} #{{book.number}}){% endif %}</a> by {{book.author}}
+        <a href='{{source_url}}' target="_blank">{{book.title}}{% if book.series and book.number %} ({{book.series}} #{{book.number}}){% endif %}</a> by {{book.author}}
     {%- endif -%}
 {%- endcapture -%}
 
