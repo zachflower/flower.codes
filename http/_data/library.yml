@@ -774,6 +774,7 @@ entries:
     author: Neil Gaiman
     isbn: "039360909X"
     started: 2022-01-31
+    finished: 2022-02-12
 
   - title: Superconnector
     author: Scott Gerber and Ryan Paugh
@@ -835,3 +836,8 @@ entries:
     isbn: "9798669574079"
     source: amazon
     started: 2022-02-10
+
+  - title: Ikigai
+    author: Hector Garcia & Francesc Miralles
+    isbn: "0143130722"
+    started: 2022-02-11
