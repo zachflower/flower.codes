@@ -830,6 +830,8 @@ entries:
     author: Kim Scott
     isbn: "1250235375"
     started: 2022-02-10
+    finished: 2022-02-13
+    recommended: true
 
   - title: Call of Cthulhu
     author: H.P. Lovecraft

@@ -29,6 +29,21 @@
 		"prefix": "finished",
 		"body": "finished: $CURRENT_YEAR-$CURRENT_MONTH-$CURRENT_DATE"
 	},
+	"Mark book as abandoned": {
+		"scope": "yaml,yml",
+		"prefix": "abandoned",
+		"body": "abandoned: $CURRENT_YEAR-$CURRENT_MONTH-$CURRENT_DATE"
+	},
+	"Mark book as recommended": {
+		"scope": "yaml,yml",
+		"prefix": "recommend",
+		"body": "recommended: true"
+	},
+	"Mark book as read": {
+		"scope": "yaml,yml",
+		"prefix": "read",
+		"body": "read: true"
+	},
 	"Blog post frontmatter": {
 		"scope": "md,markdown",
 		"prefix": "post",
