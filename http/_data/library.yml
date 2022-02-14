@@ -844,8 +844,14 @@ entries:
     author: Hector Garcia & Francesc Miralles
     isbn: "0143130722"
     started: 2022-02-11
+    finished: 2022-02-14
 
   - title: Where the Deer and the Antelope Play
     author: Nick Offerman
     isbn: "1101984694"
     started: 2022-02-13
+
+  - title: Raising Good Humans
+    author: Hunter Clarke-Fields
+    isbn: "1684033888"
+    started: 2022-02-14
