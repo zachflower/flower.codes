@@ -856,3 +856,8 @@ entries:
     isbn: "1684033888"
     started: 2022-02-14
     finished: 2022-02-15
+
+  - title: The Magicians
+    author: Lev Grossman
+    isbn: "0670020559"
+    started: 2022-02-15
