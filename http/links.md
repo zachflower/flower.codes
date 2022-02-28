@@ -38,3 +38,4 @@ Well, consider this my own treasure map. It's a place for me to share the places
 - [Screenshots from developers & Unix people (2002)](https://anders.unix.se/2015/10/28/screenshots-from-developers--unix-people-2002/) the title should say it all
 - [When Sysadmins Ruled the Earth](https://craphound.com/overclocked/Cory_Doctorow_-_Overclocked_-_When_Sysadmins_Ruled_the_Earth.html) great short story by Cory Doctorow
 - [blog.txt](https://www.curiositry.com/blog.txt) the most minimal blogging platform in the known universe
+- [Tech, Industry](https://notebook.wesleyac.com/tech-industry/) well-written article about techlash

@@ -31,8 +31,12 @@
                 {%- assign source_url = 'https://www.amazon.com/s?i=stripbooks&k=' | append: query -%}
             {%- elsif book.source == 'goodreads' -%}
                 {%- assign source_url = 'https://www.goodreads.com/search?q=' | append: query -%}
-            {%- else -%}
+            {%- elsif book.source == 'thriftbooks' -%}
                 {%- assign source_url = 'https://www.thriftbooks.com/browse/?b.search=' | append: query -%}
+            {%- elsif book.source == 'barnesandnoble' -%}
+                {%- assign source_url = 'https://www.barnesandnoble.com/s/' | append: query -%}
+            {%- else -%}
+                {%- assign source_url = 'https://bookshop.org/books?keywords=' | append: query -%}
             {%- endif -%}
         {%- endif -%}
 
