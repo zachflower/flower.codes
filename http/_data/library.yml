@@ -875,3 +875,8 @@ entries:
     started: 2022-02-26
     finished: 2022-02-27
     recommended: true
+
+  - title: The Second Mountain
+    author: David Brooks
+    isbn: "0812993268"
+    started: 2022-03-01
