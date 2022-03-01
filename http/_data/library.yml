@@ -866,6 +866,8 @@ entries:
     author: Viktor E. Frankl
     isbn: "1416524282"
     started: 2022-02-16
+    finished: 2022-03-01
+    recommended: true
 
   - title: Practical Doomsday
     author: Michal Zalewski
