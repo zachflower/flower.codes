@@ -281,6 +281,7 @@ entries:
     isbn: "0316069884"
     started: 2021-03-31
     finished: 2021-04-10
+    recommended: true
 
   - title: Coding Democracy
     author: Maureen Webb
