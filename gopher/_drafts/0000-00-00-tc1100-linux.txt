@@ -4,15 +4,15 @@ title: "Installing Linux on an HP TC1100 Tablet Computer"
 date: 9999-01-01 12:00:00
 ---
 
-32-bit isos are starting to drop off the map (Lubuntu, for example, doesn't offer one anymore, and Bodhi's is a version behind).
+32-bit isos are starting to drop off the map (Lubuntu, for example, doesn't offer one anymore, and Bodhi's is currently a version behind).
 
-# Bodhi Linux 5.1.0
+>>> Attempt #1: Bodhi Linux 5.1.0
 
 - _Everything_ worked out of the box (pen, wifi, etc), even in the installer
 - Browser was unusable (most sites simply didn't load, even with JS turned off)
 - UI is _ugly_
 
-# Debian 11
+>>> Attempt #2: Debian 11
 
 - Wifi (ipw2100-1.3.fw) didn't work
 - Pen didn't work
@@ -20,7 +20,7 @@ date: 9999-01-01 12:00:00
 - After installation is completed, pen works (yay), no wifi though
 - Included Firefox is so slow it's practically unusable
 
-# Gentoo
+>>> Attempt #3: Gentoo
 
 - Decided to make my life more difficult (and reminisce while I'm at it)
 - DHCP still didn't work out of the gate, but manual config worked again
