@@ -29,3 +29,10 @@ date: 9999-01-01 12:00:00
 - ... now that I think about it, I think it took _3_ days to install Gentoo the first time around (granted, that was 20 years ago)
 - Alright, updating th `@world` set froze at some point in the middle of the night. Rebooting, rechrooting, resyncing, and trying again. Hopefully it'll pick up where it left off...
 - ... yay, it did.
+- And it failed again after trying to compile rust for 30 hours
+
+>>> Attempt #4: Slackware
+
+>>> Attempt #5: Damn Small Linux
+
+>>> Attempt #6: Q4OS
