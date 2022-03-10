@@ -1,0 +1,83 @@
+---
+layout: post
+title: "Installing Linux on an HP TC1100 Tablet Computer"
+date: 2022-03-10 15:55:39
+---
+
+A few days ago, I found my old HP TC1100 [[https://support.hp.com/us-en/document/c00231870]] tablet computer in storage and decided to see how it held up in the decade and a half since I last used it.
+
+My daily driver back in college, this thing was the definition of a tablet computer before Apple swooped in and pretended to invent them in the form if the iPad (of which I also have and love several, before you accuse me of bias). If you haven't seen one of these things before, here's the abridged specifications:
+
+- 60GB HDD
+- 800MHz Ultra-Low Voltage Intel Celeron Processor
+- 1.25GB RAM
+- NVIDIA GeForce 4 Go 420
+- Wifi (a/b/g)
+- Bluetooth (yay)
+- Oh, there's also a "digital" stylus (meaning this baby isn't a touch screen, but one of those pre-iPad Wacom-style tablet computers)
+
+As far as specs go, it leaves a lot to be desired, but Windows XP Tablet PC Edition was pretty resource conservative, so it didn't *feel* like a problem. I could listen to music, take notes, and write papers on it on campus, and I always had a more powerful desktop at home if I really needed to do something more resource intensive.
+
+While it booted up fine, and worked as well as I remember it working, I decided to see what running Linux on it looks like in 2022. Surely the drivers and other support has improved in the nearly two decades it has been since it was released... right?
+
+As a quick note, 32-bit isos are starting to drop off the map (Lubuntu, for example, doesn't offer one anymore, and Bodhi's is currently a version behind), which means that my choices for operating systems are relatively limited (although not nonexistent).
+
+Over the course of several days, I downloaded a handful of *current* 32-bit ISOs from various Linux distributions and gave each of them a go. My notes below are pretty scattered, but I'll leave them *as-is* and reflect on what I learned at the end.
+
+For the record, I was looking for a mostly decent out-of-box experience here. I've been using Linux long enough that I know how to follow the infinite-tweaking rabbit hole down to the center of Hell, but the goal was to use this thing in a modern environment without spending a lot of time with setup and maintenance, rather than as another retro box.
+
+>>> Attempt #1: Bodhi Linux 5.1.0
+
+- *Everything* except the specialty features (buttons, brightness control, "pen" hotspots) worked out of the box (pen, wifi, etc), even in the installer
+- Browser was unusable (most sites simply didn't load, even with JS turned off)
+- UI is *ugly*
+
+>>> Attempt #2: Debian 11
+
+- Wifi (ipw2100-1.3.fw) didn't work
+- Wired network auto-configuration failed, had to go with manual configuration
+- Pen works (yay), no wifi though, and the previous specialty features still didn't work
+- Included Firefox is so slow it's completely unusable
+
+>>> Attempt #3: Gentoo
+
+- Decided to make my life more difficult (and reminisce while I'm at it)
+- DHCP still didn't work out of the gate, but manual config worked again
+- Live CD *did* pick up the wifi module, though
+- I forgot how long this process takes...
+- ... now that I think about it, I think it took *3* days to install Gentoo the first time around (granted, that was 20 years ago)
+- Alright, updating the `@world` set froze at some point in the middle of the night. Rebooting, rechrooting, resyncing, and trying again. Hopefully it'll pick up where it left off...
+- ... yay, it did.
+- And it failed again after trying to compile rust for 36 hours
+
+>>> Attempt #4: Q4OS 4.7
+
+- Hah, there is a "NO questions, FULL automated installation" option
+- Going to go with "Classic install," though
+- Oh hey, the installer wizard isn't graphical, that's a nice change of pace, feels *super* responsive in comparison to the Debian and Bodhi installers
+- Install complete!
+- Pen works, sound works
+- Wifi detected but all connections time out
+- Konquerer browser installed by default, which works just great
+- Specialty hardware features are a bust again
+
+>>> Attempt #5: Void Linux
+
+- Damn thing wouldn't even boot
+
+>>> Attempt #6: antiX 21
+
+- Fastest boot into installation media so far
+- Fastest installation process by far
+- Pen works, wifi works
+- Firefox works, but is painfully slow, replaced with the non-SSE2 version of Palemoon
+- Overall the most positive experience, and the distro I would use if the specialty features could be configured
+- I *did* fall down the rabbit hole at this point and spent some significant energy trying to get the extra buttons, rocker, tablet hotspots, keyboard rotation, and screen rotation working and made almost zero headway
+
+>>> Final Attempt: Windows XP (Tablet PC Edition)
+
+So, despite almost 20 years of lead-time, Linux is still practically unusable on this thing. Part of it is the relative obsolescence of the hardware itself. Modern versions of Linux simply no longer support some of the hardware in the same way it was only 10 years ago. Even the kernel-level functionality for changing brightness and stuff simply no longer works.
+
+I'm sure with some effort I could upgrade some of the old advice for getting Linux running on it, but it's honestly not worth the effort. In the end, Windows XP Tablet PC Edition runs the best and provides the most acceptable user experience, so it's what I'll be going with.
+
+Looks like I'm stuck with another nostalgia machine after all (albeit a pretty awesome one).
