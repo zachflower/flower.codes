@@ -888,6 +888,7 @@ entries:
     author: Grant Cardone
     isbn: "0470627603"
     started: 2022-03-08
+    finished: 2022-03-15
 
   - title: Narconomics
     author: Tom Wainwright
@@ -899,3 +900,10 @@ entries:
     author: Cal Newport
     isbn: "9781455586691"
     started: 2022-03-14
+    finished: 2022-03-14
+    recommended: true
+
+  - title: How to Kill a City
+    author: P.E. Moskowitz
+    isbn: "1568585233"
+    started: 2022-03-15
