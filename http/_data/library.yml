@@ -863,6 +863,7 @@ entries:
     author: Lev Grossman
     isbn: "0670020559"
     started: 2022-02-15
+    finished: 2022-03-18
 
   - title: Man's Search for Meaning
     author: Viktor E. Frankl
@@ -907,3 +908,10 @@ entries:
     author: P.E. Moskowitz
     isbn: "1568585233"
     started: 2022-03-15
+
+  - title: The Last Shadow
+    series: Ender's Saga
+    number: 6
+    author: Orson Scott Card
+    isbn: "0765304953"
+    started: 2022-03-18
