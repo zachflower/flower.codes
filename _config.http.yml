@@ -34,7 +34,7 @@ disable_disk_cache: true
 
 uncommonmark:
   options: ["FOOTNOTES"]
-  extensions: []
+  extensions: ['strikethrough']
 
 sass:
   style: compressed
