@@ -111,13 +111,11 @@ module Jekyll
           end
 
           def paragraph(node)
-            align = 'justify'
-
             if @in_tight && node.parent.type != :blockquote
               out(:children)
             else
               block do
-                container("<p#{sourcepos(node)} align=\"#{align}\">", '</p>') do
+                container("<p#{sourcepos(node)}>", '</p>') do
                   out(:children)
                   if node.parent.type == :footnote_definition && node.next.nil?
                     out(' ')
