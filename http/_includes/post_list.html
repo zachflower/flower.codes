@@ -4,33 +4,59 @@
   {% assign posts = site.posts %}
 {% endif %}
 
+{% capture current_year %}{{"now" | date: "%Y"}}{% endcapture %}
+{% assign opened_list = false %}
+
 {% for post in posts  %}
     {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
     {% capture this_month %}{{ post.date | date: "%B" }}{% endcapture %}
-    {% capture next_year %}{{ post.previous.date | date: "%Y" }}{% endcapture %}
-    {% capture next_month %}{{ post.previous.date | date: "%B" }}{% endcapture %}
 
-    {% if forloop.first %}
-      <h3 id="{{ this_year }}-ref">{{this_year}}</h3>
-      <h4 id="{{ this_month }}-ref">{{this_month}}</h4>
+    {% unless include.archive %}
+      {% if this_year != current_year %}
+        {% continue %}
+      {% endif %}
+    {% endunless %}
+
+    {% unless opened_list %}
+      {% assign opened_list = true %}
+
+      {% if include.archive %}
+        <h3 id="{{ this_year }}-ref">{{this_year}}</h3>
+      {% else %}
+        <h4 id="{{ this_month }}-ref">{{this_month}}</h4>
+      {% endif %}
+
       <ul>
-    {% endif %}
+    {% endunless %}
 
     <li><a href="{{ post.url }}">{{ post.title }}</a>{% if post.source %}<small><nobr> :: {{post.source}}</nobr></small>{% endif %}</li>
 
-    {% if forloop.last %}
+    {% capture next_year %}{{ post.previous.date | date: "%Y" }}{% endcapture %}
+    {% capture next_month %}{{ post.previous.date | date: "%B" }}{% endcapture %}
+
+    {% if this_year != next_year %}
+      {% unless include.archive %}
+        {% if next_year != current_year %}
+          {% break %}
+        {% endif %}
+      {% endunless %}
+
       </ul>
-    {% else %}
-      {% if this_year != next_year %}
-        </ul>
-        <br /><hr width="25%" size="1" noshade="">
-        <h3 id="{{ next_year }}-ref">{{next_year}}</h3>
-        <ul>
-      {% endif %}
+      <h3 id="{{ next_year }}-ref">{{next_year}}</h3>
+      <ul>
+    {% endif %}
+
+    {% unless include.archive %}
       {% if this_month != next_month %}
         </ul>
         <h4 id="{{ next_month }}-ref">{{next_month}}</h4>
         <ul>
       {% endif %}
-    {% endif %}
+    {% endunless %}
 {% endfor %}
+
+{% if opened_list %}
+  </ul>
+{% else %}
+  <p><i>None so far this year :(</i></p>
+{% endif %}
