@@ -34,11 +34,34 @@ So, how do we bring those no-`Host` rebels into the fold? A second IP.
 
 Thankfully, DigitalOcean offers a handful of free floating IPs that you can assign to a single droplet, which means that [flower.codes](http://flower.codes) has it's own dedicated IP address in order to appease those picky, early 90's Windows computers. With a [little bit of overhead](https://docs.digitalocean.com/products/networking/floating-ips/how-to/find-anchor-ips/), you can simply set your server to listen on the float IP, so _any_ request to that particular IP will fall back to your website.
 
+I use the [Caddy](https://caddyserver.com/) webserver, so to accomplish an HTTP fallback that will be returned on every request (unless a valid `host` entry can be matched), simply use `http://` as the site address:
+
+```
+http:// {
+  root * /www/example.com
+  file_server
+}
+```
+
 ### No Automatic HTTPS
 
 To be absolutely clear here, I am _not_ advocating for not supporting HTTPS. It's 2022. That would be absurd. But, what I am advocating for is _not automatically redirecting_ to HTTPS. Get your certs, encrypt that traffic, do all the things you normally do... just don't force an HTTP => HTTPS redirect on your users.
 
 Don't get me wrong, HTTPS is critical for modern website security, but all modern browsers automatically redirect to HTTPS whether you enforce it or not. What this means is that retro browsers can still load your website in good-ole HTTP, while newer browsers will handle the more secure redirection to HTTPS for you.
+
+If you're using the [Caddy](https://caddyserver.com/) webserver, this is as simple as creating two separate server entries, one with an `http://` prefix, and one with an `https://` prefix:
+
+```
+http://example.com {
+  root * /www/example.com
+  file_server
+}
+
+https://example.com {
+  root * /www/example.com
+  file_server
+}
+```
 
 ### Raw HTML is Your Friend
 
