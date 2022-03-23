@@ -61,7 +61,7 @@ jobs:
         with:
           switches: -avzr --delete
           path: _http/
-          remote_path: /opt/stack/volumes/caddy/web/flower.codes/
+          remote_path: /opt/stack/volumes/caddy_flower/web/flower.codes/
           remote_host: crlf.wtf
           remote_user: deploy
           remote_key: ${{ secrets.SSH_KEY }}
