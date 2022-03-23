@@ -102,6 +102,26 @@ Most applications focus on desaturating the image and inserting strategic whites
 
 ![Black and white picture of an old abandoned chicken coop](/assets/posts/chicken-coop.jpg)
 
+In case you want to accomplish the same thing on your own website, here is the shell script I use to "degrade" all of my images using the [ImageMagick](https://imagemagick.org/) command line interface:
+
+```bash
+#!/bin/bash
+
+pushd ./http/assets/posts/
+
+for f in *.jpg; do
+    if [ -f "${f%.jpg}-degraded.gif" ]; then
+        continue
+    fi
+
+    echo "Converting $f to gif"
+
+    convert "${f}" -verbose -format GIF -interlace GIF -resize 640\> -colorspace gray -colors 4 -ordered-dither 8x8 -set filename:f "%[t]-degraded" "%[filename:f].gif"
+done
+```
+
+As you can see, it enters the `http/assets/posts` directory and degrades (resizes, dithers, and desaturates) all `.jpg` images using the ImageMagick `convert` command, appending a `-degraded.gif` suffix to them (thus preserving the original image).
+
 ### No JavaScript
 
 Just... No.
