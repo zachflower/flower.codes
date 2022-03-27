@@ -1,6 +1,6 @@
 ---
 layout: post
-title: User Experience Anti-Patterns I'm Getting Tired Of
+title: User Experience Anti-Patterns I'm Getting Sick Of
 date: 9999-01-01 12:00:00
 ---
 
