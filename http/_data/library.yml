@@ -916,3 +916,8 @@ entries:
     isbn: "0765304953"
     started: 2022-03-18
     finished: 2022-03-27
+
+  - title: In the Beginning was the Command Line
+    author: Neal Stephenson
+    url: "http://project.cyberpunk.ru/lib/in_the_beginning_was_the_command_line/"
+    started: 2022-03-28
