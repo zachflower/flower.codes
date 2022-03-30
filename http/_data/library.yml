@@ -921,3 +921,9 @@ entries:
     author: Neal Stephenson
     url: "http://project.cyberpunk.ru/lib/in_the_beginning_was_the_command_line/"
     started: 2022-03-28
+
+  - title: The Art of War
+    author: Sun Tzu
+    url: http://classics.mit.edu/Tzu/artwar.html
+    started: 2022-03-29
+    finished: 2022-03-30
