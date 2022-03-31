@@ -928,3 +928,13 @@ entries:
     url: http://classics.mit.edu/Tzu/artwar.html
     started: 2022-03-29
     finished: 2022-03-30
+
+  - title: The Little Book of Stoicism
+    author: Jonas Salzgeber
+    isbn: "3952506907"
+    started: 2022-03-30
+
+  - title: As a Man Thinketh
+    author: James Allen
+    url: https://www.gutenberg.org/ebooks/4507
+    started: 2022-03-31
