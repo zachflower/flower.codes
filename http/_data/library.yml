@@ -940,3 +940,9 @@ entries:
     started: 2022-03-31
     finished: 2022-03-31
     recommended: true
+
+  - title: The 4-Hour Body
+    author: Timothy Ferriss
+    isbn: "9780307704610"
+    read: true
+    started: 2022-03-31
