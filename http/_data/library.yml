@@ -740,7 +740,7 @@ entries:
 
   - title: The Complete Fables
     author: Aesop
-    isbn: "0140446494"
+    url: https://www.gutenberg.org/ebooks/21
     started: 2022-01-15
 
   - title: The Bullet Journal Method
@@ -758,7 +758,7 @@ entries:
 
   - title: Siddhartha
     author: Hermann Hesse
-    isbn: "0553208845"
+    url: https://www.gutenberg.org/ebooks/2500
     read: true
     started: 2022-01-19
     finished: 2022-01-31
