@@ -41,7 +41,7 @@ surgically attached to my hand.
 The thing is, I'm starting to realize that the problem isn't the device, but
 rather it's lack of defined purpose. Back in my day (ugh), a phone was just a
 phone, the TV delivered most of my video entertainment, the internet was quite
-literally chained to the family computer, and music came on tapes, then CD's, and
+literally chained to the family computer, and music came on tapes, then CDs, and
 (when we got really fancy) MP3 players.
 
 You know what all these things have in common?
