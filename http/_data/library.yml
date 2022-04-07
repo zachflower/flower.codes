@@ -947,3 +947,8 @@ entries:
     isbn: "9780307704610"
     read: true
     started: 2022-03-31
+
+  - title: Amp It Up
+    author: Frank Slootman
+    isbn: "1119836115"
+    started: 2022-04-06
