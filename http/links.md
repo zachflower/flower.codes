@@ -15,6 +15,7 @@ Well, consider this my own treasure map. It's a place for me to share the places
 - [~manu](https://manuelmoreale.com/) great writer, thought-provoking content
 - [~brandon](https://brandonsjournal.neocities.org/) a fellow 90's kid, forever missing the past
 - [~eric](https://ericexperiment.com/) retro computing overload
+- [~nikita](https://wiki.nikitavoloboev.xyz/) a personal wiki to get *completely* lost in
 
 ## Resources
 
