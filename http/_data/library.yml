@@ -953,3 +953,8 @@ entries:
     isbn: "1119836115"
     started: 2022-04-06
     finished: 2022-04-07
+
+  - title: The Dilbert Principle
+    author: Scott Adams
+    isbn: "0887307876"
+    started: 2022-04-07
