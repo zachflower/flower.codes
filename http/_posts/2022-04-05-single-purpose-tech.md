@@ -15,7 +15,7 @@ person at all times that I crossed whole-hog into the land of addiction.
 But, I'm not alone. I know this.
 
 Having access to the world's information (and misinformation) at the touch of a
-button (or, more conveniently, the swipe of a finger) has cultivated in me a 
+button (or, more conveniently, the swipe of a finger) has cultivated in me a
 slowly depleting attention span, hair-trigger emotional response, and a general
 sense of unease about the "real" world.
 
@@ -35,7 +35,7 @@ technology simply does *too fucking much* to be healthy.
 Don't get me wrong, I love the internet (or, at least, I love what the internet
 represents), but I reveled in the excitement of technology for the first 25 years
 of my life without devolving into a tightly wrapped ball of anxiety that spent
-an embarassing amount of my waking hours hours staring at the glowing rectangle
+an embarrassing amount of my waking hours hours staring at the glowing rectangle
 surgically attached to my hand.
 
 The thing is, I'm starting to realize that the problem isn't the device, but
@@ -49,7 +49,7 @@ You know what all these things have in common?
 They each *do one thing, and do it well*.
 
 Over the last few months, I've started falling back in love with my single-purpose
-tech. If I'm not reading a physical book, I reach for the e-reader rather than 
+tech. If I'm not reading a physical book, I reach for the e-reader rather than
 the tablet. The television is the destination for entertainment again, not my
 phone. I make an effort to listen to music on dedicated devices with intention,
 instead of always going straight to \<insert streaming service here\>. I even
@@ -58,13 +58,15 @@ than a terminal and `vim` installed. I can't replace *everything* in my life wit
 single-purpose solutions, but I am sure as hell trying to be more intentional in
 my choice of tooling.
 
-While I've good and kicked my doomscrolling habit thanks to content blockers, 
-life hacks, and some self-discipline, the smartphone is still an everpresent
+While I've good and kicked my doomscrolling habit thanks to content blockers,
+life hacks, and some self-discipline, the smartphone is still an ever-present
 threat to my inner peace. It's always there, begging to be picked up and used.
 Only by putting it in a drawer and walking out of the damn room can I silence its
 siren song, which is great, but makes owning a phone effectively useless.
 
-And, you know what? There's almost no middle ground anymore. You can't just *own
+And, you know what?
+
+There's almost no middle ground anymore. You can't just *own
 a phone*. Believe me, I've tried. I spent the better part of the summer of 2021
 with nothing but a Nokia feature phone, and it was *almost* great. You know what
 you can't do without a smartphone in the 2020's? Pay for parking, pick your kids
