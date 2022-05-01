@@ -986,4 +986,5 @@ entries:
   - title: The Essential Guide to Freelance Writing
     author: Zachary Petit
     isbn: "9781599639055"
+    read: true
     started: 2022-05-01
