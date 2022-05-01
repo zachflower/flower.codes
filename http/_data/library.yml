@@ -980,3 +980,10 @@ entries:
     author: Stephen King
     isbn: "0671024256"
     started: 2022-04-28
+    finished: 2022-05-01
+    recommended: true
+
+  - title: The Essential Guide to Freelance Writing
+    author: Zachary Petit
+    isbn: "9781599639055"
+    started: 2022-05-01
