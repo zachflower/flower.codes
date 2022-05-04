@@ -4,7 +4,7 @@ title: "Adding Custom Global Arguments to Artisan Commands"
 date: 2022-05-04 13:51:53
 ---
 
-I love Laravel.
+I love [Laravel](https://laravel.com/).
 
 As a PHP developer with a history of working in everything from WordPress to CodeIgniter, when Laravel came on the scene it was a revelation. From the design to the usability, it is an absolutely top-notch framework that contains untold depths of power.
 
@@ -29,7 +29,7 @@ But, what if we wanted to add _our own_ options and arguments?
 
 ## A Wild Problem Has Appeared!
 
-I've always been a pretty big fan of Heroku for both its power and ease-of-use—okay, maybe not so much lately thanks to how poorly they've communicated their most recent security incident, but _historically_ I've been a fan.
+I've always been a pretty big fan of [Heroku](https://www.heroku.com/) for both its power and ease-of-use—okay, maybe not so much lately thanks to how poorly they've communicated their most recent [security incident](https://www.theregister.com/2022/05/04/heroku_security_communication_dubbed_complete/), but _historically_ I've been a fan.
 
 One of Heroku's most frustrating drawbacks, though, is how limited the Scheduler is. A kind of half-assed cron, [Heroku's Scheduler](https://devcenter.heroku.com/articles/scheduler) allows you to run any command on 10-minute, 1-hour, or 1-day intervals, which is _kind of_ useful, but also woefully insufficient for many different types of jobs.
 
