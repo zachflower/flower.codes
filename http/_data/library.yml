@@ -990,3 +990,13 @@ entries:
     read: true
     started: 2022-05-01
     finished: 2022-05-02
+
+  - title: How to Do Nothing
+    author: Jenny Odell
+    isbn: "1612198554"
+    started: 2022-05-03
+
+  - title: "X-Men: God Loves, Man Kills"
+    author: Chris Claremont and Brent Anderson
+    isbn: "0785157263"
+    started: 2022-05-04
