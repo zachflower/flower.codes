@@ -21,3 +21,7 @@ Now, don't get me wrong, I'm not against the existence of smartphones. They are 
 I want to be able to _not_ have my phone on me, if I so choose. I want the battery to be allowed to die. I want the chance to be "disconnected" for as long and as often as I want. I want to be able to exist in the world without all the apps and barcodes and notifications and other mandatory distractions inflicted by the glowing black rectangle in my pocket.
 
 Is that too much to ask?
+
+---
+
+This is post 004 of [#100DaysToOffload](https://100daystooffload.com/)

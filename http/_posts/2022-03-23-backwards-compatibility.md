@@ -170,3 +170,7 @@ Finally, for all of the _other_ browsers you may want to test (think Safari, Fir
 It's important to remember that this is an experiment that I'm running in relative isolation. There aren't exactly a ton of resources out there for providing value to aging systems beyond "recycle it" or "install Linux on it," so what I've learned has been a long series of trial and error.
 
 If you happen to read this and have some of your own tips, please shoot me an email. I'd love to hear from you!
+
+---
+
+This is post 001 of [#100DaysToOffload](https://100daystooffload.com/)

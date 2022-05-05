@@ -87,3 +87,7 @@ At the time, I was leading development at a digital agency, which meant I create
 Clearly I haven't made _that_ big of a dent in my open source contributions. As you can tell, the big ones tapered off around early 2018 (which happens to be just shortly after my second child was born). That said, I still try to look for opportunities to contribute when and where I can (despite having very little time to do so).
 
 But, enough about me. Do you happen to have your own open source bucket list, and if so what is on it? Shoot me an email or (if the platform you are reading this on allows it) drop a comment in. I'd love to hear from you!
+
+---
+
+This is post 007 of [#100DaysToOffload](https://100daystooffload.com/)

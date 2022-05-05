@@ -73,3 +73,7 @@ you can't do without a smartphone in the 2020's? Pay for parking, pick your kids
 up from school, or read a damned restaurant menu.
 
 But that's a problem for another post.
+
+---
+
+This is post 002 of [#100DaysToOffload](https://100daystooffload.com/)

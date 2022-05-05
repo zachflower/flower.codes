@@ -30,3 +30,7 @@ To state the obvious, this philosophy applies to more than just computers. Cars,
 But, here's the secret: we don't.
 
 Most things are only as obsolete as we _think_ they are, not what the manufacturer _tells us_ they are. Even when "official" support ends, there are alternatives that can extend the lifespan of _anything_. Firmware, operating systems, hardware upgrades... there are aftermarket solutions for everything you have, all it takes is a little effort and the right mindset to squeeze every last ounce of value out of something.
+
+---
+
+This is post 003 of [#100DaysToOffload](https://100daystooffload.com/)
