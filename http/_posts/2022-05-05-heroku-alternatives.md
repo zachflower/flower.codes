@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "A Few Heroku Alternatives"
-date: 9999-01-01 12:00:00
+date: 2022-05-05 06:07:49
 ---
 
 Heroku's been taking it on the chin lately for their response to what looks to be a pretty-damn-serious security incident—and for good reason, because [their communication](https://www.theregister.com/2022/05/04/heroku_security_communication_dubbed_complete/) about the whole event has been _abysmal_.
 
-Personally, this is a pretty big letdown, because I've been riding the [Heroku train](https://flower.codes/2016/06/28/cloudflare-laravel-heroku.html) for quite some time. As a software developer with a history of working for teeny-tiny startups (on top of a fair amount of freelancing), Heroku's platform-as-a-service solution (PaaS for all you cool kids out there) has been a lifesaver.
+Personally, this is a pretty big letdown, because I've been riding the [Heroku train](https://flower.codes/2016/06/28/cloudflare-laravel-heroku.html) for quite some time. As a software developer with a history of working for teeny-tiny startups (in addition to a fair amount of freelancing), Heroku's platform-as-a-service solution—PaaS for all the cool kids out there—has been a lifesaver.
 
 When you're crunched for time and resources, offloading things like server maintenance, security, database management, and all the other _tasks_ that accompany running a software company is incredibly valuable; and Heroku's add-on marketplace is just icing on the cake.
 
@@ -14,7 +14,7 @@ Trust me, there's nothing more satisfying than spinning up all the internal and 
 
 ## Heroku Alternatives
 
-Buut... all of that is gone now. It has been outweighed by a complete and total lack of trust in a company that I've historically put a _lot_ of trust in. As a result, I've been exploring a few Heroku alternatives that are all _relatively_ new to the PaaS space.
+Buut... all of that is gone now. It has been outweighed by a complete and total lack of trust in a company that I've historically put a _lot_ of trust in. As a result, I've been exploring a few Heroku alternatives that are all _relatively_ new to the PaaS space (or, at least, relatively new to _me_).
 
 To be clear, I'm skipping the most well-known solutions like [DigitalOcean](https://m.do.co/c/a8eb87aea1f2)'s App Platform and [Google Cloud](https://cloud.google.com/)'s App Engine, because I think most people are already aware of them, so flogging that particular horse is probably just a waste of bits and bytes.
 
