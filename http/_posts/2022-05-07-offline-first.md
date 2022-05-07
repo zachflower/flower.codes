@@ -37,3 +37,7 @@ Somewhere between smart phones and smart fridges, we lost the plot. Nobody _need
 To paraphrase an oft-quoted scene from Jurassic Park, **"our scientists were so preoccupied with whether or not they could, they didn’t stop to think if they should."**
 
 It's taken me a while to get here, but thanks to the ubiquity of data-hungry and privacy-invasive platforms, I have started to default to an offline-first stance when judging the value of technology. Don't get me wrong, there really _is_ value to be found on Ye Olde Interwebs, but it should be used as a tool, not a way of life.
+
+--
+
+_This is post 008 of [#100DaysToOffload](https://100daystooffload.com/)_

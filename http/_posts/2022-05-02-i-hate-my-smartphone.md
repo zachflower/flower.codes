@@ -22,6 +22,6 @@ I want to be able to _not_ have my phone on me, if I so choose. I want the batte
 
 Is that too much to ask?
 
----
+--
 
 This is post 004 of [#100DaysToOffload](https://100daystooffload.com/)

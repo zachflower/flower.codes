@@ -171,6 +171,6 @@ It's important to remember that this is an experiment that I'm running in relati
 
 If you happen to read this and have some of your own tips, please shoot me an email. I'd love to hear from you!
 
----
+--
 
 This is post 001 of [#100DaysToOffload](https://100daystooffload.com/)

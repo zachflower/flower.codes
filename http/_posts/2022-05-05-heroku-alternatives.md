@@ -56,6 +56,6 @@ Obviously, there are a hell of a lot more platform-as-a-service providers out th
 
 If these don't quite fit with your needs and are looking for more options to try, take a look at this [Awesome-PaaS list](https://github.com/debarshibasak/awesome-paas). There are some great solutions available.
 
----
+--
 
 This is post 006 of [#100DaysToOffload](https://100daystooffload.com/)
