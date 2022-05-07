@@ -40,3 +40,4 @@ Well, consider this my own treasure map. It's a place for me to share the places
 - [When Sysadmins Ruled the Earth](https://craphound.com/overclocked/Cory_Doctorow_-_Overclocked_-_When_Sysadmins_Ruled_the_Earth.html) great short story by Cory Doctorow
 - [blog.txt](https://www.curiositry.com/blog.txt) the most minimal blogging platform in the known universe
 - [Tech, Industry](https://notebook.wesleyac.com/tech-industry/) well-written article about techlash
+- [Lacero](http://www.galactanet.com/oneoff/lacero.html) great Ready Player One fan fiction by Andy Weir

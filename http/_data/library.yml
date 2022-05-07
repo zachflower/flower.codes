@@ -1007,3 +1007,9 @@ entries:
     author: Roberto Aguirre-Sacasa and Francesco Francavilla
     isbn: "1619889080"
     started: 2022-05-05
+
+  - title: Lacero
+    author: Andy Weir
+    url: "http://www.galactanet.com/oneoff/lacero.html"
+    started: 2022-05-06
+    finished: 2022-05-06
