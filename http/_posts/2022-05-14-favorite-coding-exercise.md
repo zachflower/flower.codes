@@ -42,7 +42,7 @@ When I run this exercise, the last thing I care about is whether or not we actua
 
 How do they get started? How well do they collaborate? Do they accept input or ignore it? Do they over-think, or are they sloppy? There's no better way to get a feel for what it's like to work with someone than to _actually work with them_. I've found that 90 minutes working with someone in this scenario is _very_ reflective of what _always_ working with someone is like.
 
-**Encourage pragmatism.**
+## Encourage pragmatism.
 
 Most software developer candidates want to show that they know how to do the work _and_ that they know how to do it _right_. But in this scenario, they've got no time for that. I like to set expectations early on what the point of the exercise is (see above), and that things like code quality and unit tests are neither expected or beneficial.
 
