@@ -1031,3 +1031,8 @@ entries:
     author: Simon Winchester
     isbn: "0060839783"
     started: 2022-05-27
+
+  - title: The Call of the Wild
+    author: Jack London
+    url: https://www.gutenberg.org/ebooks/215
+    started: 2022-06-01
