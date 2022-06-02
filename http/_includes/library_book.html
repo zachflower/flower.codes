@@ -38,7 +38,7 @@
             {%- endif -%}
         {%- endif -%}
 
-        <a href='{{source_url}}' target="_blank">{{book.title}}{% if book.series and book.number %} ({{book.series}} #{{book.number}}){% endif %}</a> by {{book.author}}
+        <a href='{{source_url}}'>{{book.title}}{% if book.series and book.number %} ({{book.series}} #{{book.number}}){% endif %}</a> by {{book.author}}
     {%- endif -%}
 {%- endcapture -%}
 
