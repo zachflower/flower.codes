@@ -1036,3 +1036,11 @@ entries:
     author: Jack London
     url: https://www.gutenberg.org/ebooks/215
     started: 2022-06-01
+    finished: 2022-06-04
+    recommended: true
+
+  - title: 2BR02B
+    author: Kurt Vonnegut
+    url: https://www.gutenberg.org/ebooks/21279
+    started: 2022-06-04
+    finished: 2022-06-04
