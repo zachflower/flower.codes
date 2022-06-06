@@ -995,6 +995,8 @@ entries:
     author: Jenny Odell
     isbn: "1612198554"
     started: 2022-05-03
+    finished: 2022-06-06
+    recommended: true
 
   - title: "X-Men: God Loves, Man Kills"
     author: Chris Claremont and Brent Anderson
@@ -1044,3 +1046,9 @@ entries:
     url: https://www.gutenberg.org/ebooks/21279
     started: 2022-06-04
     finished: 2022-06-04
+
+  - title: The Metamorphosis
+    author: Franz Kafka
+    url: https://gutenberg.org/ebooks/5200
+    started: 2022-06-04
+    finished: 2022-06-05
