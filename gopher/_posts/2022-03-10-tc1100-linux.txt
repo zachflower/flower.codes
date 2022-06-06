@@ -3,7 +3,6 @@ layout: post
 title: "Installing Linux on an HP TC1100 Tablet Computer"
 date: 2022-03-10 15:55:39
 ---
-
 A few days ago, I found my old HP TC1100 [[https://support.hp.com/us-en/document/c00231870]] tablet computer in storage and decided to see how it held up in the decade and a half since I last used it.
 
 My daily driver back in college, this thing was the definition of a tablet computer before Apple swooped in and pretended to invent them in the form if the iPad (of which I also have and love several, before you accuse me of bias). If you haven't seen one of these things before, here's the abridged specifications:
