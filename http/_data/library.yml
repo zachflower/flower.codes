@@ -1057,3 +1057,18 @@ entries:
     author: Simon Sinek
     isbn: "9781591846444"
     started: 2022-06-06
+
+  - title: Randomize
+    author: Andy Weir
+    url: https://www.amazon.com/Randomize-Forward-collection-Andy-Weir-ebook/dp/B07VDJBKNJ
+    series: Forward Collection
+    number: 6
+    started: 2022-06-12
+    finished: 2022-06-13
+
+  - title: Ark
+    author: Veronica Roth
+    url: https://www.amazon.com/gp/product/B07VBCYYJX
+    series: Forward Collection
+    number: 1
+    started: 2022-06-13
