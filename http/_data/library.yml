@@ -1072,3 +1072,29 @@ entries:
     series: Forward Collection
     number: 1
     started: 2022-06-13
+    finished: 2022-06-13
+
+  - title: Summer Frost
+    author: Blake Crouch
+    url: https://www.amazon.com/gp/product/B07VHMRYPR
+    series: Forward Collection
+    number: 2
+    started: 2022-06-13
+    finished: 2022-06-13
+    recommended: true
+
+  - title: Emergency Skin
+    author: N.K. Jemisin
+    url: https://www.amazon.com/gp/product/B07VFMFPP4
+    series: Forward Collection
+    number: 3
+    started: 2022-06-13
+    finished: 2022-06-14
+    recommended: true
+
+  - title: You Have Arrived at Your Destination
+    author: Amor Towles
+    url: https://www.amazon.com/gp/product/B07VBCYTGR
+    series: Forward Collection
+    number: 4
+    started: 2022-06-14
