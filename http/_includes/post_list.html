@@ -4,6 +4,8 @@
   {% assign posts = site.posts %}
 {% endif %}
 
+{% assign posts = posts | where_exp: "item", "item.rss_only != true" %}
+
 {% capture current_year %}{{"now" | date: "%Y"}}{% endcapture %}
 {% assign opened_list = false %}
 

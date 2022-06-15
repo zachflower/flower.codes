@@ -2,4 +2,10 @@
 layout: page
 ---
 
+{% if page.rss_only %}
+  <p><em>Shhhhhh! This post is for RSS subscribers only. <a href="https://daverupert.com/2018/01/welcome-to-rss-club/">Look here</a> for more information (and to join in on the fun).</em></p>
+
+  <p>--</p>
+{% endif %}
+
 {{ content }}

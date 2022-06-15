@@ -5,6 +5,11 @@
   <meta name="description" content="{{ site.description }}" />
   <meta name="monetization" content="$ilp.uphold.com/prbzZ7GL6EpU" />
 
+  {% if page.rss_only %}
+    <!-- don't index rss club posts -->
+    <meta name="robots" content="noindex" />
+  {% endif %}
+
   <title>
     {%- if page.title -%}
       {{ page.title }} | {{ site.title }}
