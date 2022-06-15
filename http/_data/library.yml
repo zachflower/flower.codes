@@ -1106,3 +1106,11 @@ entries:
     series: Forward Collection
     number: 5
     started: 2022-06-14
+    finished: 2022-06-14
+
+  - title: Constance
+    author: Matthew FitzSimmons
+    isbn: "1542014263"
+    series: Constance
+    number: 1
+    started: 2022-06-15
