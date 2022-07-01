@@ -1033,6 +1033,8 @@ entries:
     author: Simon Winchester
     isbn: "0060839783"
     started: 2022-05-27
+    finished: 2022-06-25
+    recommended: true
 
   - title: The Call of the Wild
     author: Jack London
