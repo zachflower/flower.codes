@@ -1124,6 +1124,7 @@ entries:
     isbn: "0470747617"
     started: 2022-06-21
     abandoned: 2022-06-26
+    read: true
 
   - title: My Evil Mother
     author: Margaret Atwood
