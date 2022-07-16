@@ -1141,3 +1141,9 @@ entries:
     author: Gretchen Rubin
     isbn: "0385347960"
     started: 2022-07-09
+    finished: 2022-07-15
+
+  - title: The Hitchhiker's Guide to the Galaxy
+    author: Douglass Adams
+    isbn: "0345391802"
+    started: 2022-07-16
