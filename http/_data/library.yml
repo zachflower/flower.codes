@@ -1136,6 +1136,8 @@ entries:
     author: Seneca
     isbn: "153995191X"
     started: 2022-07-08
+    finished: 2022-07-16
+    recommended: true
 
   - title: Happier at Home
     author: Gretchen Rubin
