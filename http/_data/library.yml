@@ -1146,6 +1146,11 @@ entries:
     finished: 2022-07-15
 
   - title: The Hitchhiker's Guide to the Galaxy
-    author: Douglass Adams
+    author: Douglas Adams
     isbn: "0345391802"
     started: 2022-07-16
+
+  - title: Animal Farm
+    author: George Orwell
+    isbn: "0452284244"
+    started: 2022-07-18
