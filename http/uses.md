@@ -23,10 +23,7 @@ I've always loved the concept behind a [/uses](https://uses.tech/) page, but as 
 - **Libby**
 - **AddyManager**
 - **Privacy**
-- **IFTTT**
-- **1Password**
 - **TailScale**
-- **1Blocker**
 
 ## Software
 
@@ -36,7 +33,7 @@ I've always loved the concept behind a [/uses](https://uses.tech/) page, but as 
   - **PHP Intelephense**
   - **Rainbow CSV**
 - **Brave Browser**
-- **Mozilla Firefox**
+- **Mozilla Thunderbird**
 - **Microsoft Windows Subsystem for Linux**
 - **Microsoft Windows XP**
   - **RoAClient**
