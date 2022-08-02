@@ -48,7 +48,7 @@ I've always loved the concept behind a [/uses](https://uses.tech/) page, but as 
 - **Timbuk2 Custom Prospect Messenger Bag** - I found this baby at a thrift store and it's been a great work bag. Nicely organized, durable, and looks great.
 - **Korin Design ClickPack Pro** - I _also_ found this bag at a thrift store, and use it for travel and other non-work purposes. It holds a _ton_, maintains a consistent shape, and has some killer anti-theft features.
 - **Casio Data Bank Watch (Silver _and_ Gold)** - I received my first Data Bank as a gift several years ago, and I [haven't worn an Apple Watch](/2022/05/07/offline-first.html) since.
-- **Pilot G2 07 Pens** - These are the best ballpoint pens ever made.
+- **Pilot G2 Pens** - These are the best ballpoint pens ever made.
 
 ## Entertainment
 
