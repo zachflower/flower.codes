@@ -35,13 +35,14 @@ I've always loved the concept behind a [/uses](https://uses.tech/) page, but as 
   - PHP Intelephense
   - Better Comments
   - Rainbow CSV
-- **Microsoft Windows XP** - Look, I get it, Windows XP has been dead for a _very_ long time now, but it's still my absolute favorite version of Windows. I still pull out the 'ole Dell laptop when I'm feeling particularly nostalgic (which is pretty often lately) and play around.
+- **Microsoft Windows XP** - Look, I get it, Windows XP has been dead for a _very_ long time now, but it's still my absolute favorite version of Windows. I still pull out the 'ole HP Compaq tablet when I'm feeling particularly nostalgic (which is pretty often lately) and play around.
   - **New Moon** - New Moon is a modern, Windows XP compatible fork of Pale Moon, which is itself an old fork of Mozilla Firefox. Browsing the modern web on Windows XP isn't exactly the world's safest thing to do, but at least New Moon makes it possible.
   - **RoAClient** - I've been [fascinated by MUDs](https://mudcoders.com/) since the late 90's, and in many ways owe my entire career as a software engineer to them. RoAClient is _not_ the best MUD client ever made, nor is it the most polished, but it is the first one I ever used and has cemented itself as my personal favorite.
-- **Gitea**
-- **Miniflux**
-- **Drone CI**
-- **AdGuard Home**
+- **Gitea** - I've been slowly but surely migrating all of my GitHub repositories to my own self-hosted Gitea instance (including [this website](https://git.crlf.wtf/zach/flower.codes)). Definitely feels good to be more in control of my code projects.
+- **Drone CI** - After moving away from GitHub, I needed to find a replacement for GitHub Actions, and Drone has definitely fit the bill. Easy to configure and use, and (most importantly) no "build minute" limits.
+- **Miniflux** - Everyone knows that Google Reader was one of the best Google products ever released, and while Feedly is a perfectly suitable replacement, I prefer something a little more slimmed down (and private). Miniflux is my favorite option of the bunch.
+- **Reeder** - Miniflux doesn't have a mobile client, but Reeder on iOS is a fantastic alternative that can connect to Miniflux directly.
+- **AdGuard Home** - I get it, Pi-holes are all the rage lately, but AdGuard home does the same thing with a significantly better user interface. It also seems to be more stable on my Raspberry Pi than Pi-hole was.
 
 ## Services
 
