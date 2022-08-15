@@ -7,7 +7,7 @@ Hi there. I'm Zach.
 
 Welcome to my site. It's not much, but it's all mine.
 
-If you see something you like, or just want to chat, feel free to reach out via messenger, telegraph, postcard, or just plain old [email](mailto:zach@flower.codes).
+If you see something you like, or just want to chat, feel free to reach out via messenger, telegraph, postcard, or just plain old [email](&#109;&#97;&#105;&#108;&#116;&#111;&#58;%7A%61%63%68%40%66%6C%6F%77%65%72%2E%63%6F%64%65%73).
 
 Cheers :)
 
