@@ -13,7 +13,6 @@ Well, consider this my own treasure map. It's a place for me to share the places
 - [~dustin](https://tilde.town/~dustin/) the site that directly inspired my [library](/library.html) page
 - [~parimal](https://neustadt.fr/) a tribute to the creative web of the 90s
 - [~manu](https://manuelmoreale.com/) great writer, thought-provoking content
-- [~brandon](https://brandonsjournal.neocities.org/) a fellow 90's kid, forever missing the past
 - [~eric](https://ericexperiment.com/) retro computing overload
 - [~nikita](https://wiki.nikitavoloboev.xyz/) a personal wiki to get *completely* lost in
 
@@ -42,3 +41,4 @@ Well, consider this my own treasure map. It's a place for me to share the places
 - [blog.txt](https://www.curiositry.com/blog.txt) the most minimal blogging platform in the known universe
 - [Tech, Industry](https://notebook.wesleyac.com/tech-industry/) well-written article about techlash
 - [Lacero](http://www.galactanet.com/oneoff/lacero.html) great Ready Player One fan fiction by Andy Weir
+- [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) this should be a required course for all new software developers
