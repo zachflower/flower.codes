@@ -48,6 +48,6 @@ jobs:
         run: make install
       - name: build everything
         run: make
+      - uses: superfly/flyctl-actions/setup-flyctl@master
       - name: deploy it all to fly.io
-        uses: superfly/flyctl-actions/setup-flyctl@master
         run: flyctl deploy --remote-only
