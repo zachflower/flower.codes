@@ -50,4 +50,6 @@ jobs:
         run: make
       - uses: superfly/flyctl-actions/setup-flyctl@master
       - name: deploy it all to fly.io
+        with:
+          FLY_API_TOKEN: ${{ secrets.FLY_API_TOKEN }}
         run: flyctl deploy --remote-only
