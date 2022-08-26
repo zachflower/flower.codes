@@ -8,7 +8,7 @@ processes = []
 [env]
   DISABLE_FOOTER = 1
   DISABLE_HEADER = 1
-  HOSTNAME = "flower-codes.fly.dev"
+  HOSTNAME = "flower.codes"
 
 [experimental]
   allowed_public_ports = []
