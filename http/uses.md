@@ -16,7 +16,8 @@ I've always loved the concept behind a [/uses](https://uses.tech/) page, but as 
 
 ## Accessories
 
-- **Korin Design ClickPack Pro** - I found this bag at a thrift store, and use it for travel and other non-work purposes. It holds a _ton_, maintains a consistent shape, and has some killer anti-theft features.
+- **Thule EnRoute Escort 2 Backpack** - This is a nicely sized backpack with a ton of storage, reasonable organization, and a lot of thought put into keeping my stuff safe from drops and bumps.
+- **Samsonite Colombian Leather Flap-Over Messenger Bag** - I found this bag at a thrift store and I absolutely love it. It's well made, nicely designed, and very professional. I've found it to be perfect for work.
 - **Casio Data Bank Watch (Silver _and_ Gold)** - I received my first Data Bank as a gift several years ago, and I [haven't worn an Apple Watch](/2022/05/07/offline-first.html) since.
 - **Pilot G2 Pens** - These are the best ballpoint pens ever made. Period.
 
@@ -43,6 +44,7 @@ I've always loved the concept behind a [/uses](https://uses.tech/) page, but as 
 - **[SyncThing](https://syncthing.net/)** - SyncThing isn't a centralized cloud storage service, but rather a tool for automatically syncing files across many computers. It's been a great way for me to sync eBooks, music, and some other stuff across my computers without having to rely on a privacy-invading cloud provider.
 - **[Calibre](https://calibre-ebook.com/)** - Calibre is a cross-platform eBook management tool. It's a great solution for wrangling the hundreds of eBooks I've picked up over the years, and can convert between just about any format you can think of.
 - **[Calibre-Web](https://github.com/janeczku/calibre-web)** - Calibre-Web is an online frontend for Calibre. It has a nice UI, "send to Kindle" functionality, and allows me to access my Calibre database when I"m out and about.
+- **[Wallabag](https://wallabag.org/en)** - I've bounced between [Pocket](https://getpocket.com/en/), [Instapaper](https://www.instapaper.com/), and Wallabag several times over the years, but in the end I think I prefer having a self-hosted solution.
 
 ## Services
 
