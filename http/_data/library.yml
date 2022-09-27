@@ -1153,6 +1153,8 @@ entries:
     number: 1
     isbn: "0345391802"
     started: 2022-07-16
+    finished: 2022-09-26
+    recommended: true
 
   - title: Animal Farm
     author: George Orwell
