@@ -1198,3 +1198,14 @@ entries:
     author: Kenneth S. Cohen
     isbn: "0345421094"
     started: 2022-08-31
+
+  - title: The Male Pagan
+    author: John Simone
+    isbn: "9781886289079"
+    started: 2022-09-26
+    private: true
+
+  - title: The Emerald Tablets of Thoth The Atlantean
+    author: M. Doreal
+    isbn: "0966531205"
+    started: 2022-10-01
