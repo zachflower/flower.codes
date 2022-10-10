@@ -1188,6 +1188,12 @@ entries:
     started: 2022-08-01
     finished: 2022-08-03
 
+  - title: Amusing Ourselves to Death
+    author: Neil Postman
+    isbn: "014303653X"
+    started: 2022-08-16
+    abandoned: 2022-09-06
+
   - title: Asatru
     author: Erin Lale
     isbn: "9781578637027"
@@ -1198,12 +1204,12 @@ entries:
     author: Kenneth S. Cohen
     isbn: "0345421094"
     started: 2022-08-31
-    
+
   - title: A Change of Plans
     author: Dennis E. Taylor
     url: https://www.amazon.com/Change-Plans-Dennis-Taylor-ebook/dp/B07ZGL3X5W
     started: 2022-09-15
-    finished: 2022-09-15 
+    finished: 2022-09-15
 
   - title: The Male Pagan
     author: John Simone
@@ -1216,3 +1222,8 @@ entries:
     isbn: "0966531205"
     started: 2022-10-01
     finished: 2022-10-08
+
+  - title: Low Magick
+    author: Lon Milo DuQuette
+    isbn: "0738719242"
+    started: 2022-10-09
