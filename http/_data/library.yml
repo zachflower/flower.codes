@@ -838,8 +838,7 @@ entries:
 
   - title: Call of Cthulhu
     author: H.P. Lovecraft
-    isbn: "9798669574079"
-    source: amazon
+    asin: "B002WN34QU"
     started: 2022-02-10
     finished: 2022-02-13
 
@@ -1065,7 +1064,7 @@ entries:
 
   - title: Randomize
     author: Andy Weir
-    url: https://www.amazon.com/Randomize-Forward-collection-Andy-Weir-ebook/dp/B07VDJBKNJ
+    asin: "B07VDJBKNJ"
     series: Forward Collection
     number: 6
     started: 2022-06-12
@@ -1073,7 +1072,7 @@ entries:
 
   - title: Ark
     author: Veronica Roth
-    url: https://www.amazon.com/gp/product/B07VBCYYJX
+    asin: "B07VBCYYJX"
     series: Forward Collection
     number: 1
     started: 2022-06-13
@@ -1081,7 +1080,7 @@ entries:
 
   - title: Summer Frost
     author: Blake Crouch
-    url: https://www.amazon.com/gp/product/B07VHMRYPR
+    asin: "B07VHMRYPR"
     series: Forward Collection
     number: 2
     started: 2022-06-13
@@ -1090,7 +1089,7 @@ entries:
 
   - title: Emergency Skin
     author: N.K. Jemisin
-    url: https://www.amazon.com/gp/product/B07VFMFPP4
+    asin: "B07VFMFPP4"
     series: Forward Collection
     number: 3
     started: 2022-06-13
@@ -1099,7 +1098,7 @@ entries:
 
   - title: You Have Arrived at Your Destination
     author: Amor Towles
-    url: https://www.amazon.com/gp/product/B07VBCYTGR
+    asin: "B07VBCYTGR"
     series: Forward Collection
     number: 4
     started: 2022-06-14
@@ -1107,7 +1106,7 @@ entries:
 
   - title: The Last Conversation
     author: Paul Tremblay
-    url: https://www.amazon.com/gp/product/B07VDJBGRY
+    asin: "B07VDJBGRY"
     series: Forward Collection
     number: 5
     started: 2022-06-14
@@ -1130,7 +1129,7 @@ entries:
 
   - title: My Evil Mother
     author: Margaret Atwood
-    url: https://www.amazon.com/My-Evil-Mother-Short-Story-ebook/dp/B09T971KPQ
+    asin: "B09T971KPQ"
     started: 2022-07-05
     finished: 2022-07-06
 
@@ -1207,7 +1206,7 @@ entries:
 
   - title: A Change of Plans
     author: Dennis E. Taylor
-    url: https://www.amazon.com/Change-Plans-Dennis-Taylor-ebook/dp/B07ZGL3X5W
+    asin: "B07ZGL3X5W"
     started: 2022-09-15
     finished: 2022-09-15
 
@@ -1229,3 +1228,8 @@ entries:
     started: 2022-10-09
     finished: 2022-10-11
     recommended: true
+
+  - title: Bullshit Jobs
+    author: David Graeber
+    isbn: "9781501143311"
+    started: 2022-10-12

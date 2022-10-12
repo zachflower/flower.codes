@@ -18,6 +18,8 @@
     {%- else -%}
         {%- if book.url -%}
             {%- assign source_url = book.url -%}
+        {%- elsif book.asin -%}
+            {%- assign source_url = 'https://www.amazon.com/dp/' | append: book.asin -%}
         {%- else -%}
             {%- assign query = book.title | prepend: '"' | append: '"' -%}
 
