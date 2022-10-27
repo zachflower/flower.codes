@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Breathing Into Discomfort"
+title: "Breathing into Discomfort"
 date: 2022-10-27 11:36:00
 ---
 
