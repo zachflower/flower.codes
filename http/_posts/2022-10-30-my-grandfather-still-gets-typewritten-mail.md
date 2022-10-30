@@ -9,7 +9,7 @@ It was touch-and-go for a minute, but he's doing much better and was recently mo
 
 While getting personal mail is a novelty in itself in 2022, what made these particular letters so interesting was the fact that more than a few of them were typewritten... you know, like with a typewriter. Now, as funny as it would be to say that my grandpa is friends with a bunch of farm town hipsters, the much more heartwarming reality is that he and his peers haven't embraced modern technology with nearly as much vigor as younger generations have; and as a result, still connect on a much more physical and personal level.
 
-I've written about the joy of typewriters before, but when encountering the unironic and honest usage of one in the real world, I can't help but stop and appreciate them. There's something uniquely special about reading a letter that has been written using a typewriter. The boldness of each character. The feel of the impressions the letters leave when they strike the paper. The utterly perfect lack of perfection.
+I've written about the [joy of typewriters](/2020/12/14/get-a-typewriter-write-a-friend.html) before, but when encountering the unironic and honest usage of one in the real world, I can't help but stop and appreciate them. There's something uniquely special about reading a letter that has been written using a typewriter. The boldness of each character. The feel of the impressions the letters leave when they strike the paper. The utterly perfect lack of perfection.
 
 It's a truly beautiful thing.
 
