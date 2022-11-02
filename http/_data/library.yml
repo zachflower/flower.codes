@@ -1235,3 +1235,16 @@ entries:
     started: 2022-10-12
     finished: 2022-10-25
     recommended: true
+
+  - title: A Wrinkle in Time
+    author: Madeleine L'Engle
+    isbn: "9781250153272"
+    read: true
+    series: Time Quintet
+    number: 1
+    started: 2022-10-22
+
+  - title: Iron John
+    author: Robert Bly
+    isbn: "9780306824265"
+    started: 2022-11-02
