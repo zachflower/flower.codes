@@ -1,13 +1,13 @@
 entries:
-  - url: https://www.alvarez.io/posts/living-like-it-s-99/
+  - url: "https://www.alvarez.io/posts/living-like-it-s-99/"
     title: "Living Like It's 99: No Social Media, No Smartphone"
     type: article
     date: 2022-11-06
-  - url: https://l-o-o-s-e-d.net/vim-clutch
+  - url: "https://l-o-o-s-e-d.net/vim-clutch"
     title: "Vim Clutch"
     type: article
     date: 2022-11-06
-  - url: https://matt.might.net/articles/cripple-your-technology/
-    title: ""
+  - url: "https://matt.might.net/articles/cripple-your-technology/"
+    title: "Boost your productivity: Cripple your technology"
     type: article
     date: 2022-11-06
