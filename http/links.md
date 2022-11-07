@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: links
 title: Links
 regenerate: true
 ---

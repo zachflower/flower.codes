@@ -1,0 +1,47 @@
+---
+layout: page
+---
+
+{{ content }}
+
+{%- assign links_date = site.data.queue.entries | sort: "date" -%}
+
+{% assign something = false %}
+{% capture queued %}
+  <h2>Read Later</h2>
+
+  <ul>
+    {%- for link in links_date  -%}
+      {%- if link.type == 'article' -%}
+        {%- assign something = true -%}
+        <li>
+          <a href="{{link.url}}">{{link.title}}</a>
+        </li>
+      {%- endif -%}
+    {%- endfor -%}
+  </ul>
+{% endcapture %}
+
+{% if something %}
+  {{ queued }}
+{% endif %}
+
+{% assign something = false %}
+{% capture queued %}
+  <h2>Watch Later</h2>
+
+  <ul>
+    {%- for link in links_date  -%}
+      {%- if link.type == 'video' -%}
+        {%- assign something = true -%}
+        <li>
+          <a href="{{link.url}}">{{link.title}}</a>
+        </li>
+      {%- endif -%}
+    {%- endfor -%}
+  </ul>
+{% endcapture %}
+
+{% if something %}
+  {{ queued }}
+{% endif %}
