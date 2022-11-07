@@ -38,3 +38,8 @@ This story isn't about my personal triumph over self-doubt, though. It's about t
 I'm working to learn those things, but it's been a slow journey, filled with peril and fear. I still have a long way to go, but the big takeaway from this particular experience has been that the cost of _trying_ to do something can be mitigated by study (thanks again YouTube), caution (measure twice, cut once), and patience (slow is steady and steady is fast).
 
 To some, this is probably pretty small potatoes, but to me it has been pretty rewarding. While I still don't know what all the tools in my toolbelt are for (I'm pretty sure at least one of them is a screwdriver), they're at least starting to look a little less intimidating.
+
+
+--
+
+_This is post 022 of [#100DaysToOffload](https://100daystooffload.com/)_
