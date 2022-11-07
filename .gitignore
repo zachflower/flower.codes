@@ -7,3 +7,4 @@ _gopher
 .DS_Store
 vendor
 /public
+$TMPDIR
