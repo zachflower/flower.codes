@@ -35,3 +35,7 @@ entries:
     title: "You and your mind garden - Ness Labs"
     type: article
     date: 2022-11-07
+  - url: "https://earthly.dev/blog/chroot/"
+    title: "Containers are chroot with a Marketing Budget - Earthly Blog"
+    type: article
+    date: 2022-11-08
