@@ -44,11 +44,16 @@
     }
 
     hr {
-      border-top: 1px solid #ccc;
+      border-top: 1px solid #cccccc;
     }
 
     .i {
       line-height: 0;
+      background-color: #00ff00;
+    }
+
+    .i > img {
+      mix-blend-mode: hard-light;
     }
 
     pre {
@@ -85,17 +90,25 @@
 
     @media (prefers-color-scheme: dark) {
         body {
-            background: #222;
-            color: #eee;
+            background: #222222;
+            color: #eeeeee;
         }
 
         a {
-            color: #fa0;
+            color: #ffaa00;
+        }
+
+        .i {
+          background-color: #ffaa00;
+        }
+
+        .i > img {
+          mix-blend-mode: luminosity;
         }
 
         pre, blockquote {
-            background: #111;
-            border: 10px solid #333;
+            background: #111111;
+            border: 10px solid #333333;
             max-width: 100%;
             width: auto;
             padding: 20px;
@@ -103,7 +116,7 @@
         }
 
         hr {
-            border-top: 2px solid #333;
+            border-top: 2px solid #333333;
         }
     }
   -->

@@ -1243,8 +1243,25 @@ entries:
     series: Time Quintet
     number: 1
     started: 2022-10-22
+    finished: 2022-11-10
+    recommended: true
 
   - title: Iron John
     author: Robert Bly
     isbn: "9780306824265"
     started: 2022-11-02
+
+  - title: Harry Potter and the Sorcerer's Stone
+    author: J.K. Rowling
+    isbn: "3348312193"
+    read: true
+    series: Harry Potter
+    number: 1
+    started: 2022-11-16
+    finished: 2022-11-18
+    recommended: true
+
+  - title: "Four Thousand Weeks: Time Management for Mortals"
+    author: Oliver Burkeman
+    isbn: "0374159122"
+    started: 2022-11-18
