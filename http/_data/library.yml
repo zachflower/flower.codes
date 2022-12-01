@@ -1265,3 +1265,10 @@ entries:
     author: Oliver Burkeman
     isbn: "0374159122"
     started: 2022-11-18
+    finished: 2022-12-01
+    recommended: true
+
+  - title: Julie of the Wolves
+    author: Jean Craighead George
+    isbn: "0064400581"
+    started: 2022-11-21
