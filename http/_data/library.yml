@@ -1272,3 +1272,8 @@ entries:
     author: Jean Craighead George
     isbn: "0064400581"
     started: 2022-11-21
+
+  - title: The Turn of the Screw
+    author: Henry James
+    url: https://www.gutenberg.org/ebooks/209
+    started: 2022-12-01
