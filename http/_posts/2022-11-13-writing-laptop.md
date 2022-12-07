@@ -13,16 +13,15 @@ So, a few weeks ago I pulled out the old HP Pavilion dv2710us I picked up back i
 
 ![HP Pavilion dv2710us laptop, running Linux](/assets/posts/writing-laptop.jpg)
 
-Thankfully, writing doesn't exactly require a lot of computing resources, so an older machine fits the bill just fine (and one that I can't do any software development or anything on is a good way to stay focused, single-purpose technology and all). 
+Thankfully, writing doesn't exactly require a lot of computing resources, so an older machine fits the bill just fine (and one that I can't do any software development or anything on is a good way to stay focused, single-purpose technology and all).
 
 Unfortunately, after sitting in a box for so long, my old college laptop needed a little love. The first thing that clearly wasn't working was the battery (not that that was unexpected). Ordering a replacement is cheap and easy, since this particular laptop series has an abundance of parts available on eBay and other online stores. Next, I needed to replace the DVD drive, and then decided to double the memory (because RAM for a 15-year-old laptop is cheap, and 2 GB is just a little _too_ anemic for me). I also still have to replace the CMOS battery, but that can wait for the time being.
 
 With my budding laptop of Theseus, I downloaded Lubuntu and went about installing it. You may have noticed that I chose not to replace the hard drive on this thing, and that's honestly because I just got impatient. All of my writing gets backed up to a git repository, so I'm not particularly concerned about data loss, and when the HDD does eventually die, I can deal with replacing it with a proper SSD then. Waste not, want not, right?
 
-So, how exactly has writing been going on a machine that's almost old enough to drive? 
+So, how exactly has writing been going on a machine that's almost old enough to drive?
 
-![Desktop screenshot, showing an open terminal and this article in
-progress](/assets/posts/writing-laptop-screenshot.jpg)
+![Desktop screenshot, showing an open terminal and this article in progress](/assets/posts/writing-laptop-screenshot.jpg)
 
 Surprisingly well, actually! [Obsidian](https://obsidian.md) (my current notes and writing app of choice) works just fine, and I'm still relatively brushed up on my VIM-fu, so I can publish these posts to my webbed site whenever I need to. It's definitely had a forcing function to it, since my bad habit of distracting myself with the World Wide Web is still technically _possible_, but the modern web (and the browsers built for it) wasn't designed for such a profound lack of power. I can still do research if I need to, but it's slow and requires patience (the kind of patience I don't have when I want to just waste some time).
 
