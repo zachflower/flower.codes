@@ -48,6 +48,7 @@ You don't always know what you're going to get, but there's something about that
 Some of my favorite music has found its way to me through happenstance and chance, not careful consideration. Sure, the occasional radio hit or movie score would pique my interest, but it's the stuff that found its way into my hands without any pretext that has stuck with me. A CD I purchased because the album art looked cool, or a friend giving me an unlabeled burned CD and saying "just listen," or a local band giving out free samples on the street.
 
 When you collect music in this way, you are giving yourself over to the gods of serendipity and allowing music to discover _you_, just as much as you are discovering _it_.
+
 --
 
 _This is post 026 of [#100DaysToOffload](https://100daystooffload.com/)_
