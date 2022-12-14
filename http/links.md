@@ -1,5 +1,5 @@
 ---
-layout: links
+layout: page
 title: Links
 regenerate: true
 ---
@@ -32,6 +32,20 @@ Well, consider this my own treasure map. It's a place for me to share the places
 - [GitHub 95](https://github95.vercel.app/) github as it was meant to be viewed
 - [Old'aVista](http://oldavista.com/) a search engine for old personal websites
 - [MSCHF](https://mschf.xyz/) a fascinatingly inventive modern art collective
+
+## Podcasts
+
+- [The Daily Stoic](https://dailystoic.com/Podcast/) an inspirational daily podcast about the Stoic philosophy
+- [Coder Radio](https://coder.show/) a weekly talk show about the art and business of software development
+- [Darknet Diaries](https://darknetdiaries.com/) true stories from the dark side of the internet
+- [Imaginary Worlds](https://www.imaginaryworldspodcast.org/) a podcast about the stories we tell, and why we love them
+- [The Last Podcast on the Left](https://www.lastpodcastontheleft.com/) horror, occult, murder, and other things that go bump in the night
+- [Linux Unplugged](https://linuxunplugged.com/) an open show about Linux, powered by community
+- [Secular Buddhism](https://secularbuddhism.com/) Buddhist teachings for the secular mind
+- [Self Hosted](https://selfhosted.show/) discussion and showcase of free and open source technologies you can host yourself
+- [Soft Skills Engineering](https://softskills.audio/) a weekly advice podcast for software developers
+- [What Roman Mars Can Learn About Con Law](https://learnconlaw.com/) making sense of the world by learning Constitutional Law
+- [Wizard and the Bruiser](https://www.lastpodcastnetwork.com/wizard-and-the-bruiser/) deep dives into all things geek culture
 
 ## Miscellaneous
 
