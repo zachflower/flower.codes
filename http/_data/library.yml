@@ -1272,8 +1272,15 @@ entries:
     author: Jean Craighead George
     isbn: "0064400581"
     started: 2022-11-21
+    finished: 2022-12-16
+    recommended: true
 
   - title: The Turn of the Screw
     author: Henry James
     url: https://www.gutenberg.org/ebooks/209
     started: 2022-12-01
+
+  - title: Alice's Adventures in Wonderland
+    author: Lewis Carroll
+    isbn: "9781904808442"
+    started: 2022-12-18
