@@ -1279,8 +1279,24 @@ entries:
     author: Henry James
     url: https://www.gutenberg.org/ebooks/209
     started: 2022-12-01
+    finished: 2022-12-26
 
   - title: Alice's Adventures in Wonderland
     author: Lewis Carroll
     isbn: "9781904808442"
     started: 2022-12-18
+
+  - title: Along Came a Spider
+    author: James Patterson
+    isbn: "0446364193"
+    series: Alex Cross
+    number: 1
+    started: 2022-12-24
+    abandoned: 2022-12-28
+  
+  - title: The Authorities
+    author: Scott Meyer
+    isbn: "0986239968"
+    series: The Authorities
+    number: 1
+    started: 2022-12-28
