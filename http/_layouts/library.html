@@ -53,9 +53,11 @@ layout: page
     </ol>
   {%- endcapture -%}
 
+  {%- if goal.goal -%}
   <p>
-    <strong>Goal: {{ total_read  }} of {{ goal.goal | default: 0 }}</strong>
+    <strong>Goal: {{ total_read  }} of {{ goal.goal }}</strong>
   </p>
+  {%- endif -%}
 
   {%- if something_read -%}
     {{ read }}

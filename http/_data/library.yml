@@ -1,10 +1,10 @@
 goals:
+  - year: 2023
   - year: 2022
     goal: 50
   - year: 2021
     goal: 20
   - year: 2020
-    goal: 0
 
 entries:
   - title: The Art of Happiness
@@ -1293,10 +1293,20 @@ entries:
     number: 1
     started: 2022-12-24
     abandoned: 2022-12-28
-  
+
   - title: The Authorities
     author: Scott Meyer
     isbn: "0986239968"
     series: The Authorities
     number: 1
     started: 2022-12-28
+    finished: 2022-01-30
+    recommended: true
+
+  - title: Destructive Reasoning
+    author: Scott Meyer
+    isbn: "1950056074"
+    series: The Authorities
+    number: 2
+    started: 2023-12-31
+    finished: 2023-01-01
