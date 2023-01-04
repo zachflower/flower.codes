@@ -1311,3 +1311,9 @@ entries:
     number: 2
     started: 2023-12-31
     finished: 2023-01-01
+
+  - title: Meditations
+    author: Marcus Aurelius
+    isbn: "0812968255"
+    started: 2023-01-03
+    read: true
