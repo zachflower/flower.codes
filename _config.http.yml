@@ -25,9 +25,6 @@ description: Impostor.
 baseurl: ""
 url: "http://flower.codes"
 
-source: http
-destination: _http
-
 # Build settings
 markdown: UncommonMark
 disable_disk_cache: true
