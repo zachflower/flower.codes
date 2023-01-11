@@ -1,0 +1,36 @@
+name: degrade images
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build_and_deploy:
+    runs-on: ubuntu-latest
+    name: build and deploy
+    steps:
+      - uses: actions/checkout@v2
+      - name: run degrade script
+        shell: bash
+        run: make degrade
+      - name: commit changes
+        id: commit
+        shell: bash
+        run: |
+          git config --local user.email "action[bot]@github.com"
+          git config --local user.name "github-actions[bot]"
+
+          git add ./http/assets/posts
+
+          if [ -z "$(git status --porcelain)" ]; then
+             echo "::set-output name=push::false"
+          else
+             git commit -m "[bot] degraded newly added images"
+             echo "::set-output name=push::true"
+          fi
+      - name: push commit
+        if: steps.commit.outputs.push == 'true'
+        uses: ad-m/github-push-action@master
+        with:
+           github_token: ${{ secrets.GITHUB_TOKEN }}
