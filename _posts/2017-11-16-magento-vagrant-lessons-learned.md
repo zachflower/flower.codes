@@ -5,7 +5,7 @@ date:   2017-11-16 12:00:00
 ---
 Let's get this out of the way first: Magento is by far the single-most inefficient framework I have ever had the displeasure of working with.
 
-While I've made a similar statement about [Craft CMS](https://flower.codes/tutorials/2017/02/27/speed-up-craft-admin.html) in the past, after a week working with Magento 2 I happily rescind my earlier Craft criticisms. All whining aside, though, in the contract development game you don't always get to choose your technology stack; like it or not, the work has to get done and the bills have to get paid.
+While I've made a similar statement about [Craft CMS](/2017/02/27/speed-up-craft-admin.html) in the past, after a week working with Magento 2 I happily rescind my earlier Craft criticisms. All whining aside, though, in the contract development game you don't always get to choose your technology stack; like it or not, the work has to get done and the bills have to get paid.
 
 What we _do_ get to choose, in most situations, is our toolset. One tool I am unnecessarily passionate about is [Vagrant](https://www.vagrantup.com/). For the uninitiated, Vagrant is a virtual machine orchestration platform that is used by development teams to automate the creation and management of development environments; in other words, Vagrant makes life easier.
 

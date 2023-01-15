@@ -12,7 +12,7 @@ I loved it, and it wasn't long before that mystery turned into curiosity, and th
 
 The Internet of the nineties and early aughts made me who I am today, but _that_ place no longer exists. Somewhere along the way it became something... else. The Wild West was tamed, and the signal eventually gave way to noise. Corporations capitalized on the instant access to their ~~victims~~ customers, and the attention economy was born.
 
-I write a lot about my relationship with [modern technology](https://flower.codes/2022/05/02/i-hate-my-smartphone.html). As a member of the generation that grew up _during_ the proliferation of The Internet, I have a very confusing set of childhood memories. Ones where I spent all my time outside, while somehow _also_ spending all my time in front of a computer.
+I write a lot about my relationship with [modern technology](/2022/05/02/i-hate-my-smartphone.html). As a member of the generation that grew up _during_ the proliferation of The Internet, I have a very confusing set of childhood memories. Ones where I spent all my time outside, while somehow _also_ spending all my time in front of a computer.
 
 I think the isolation of The Internet to the beige box in our home office kept my relationship with it pretty healthy. I got to learn and explore, experiment and tinker, but at the end of the day my connection with it was cut off. It wasn't in my pocket, or on my nightstand, or _in my television_.
 

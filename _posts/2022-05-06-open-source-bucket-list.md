@@ -60,7 +60,7 @@ What made this so exciting was that, while I contributed a much-desired feature 
 
 ### Vagrant: Custom Vagrantfile Templates
 
-While I've mostly moved over to Docker for managing developer environments, I've always been a [_huge_ fan of Vagrant](https://flower.codes/2015/10/17/why-vagrant-is-the-best.html). It has that wonderful combination of both simple and powerful that I love, so contributing back to it was pretty high on my list.
+While I've mostly moved over to Docker for managing developer environments, I've always been a [_huge_ fan of Vagrant](/2015/10/17/why-vagrant-is-the-best.html). It has that wonderful combination of both simple and powerful that I love, so contributing back to it was pretty high on my list.
 
 A gap in the Vagrant feature set that I noticed was the lack of Vagrantfile "templates." For the uninitiated, a Vagrantfile defines exactly _how_ the underlying virtual machine should be provisioned, and I often found myself copying and pasting the same general set of instructions over for every project I used.
 
@@ -70,7 +70,7 @@ The solution that I came up with was a templating system that allowed you to ini
 
 ### Vagrant: Vagrant Aliases
 
-Still on the Vagrant train, another feature that I'm particularly proud of contributing is "Aliases." [Vagrant Aliases](https://flower.codes/2020/05/15/introduction-to-vagrant-aliases.html), a feature that was inspired by both Git aliases and Bash aliases, is exactly what it sounds like: the ability to define additional Vagrant commands as aliases (for example, `vagrant destroy` executing `rm -rf .vagrant`).
+Still on the Vagrant train, another feature that I'm particularly proud of contributing is "Aliases." [Vagrant Aliases](/2020/05/15/introduction-to-vagrant-aliases.html), a feature that was inspired by both Git aliases and Bash aliases, is exactly what it sounds like: the ability to define additional Vagrant commands as aliases (for example, `vagrant destroy` executing `rm -rf .vagrant`).
 
 **Pull Request**: https://github.com/hashicorp/vagrant/pull/9504
 
